@@ -1,5 +1,7 @@
 # Moment of Force
 
+Turning effect of a force
+
 > $$
 \begin{aligned}
   M &= Fd \\

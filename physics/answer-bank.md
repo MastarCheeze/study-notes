@@ -26,6 +26,14 @@ Force of gravity acting on an object
     - Liquid - slide over each other
     - Gas - move randomly and quickly
 
+### Why liquids/solids hard to compress?
+- Molecules close together
+- Large repulsive forces
+
+### Why liquids expand more than solid / gas expand more than liquid?
+- Forces between molecules stronger/weaker
+- More/less energy to separate molecules
+
 ### What is Brownian motion?
 - *Molecules* move randomly
 - *Molecules* move fast
@@ -35,6 +43,9 @@ Force of gravity acting on an object
 
 ### Why forward force changes when maintaining uniform acceleration?
 Friction increases as speed increases
+
+### What is limit of proportionality
+Extension proportional to load (obey Hooke's Law) up to this limit
 
 ### How is pressure formed?
 - Molecules move randomly
@@ -48,11 +59,15 @@ Friction increases as speed increases
 ### What is power?
 Rate of doing work
 
-### What is thermal capacity?
+### What is specific thermal capacity?
 Energy needed to raise temperature by 1˚C
 
 ### What is internal energy?
 Total kinetic and potential energy of all molecules
+
+### What is specific latent heat of fusion/vaporisation?
+- Amount of energy **transferred**
+- To melt or freeze / boil or condense
 
 ### How does evaporation cool?
 - Molecules with high KE escape at surface of liquid
@@ -60,6 +75,10 @@ Total kinetic and potential energy of all molecules
     - lower **average** KE
     - lower speed
     - lower temperature
+
+### Why metals conduct heat?
+- Ions in lattice vibrate, transfer energy to neighbouring ions & electrons
+- Mobile electrons propagate through metal, high energy
 
 ### What is transverse wave?
 Oscillations perpendicular to direction of travel
@@ -89,6 +108,9 @@ Region where force acts on a charge
 ### What is magnetic field?
 Region which magnetic pole experiences force
 
+### What is e.m.f.?
+Energy supplied to drive 1C of charge
+
 ### How is current/voltage induced?
 - **Magnetic field lines cut**
 - Current/voltage **induced**
@@ -103,16 +125,12 @@ Region which magnetic pole experiences force
 - Current/voltage **induced**
 
 ### How to demagnetise a magnet?
-Connect to AC and slowly reduce current to 0
+Place magnet in coil with AC, slowly reduce current to 0
 
 ### How does potential divider work?
 - Resistance of *resistor* increase/decrease
 - Voltage of midpoint increase/decrease
 - Current that flows through *output component* increase/decrease
-
-### Why metals conduct heat?
-- Mobile electrons move through metal, high energy
-- Ions in lattice vibrate
 
 ### What is potential divider?
 - Divides voltage
@@ -126,5 +144,9 @@ Connect to AC and slowly reduce current to 0
 
 ### Why is isotope stable?
 Fewer excess neutrons in nucleus
+
+### How to determine distance of celestial object from Earth?
+- Redshift
+- Brightness
 
 # Paper 6
