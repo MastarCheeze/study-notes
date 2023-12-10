@@ -43,3 +43,19 @@ $$
 $$
 
 ![Graphical representation of completing the square](images/completing-the-square.png)
+
+## Inequalities
+
+<p></p>
+Steps:
+
+- $x$ must be +ve
+- RHS = 0
+- Draw number line
+  |                                                                                            |          |
+  | :----------------------------------------------------------------------------------------- | :------: |
+  | ![Solutions for greater than to quadratic equations](images/quad-numline-gt.png)           | ${\gt0}$ |
+  | ![Solutions for greater than or equal to quadratic equations](images/quad-numline-geq.png) | $\geq0$  |
+  | ![Solutions for less than to quadratic equations](images/quad-numline-lt.png)              |  $\lt0$  |
+  | ![Solutions for less than or equal to quadratic equations](images/quad-numline-leq.png)    | $\leq 0$ |
+- Form 1-2 equations from number line
