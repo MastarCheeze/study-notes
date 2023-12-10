@@ -1,64 +1,54 @@
 # Progressions and Series
 
-Progression → pattern of numbers
-
+Progression → pattern of numbers \
 Series → sum of a pattern of numbers
 
 ## Arithmetic
 
-Addition \(\+\)
-
-- ![ql_c750636d14b8a04e68beb514a9549f45_l3_copy.png](image/ql_c750636d14b8a04e68beb514a9549f45_l3_copy.png)
-
-a → first term
-
-l → last term
-
-d → common difference
+> **Addition (+)** \
+> ![Arithmetic progression](images/progression-arithmetic.png) \
+> d = common difference
 
 ### Progression
 
-![image-2.png](image/image-2.png)
+$$T_n = a+d(n-1)$$
+
 
 ### Series
 
-![image-3.png](image/image-3.png)
+$$S_n = n\left(\frac{T_0+T_n}{2}\right)$$
 
-### Average
+### Average (mean)
 
-![image-8.png](image/image-8.png)
+$$\mathrm{ave} = \frac{T_a+T_b}{2}$$
 
 ## Geometric
 
-Multiplication \(x\)
-
-- ![ql_c750636d14b8a04e68beb514a9549f45_l3.png](image/ql_c750636d14b8a04e68beb514a9549f45_l3.png)
-
-a → first term
-
-r → common ratio
+> **Multiplication (x)** \
+> ![Geometric progression](images/progression-geometric.png) \
+> r = common ratio
 
 ### Progression
 
-![image-4.png](image/image-4.png)
+$$T_n = ar^{n-1}$$
 
 ### Series
 
-![image-5.png](image/image-5.png)
+$$S_n = \frac{a(1-r^n)}{1-r}$$
 
 ### Infinite series
 
-![image-6.png](image/image-6.png)
+$$S_\infty = \frac{a}{1-r};~~-1<r<1$$
 
 ### Average
 
-![image-9.png](image/image-9.png)
+$$\mathrm{ave} = \pm\sqrt{T_a\cdot T_b}$$
 
 ## Proofs
 
-- [https://youtu.be/Uy\_L8tnihDM](https://youtu.be/Uy_L8tnihDM)
-    Arithmetic series
-- [https://youtu.be/Cf0\-6ngH2gs](https://youtu.be/Cf0-6ngH2gs)
-    Geometric series
-- ![image-7.png](image/image-7.png)
-    Infinite geometric series
+- Arithmetic series \
+  [Khan Academy](https://youtu.be/Uy_L8tnihDM)
+- Geometric series \
+  [Khan academy](https://youtu.be/Cf0-6ngH2gs)
+- Infinite geometric series \
+  $\displaystyle S_\infty = \lim_{n\rightarrow\infty}\frac{a(1-r^n)}{1-r};~~-1<r<1$
