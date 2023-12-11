@@ -15,6 +15,11 @@
 > Unit: Coulomb (C) \
 > 1A of charge flowing for 1s
 
+## Electric field
+
+- **Region where force acts on a charge**
+- +ve → -ve
+
 ## Electrostatic charges
 
 <p></p>

@@ -7,6 +7,13 @@
 - Examples:
     - hydrogen ions - proton ($\mathrm{H^+}$)
 
+### Strong vs weak acid
+Strong acid: H+ ions completely dissociated
+$$\mathrm{HCl} \xrightarrow{\text{100\% disassociated}} \mathrm{H^++Cl^-}$$
+
+Strong acid: H+ ions partially dissociated
+$$\mathrm{CH_3COOH} \xrightleftharpoons{\text{<100\% disassociated}} \mathrm{H^++CH_3COO^-}$$
+
 ## Base
 
 - pH > 7
@@ -15,6 +22,14 @@
     - hydroxide ions ($\mathrm{OH^-}$)
     - metal oxide
     - ammonia
+
+## Indicators
+
+| Indicator       | Acidic     | Neutral    | Alkaline |
+| --------------- | ---------- | ---------- | -------- |
+| Methyl orange   | red        | orange     | yellow   |
+| Phenolphthalein | colourless | colourless | pink     |
+| Thymolphthalein | colourless | colourless | blue     | } |
 
 # Reactions
 

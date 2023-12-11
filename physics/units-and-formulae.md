@@ -4,15 +4,15 @@
 
 ### Base units
 
-| Quantity                                               | Sym. | Unit          |
-| ------------------------------------------------------ | ---- | ------------- |
-| [Mass](./mass-and-weight.md)                           | m    | kilogram (kg) |
-| Length                                                 |      | metre (m)     |
-| Time                                                   | t    | second (s)    |
-| [Current](./current-voltage-and-resistance.md#current) | I    | ampere (A)    |
-| [Temperature](./kelvin.md)                             |      | kelvin (K)    |
-| [Amount of substance](../chemistry/moles.md)           |      | mole (mol)    |
-| Luminous intensity                                     |      | candela (cd)  |
+| Quantity                                               | Sym. | Unit                     |
+| ------------------------------------------------------ | ---- | ------------------------ |
+| [Mass](./mass-and-weight.md)                           | $m$  | kilogram $(\mathrm{kg})$ |
+| Length                                                 |      | metre $(\mathrm{m})$     |
+| Time                                                   | $t$  | second $(\mathrm{s})$    |
+| [Current](./current-voltage-and-resistance.md#current) | $I$  | ampere $(\mathrm{A})$    |
+| [Temperature](./kelvin.md)                             |      | kelvin $(\mathrm{K})$    |
+| [Amount of substance](../chemistry/moles.md)           |      | mole $(\mathrm{mol})$    |
+| Luminous intensity                                     |      | candela $(\mathrm{cd})$  |
 
 ### Derived units
 
