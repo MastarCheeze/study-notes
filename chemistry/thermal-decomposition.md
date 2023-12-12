@@ -5,8 +5,8 @@ Breakdown of compounds when heated (to sufficiently high temperatures)
 ## Metal hydroxide
 > $$
 \begin{aligned}
-  \mathrm{metal~hydroxide} &\rightarrow \mathrm{metal~oxide + water} \\
-  \mathrm{Zn(OH)_2} &\rightarrow \mathrm{ZnO + H_2O}
+  \ce{metal hydroxide &-> metal oxide + water} \\
+  \ce{Zn(OH)_2 &-> ZnO + H_2O}
 \end{aligned}
 > $$
 > Group I hydroxides (except lithium) do not decompose \
@@ -15,8 +15,8 @@ Breakdown of compounds when heated (to sufficiently high temperatures)
 ## Metal carbonate
 > $$
 \begin{aligned}
-  \mathrm{metal~carbonate} &\rightarrow \mathrm{metal~oxide + carbon~dioxide} \\
-  \mathrm{CaCO_3} &\rightarrow \mathrm{CaO + CO_2}
+  \ce{metal carbonate &-> metal oxide + carbon dioxide} \\
+  \ce{CaCO_3 &-> CaO + CO_2}
 \end{aligned}
 > $$
 > Group I carbonates (except lithium) do not decompose \
@@ -28,8 +28,8 @@ Breakdown of compounds when heated (to sufficiently high temperatures)
 
 > $$
 \begin{aligned}
-  \mathrm{metal~nitrate} &\rightarrow \mathrm{metal~oxide + nitrogen~dioxide + oxygen} \\
-  \mathrm{2Cu(NO_3)_2} &\rightarrow \mathrm{2CuO + 4NO_2 + O_2}
+  \ce{metal nitrate &-> metal oxide + nitrogen dioxide + oxygen} \\
+  \ce{2Cu(NO_3)_2 &-> 2CuO + 4NO_2 + O_2}
 \end{aligned}
 > $$
 
@@ -37,7 +37,7 @@ Breakdown of compounds when heated (to sufficiently high temperatures)
 
 > $$
 \begin{aligned}
-  \mathrm{metal~nitrate} &\rightarrow \mathrm{metal~nitrite + oxygen} \\
-  \mathrm{2NaNO_3} &\rightarrow \mathrm{2NaNO_2 + O_2}
+  \ce{metal nitrate &-> metal nitrite + oxygen} \\
+  \ce{2NaNO_3 &-> 2NaNO_2 + O_2}
 \end{aligned}
 > $$

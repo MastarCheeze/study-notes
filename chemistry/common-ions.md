@@ -6,19 +6,19 @@
 
 ## Polyatomic ions
 
-|           |                        |
-| --------- | ---------------------- |
-| Oxide     | $\mathrm{O_2\\^-}$     |
-| Hydroxide | $\mathrm{OH\\^-}$      |
-| Carbonate | $\mathrm{CO_3\\^{2-}}$ |
-| Nitrate   | $\mathrm{NO_3\\^-}$    |
-| Sulfate   | $\mathrm{SO_4\\^{2-}}$ |
-| Phosphate | $\mathrm{PO_4\\^{3-}}$ |
+|           |                |
+| --------- | -------------- |
+| Oxide     | $\ce{O_2^-}$   |
+| Hydroxide | $\ce{OH^-}$    |
+| Carbonate | $\ce{CO_3^2-}$ |
+| Nitrate   | $\ce{NO_3^-}$  |
+| Sulfate   | $\ce{SO_4^2-}$ |
+| Phosphate | $\ce{PO_4^3-}$ |
 
 ## Metal ions
 
-|        |                    |
-| ------ | ------------------ |
-| Zinc   | $\mathrm{Zn^{2+}}$ |
-| Lead   | $\mathrm{Pb^{2+}}$ |
-| Silver | $\mathrm{Ag^+}$    |
+|        |              |
+| ------ | ------------ |
+| Zinc   | $\ce{Zn^2+}$ |
+| Lead   | $\ce{Pb^2+}$ |
+| Silver | $\ce{Ag^+}$  |

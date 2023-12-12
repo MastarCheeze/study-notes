@@ -1,22 +1,22 @@
 # Reactivity Series
 
-| **Most reactive**         |
-| ------------------------- |
-| Potassium ($\mathrm{K}$)  |
-| Sodium ($\mathrm{Na}$)    |
-| Calcium ($\mathrm{Ca}$)   |
-| Magnesium ($\mathrm{Mg}$) |
-| Aluminium ($\mathrm{Al}$) |
-| Carbon ($\mathrm{C}$)     |
-| Zinc ($\mathrm{Zn}$)      |
-| Iron ($\mathrm{Fe}$)      |
-| Tin ($\mathrm{Sn}$)       |
-| Lead ($\mathrm{Pb}$)      |
-| Hydrogen ($\mathrm{H}$)   |
-| Copper ($\mathrm{Cu}$)    |
-| Silver ($\mathrm{Ag}$)    |
-| Gold ($\mathrm{Au}$)      |
-| **Least reactive**        |
+| **Most reactive**     |
+| --------------------- |
+| Potassium ($\ce{K}$)  |
+| Sodium ($\ce{Na}$)    |
+| Calcium ($\ce{Ca}$)   |
+| Magnesium ($\ce{Mg}$) |
+| Aluminium ($\ce{Al}$) |
+| Carbon ($\ce{C}$)     |
+| Zinc ($\ce{Zn}$)      |
+| Iron ($\ce{Fe}$)      |
+| Tin ($\ce{Sn}$)       |
+| Lead ($\ce{Pb}$)      |
+| Hydrogen ($\ce{H}$)   |
+| Copper ($\ce{Cu}$)    |
+| Silver ($\ce{Ag}$)    |
+| Gold ($\ce{Au}$)      |
+| **Least reactive**    |
 
 ### Memorisation
 
