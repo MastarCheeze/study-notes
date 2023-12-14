@@ -13,6 +13,8 @@
 
 ## Gravitational field strength
 
+![Orbits](images/orbits.jpeg)
+
 Depends on mass
 
 Further - Slower \

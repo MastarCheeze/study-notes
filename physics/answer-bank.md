@@ -150,3 +150,68 @@ Fewer excess neutrons in nucleus
 - Brightness
 
 # Paper 6
+
+> ## Techniques
+>
+> ### Measuring
+>
+> - Accurate to accuracy of measuring instrument - e.g. $0.50A$
+>
+> #### Matching results
+> - Values within 10% of each other
+> - $\displaystyle\mathrm{\frac{smaller~number}{larger~number}} \geq 0.9$
+>   - Equal, within **limits of experimental accuracy**
+> - $\displaystyle\mathrm{\frac{smaller~number}{larger~number}} \lt 0.9$
+>   - Not equal, beyond **limits of experimental accuracy**
+>
+> ### Graphs
+>
+> - Axes with label and unit - e.g. $R/Ω$
+> - Points spread >50% of graph
+> - Thin line of best fit, does not have to go through points
+> - Scale does not have to start at 0 (depends on question)
+> - **Predict points**
+>   - Lines on graph
+> - **Finding gradients**
+>   - Triangle method on graph
+>   - \>50% of graph
+>
+> #### Proportionality
+>
+> - Straight line
+> - Passes through origin
+
+### Why taking average is more accurate
+- Less error
+
+### Why graph is more accurate
+- Method of averaging
+- Outliers can be seen easily
+- Less error
+
+### Precautions of measuring (thermometer)
+- View scale perpendicularly
+    - Avoid parallax error
+- Stir before reading
+    - Ensure same temperature throughout liquid
+- Avoid touching sides with thermometer
+    - Temperature is different from liquid
+
+### Precautions of measuring (measuring cylinder)
+- View scale perpendicularly
+    - Avoid parallax error
+- Read bottom of meniscus
+- Ensure cylinder on horizontal surface
+
+### Precautions of ray-trace experiment
+- Pins as far apart as possible (5-15cm)
+- Thin pins
+- Thin lines drawn
+- Upright pins
+- Look at base of pins
+- Darker room / brighter light
+
+### Precautions of lens focus experiment
+- Move lens forwards/backwards *slowly*
+- Ensure object, lens & screen all perpendicular
+- Darker room / brighter light
