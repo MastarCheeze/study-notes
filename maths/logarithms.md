@@ -38,7 +38,8 @@
 > **Note**
 > $$
 \begin{aligned}
-  \log x &= \log_{10}x
+  \log x &= \log_{10}x \\
+  \ln x &= \log_{e}x
 \end{aligned}
 > $$
 
