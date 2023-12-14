@@ -4,145 +4,164 @@
 
 ## Definition
 
-limx→c f\(x\) exists if and only if
-![image.png](image/image.png)
-
-### 
+> $\displaystyle\lim_{x\rightarrow c}f(x)$ exists iff
+> $$
+\lim_{x\rightarrow c^-}f(x) = \lim_{x\rightarrow c^+}f(x)
+> $$
 
 ### A limit fails to exist
 
-- ![Pasted_Graphic.png](image/Pasted_Graphic.png)
-    At an infinite discontinuity \(vertical asymptote\)
+|                                                                          |                                                              |
+| ------------------------------------------------------------------------ | ------------------------------------------------------------ |
+| At an infinite discontinuity (vertical asymptote)                        | ![Infinite discontinuity](images/discontinuity-infinite.png) |
+| At a jump discontinuity                                                  | ![Jump discontinuity](images/discontinuity-jump.png)         |
+| With $\displaystyle\lim_{x\rightarrow\infty}$ of an oscillating function | ![Oscillating function (sine)](images/sine-graph.png)        |
 
-- ![Pasted_Graphic_1.png](image/Pasted_Graphic_1.png)
-    At a jump discontinuity
+### Epsilon-delta definition
 
-- ![Pasted_Graphic_3.png](image/Pasted_Graphic_3.png)
-    With limx→∞ of an oscillating function
+Whenever a point $x$ is within $\delta$ units of $c$, $f(x)$ is within $\epsilon$ units of $L$. \
+![Epsilon-delta definition of limits](images/epsilon-delta-definition-of-limits.png)
 
-### Epsilon\-delta definition
+## One-sided limits
 
-Whenever a point x is within δ units of c, f\(x\) is within ε units of L.
-![desmos-graph.png](image/desmos-graph.png)
+![Jump discontinuity](images/discontinuity-jump-2.png)
 
-## One\-sided limits
-
-![Pasted_Graphic_4.png](image/Pasted_Graphic_4.png)
-
-- ![image-1.png](image/image-1.png)
-    From the left \(\-\)
-
-- ![image-2.png](image/image-2.png)
-    From the right \(\+\)
+$$
+\begin{aligned}
+  \lim_{x\rightarrow3^-}f(x) &= 6 \quad \scriptsize\text{(From the left -)} \\
+  \lim_{x\rightarrow3^+}f(x) &= 2 \quad \scriptsize\text{(From the right +)}
+\end{aligned}
+$$
 
 ## Asymptotes
 
-![Pasted_Graphic_7.png](image/Pasted_Graphic_7.png)
+![Asymptotes](images/asymptotes.png)
 
-- ![image-3.png](image/image-3.png)
-    and
-    ![image-4.png](image/image-4.png)
-    Vertical asymptotes
+Vertical asymptotes
+$$
+\begin{aligned}
+  \lim_{x\rightarrow3^-}f(x) &= \infty \\
+  \lim_{x\rightarrow3^+}f(x) &= -\infty
+\end{aligned}
+$$
 
-- ![image-5.png](image/image-5.png)
-    and
-    ![image-6.png](image/image-6.png)
-    Horizontal asymptotes
+Horizontal asymptotes
+$$
+\begin{aligned}
+  \lim_{x\rightarrow\infty}f(x) &= 1 \\
+  \lim_{x\rightarrow-\infty}f(x) &= 1
+\end{aligned}
+$$
 
 # **Solving Limits**
 
-![solving-limits.png](image/solving-limits.png)
+![solving-limits.png](images/solving-limits.png)
 
 ## Properties
 
-- ![image-7.png](image/image-7.png)
-    Constant rule
+- Constant rule
+$$\lim_{x\rightarrow c}a = a$$
 
-- ![image-8.png](image/image-8.png)
-    Sum & difference rule
+- Sum & difference rule
+$$
+\begin{aligned}
+  \lim_{x\rightarrow c}[f(x)+g(x)] &= \lim_{x\rightarrow c}f(x) + \lim_{x\rightarrow c}g(x) \\
+  \lim_{x\rightarrow c}[f(x)-g(x)] &= \lim_{x\rightarrow c}f(x) - \lim_{x\rightarrow c}g(x)
+\end{aligned}
+$$
 
-- ![image-9.png](image/image-9.png)
-    Product & quotient rule
+- Product & quotient rule
+$$
+\begin{aligned}
+  \lim_{x\rightarrow c}[f(x)\cdot g(x)] &= \lim_{x\rightarrow c}f(x) \cdot \lim_{x\rightarrow c}g(x) \\
+  \lim_{x\rightarrow c}\left[\frac{f(x)}{g(x)}\right] &= \frac{\displaystyle\lim_{x\rightarrow c}f(x)}{\displaystyle\lim_{x\rightarrow c}g(x)}
+\end{aligned}
+$$
 
-- ![image-10.png](image/image-10.png)
-    Constant multiple rule
+- Constant multiple rule
+$$\lim_{x\rightarrow c}[k\cdot f(x)] = k\cdot\lim_{x\rightarrow c}f(x)$$
 
-- ![image-11.png](image/image-11.png)
-    Power rule
+- Power rule
+$$\lim_{x\rightarrow c}[f(x)^n] = \left[\lim_{x\rightarrow c}f(x)\right]^n$$
 
-- ![image-12.png](image/image-12.png)
-    Composite rule
+- Composite rule
+$$\lim_{x\rightarrow c}f(g(x)) = f\left(\lim_{x\rightarrow c}g(x)\right)$$
 
 ## Important Limits
 
-- ![image-13.png](image/image-13.png)
-- ![image-14.png](image/image-14.png)
-- ![image-15.png](image/image-15.png)
-- ![image-16.png](image/image-16.png)
+$$
+\begin{aligned}
+  \lim_{x\rightarrow 0^+}\frac{1}{x} &= \infty \\
+  \lim_{x\rightarrow 0^-}\frac{1}{x} &= -\infty \\
+  \lim_{x\rightarrow \infty}\frac{1}{x} &= 0 \\
+  \lim_{x\rightarrow -\infty}\frac{1}{x} &= 0 \\
+  \\
+  \lim_{x\rightarrow 0}\frac{\sin x}{x} &= \lim_{x\rightarrow 0}\frac{x}{\sin x} &= 1 \\
+  \lim_{x\rightarrow 0}\frac{\cos x-1}{x} &= \lim_{x\rightarrow 0}\frac{1-\cos x}{x} &= 1 \\
+  \lim_{x\rightarrow \infty}\left(1+\frac{1}{x}\right)^x &= e \approx 2.718
+\end{aligned}
+$$
 
-- ![image-17.png](image/image-17.png)
-- ![image-18.png](image/image-18.png)
-- ![image-19.png](image/image-19.png)
+## Limits at infinity $\scriptsize(\lim_{x\rightarrow\infty})$
 
-## Limits at infinity \(limx→∞\)
+Limit of
 
-### Polynomial / Constant
+#### Polynomial / Constant
 
-∞ or \-∞
+$\infty$ or $-\infty$
 
-### Rational functions
+#### Rational functions
 
 Multiply numerator and denominator by 1 / highest power of x and simplify
 
+<p></p>
 Shortcut:
 
-- Degree of numerator \> degree of denominator
+- $\text{degree of numerator} > \text{degree of denominator}$
     - No horizontal asymptote
-    - Limit = ∞ or \-∞
-- Degree of numerator \< degree of denominator
-    - limx→∞ f\(x\) = limx→\-∞ f\(x\) = 0
-- Degree of numerator = degree of denominator
-    - limx→∞ f\(x\) = limx→\-∞ f\(x\) = coefficient of highest power of x in denominator / coefficient of highest power of x in numerator
-    - If the highest power is odd, for ∞ the answer is positive, for \-∞ the answer is negative
-    - If the highest power is even, the answer is always positive
+    - Limit = $\infty$ or $-\infty$
+- $\text{degree of numerator} < \text{degree of denominator}$
+    - $\displaystyle\lim_{x\rightarrow\infty}f(x) = \lim_{x\rightarrow-\infty}f(x) = 0$
+- $\text{degree of numerator} = \text{degree of denominator}$
+    - $$\lim_{x\rightarrow\infty}f(x) = \lim_{x\rightarrow-\infty}f(x) = \frac{\small\text{coefficient of highest power of x in denominator}}{\small\text{coefficient of highest power of x in numerator}}$$
+    - If the highest power is odd, for $\infty$ the limit is positive, for $-\infty$ the limit is negative
+    - If the highest power is even, the limit is always positive
 
-### sin x / x
+#### sin x / x
 
-![image-20.png](image/image-20.png)
+$$\lim_{x\rightarrow\infty}\frac{\sin x}{x} = \lim_{x\rightarrow-\infty}\frac{\sin x}{x} = 0$$
 
 ## Sandwich Theorem
 
+![Sandwich theorem](images/sandwich-theorem.png)
+
 If
-![image-21.png](image/image-21.png)
+$$f(x) \leq g(x) \leq h(x)$$
 
 and
-![image-22.png](image/image-22.png)
+$$\lim_{x\rightarrow c}f(x) = \lim_{x\rightarrow c}h(x) = L$$
 
 then
-![image-23.png](image/image-23.png)
-
-### 
-
-### A sandwich
-
-![Pasted_Graphic_7-1.png](image/Pasted_Graphic_7-1.png)
+$$\lim_{x\rightarrow c}g(x) = L$$
 
 ## L'Hôpital's Rule
 
 If
-![image-25.png](image/image-25.png)
+$$\frac{f(x)}{g(x)} = \frac{0}{0} \enspace\text{or}\enspace \frac{\infty}{\infty} \enspace\text{or } -\frac{\infty}{\infty}$$
 
-Then
-![image-26.png](image/image-26.png)
+then
+$$\lim_{x\rightarrow c}\frac{f(x)}{g(x)}=\lim_{x\rightarrow c}\frac{f'(x)}{g'(x)}$$
 
 ## Proofs
 
-- [https://youtu.be/w70af5Ou70M](https://youtu.be/w70af5Ou70M)
-    [https://youtu.be/0sCttufU\-jQ](https://youtu.be/0sCttufU-jQ)
-    [https://youtu.be/kfF40MiS7zA?t=292](https://youtu.be/kfF40MiS7zA?t=292)
-    Epsilon\-delta definition of limits
-- ### limx→∞ \(sin x / x\)
-    [https://youtu.be/sjLFl7Z8W\_I?t=220](https://youtu.be/sjLFl7Z8W_I?t=220)
-    [https://youtu.be/nViVR1rImUE](https://youtu.be/nViVR1rImUE)
-- [https://youtu.be/SIB4WDYF5DQ](https://youtu.be/SIB4WDYF5DQ)
-    L'Hôpital's Rule \(0/0\)
+- Epsilon-delta definition of limits \
+  [Khan Academy (1)](https://youtu.be/w70af5Ou70M) \
+  [Khan Academy (2)](https://youtu.be/0sCttufU-jQ) \
+  [3B1B](https://youtu.be/kfF40MiS7zA?t=292)
+
+- $\lim_{x\rightarrow\infty}(\frac{\sin x}{x})$ \
+  [The Organic Chemistry Tutor](https://youtu.be/sjLFl7Z8W_I?t=220) \
+  [NancyPi](https://youtu.be/nViVR1rImUE)
+
+- L'Hôpital's Rule $(\frac{0}{0})$ \
+  [3B1B](https://youtu.be/SIB4WDYF5DQ)

@@ -4,22 +4,32 @@
 
 ### Equation of line
 
-![image-4.png](image/image-4.png)
+$$
+\begin{aligned}
+  y &= mx + c \\
+  y - y_1 &= m(x - x_1)
+\end{aligned}
+$$
 
 ### Gradient of line
 
-![image-1.png](image/image-1.png)
+$$m = \frac{y_2-y_1}{x_2-x_1} = \frac{\Delta y}{\Delta x}$$
 
 ## Geometric
 
 ### Length of line
 
-![image.png](image/image.png)
+$$l = \sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$$
 
 ### Midpoint of two points
 
-![image-2.png](image/image-2.png)
+$$M\left(\frac{x_1+x_2}{2}, \frac{y_1+y_2}{2}\right)$$
 
 ### Gradient of perpendicular line
 
-![image-3.png](image/image-3.png)
+$$
+\begin{aligned}
+  m_1 \cdot m_2 &= -1 \\
+  m_1 &= -\frac{1}{m_2}
+\end{aligned}
+$$
