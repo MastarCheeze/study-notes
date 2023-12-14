@@ -81,8 +81,13 @@ $$
 - Constant multiple rule
 $$\lim_{x\rightarrow c}[k\cdot f(x)] = k\cdot\lim_{x\rightarrow c}f(x)$$
 
-- Power rule
-$$\lim_{x\rightarrow c}[f(x)^n] = \left[\lim_{x\rightarrow c}f(x)\right]^n$$
+- Power & root rule
+$$
+\begin{aligned}
+  \lim_{x\rightarrow c}~[f(x)]^n &= \left[\lim_{x\rightarrow c}f(x)\right]^n \\
+  \lim_{x\rightarrow c}\sqrt[n]{f(x)} &= \sqrt[n]{\lim_{x\rightarrow c}f(x)}
+\end{aligned}
+$$
 
 - Composite rule
 $$\lim_{x\rightarrow c}f(g(x)) = f\left(\lim_{x\rightarrow c}g(x)\right)$$
