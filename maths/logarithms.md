@@ -35,7 +35,12 @@
   \end{aligned}
   $$
 
-Note: $\log x = \log_{10}x$
+> **Note**
+> $$
+\begin{aligned}
+  \log x &= \log_{10}x
+\end{aligned}
+> $$
 
 ## Proofs
 - Change of base rule \
