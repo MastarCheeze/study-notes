@@ -16,7 +16,12 @@ $$T_n = a+d(n-1)$$
 
 ### Series
 
-$$S_n = n\left(\frac{T_0+T_n}{2}\right)$$
+$$
+\begin{aligned}
+  S_n &= n\left(\frac{T_0+T_n}{2}\right) \\
+  &= n\left(\frac{2a+d(n-1)}{2}\right)
+\end{aligned}
+$$
 
 ### Average (mean)
 
