@@ -23,6 +23,8 @@
 - Receiver transmit back data
 - If same, no error
 
+<br>
+
 > ### Automatic repeat request (ARQ)
 >
 > 1. Packet sent
@@ -34,9 +36,11 @@
 >       If has error, sends acknowledgement
 > 4. If timeout, continue or send packet again
 
+<br>
+
 ## During data entry
 
-## Check digit
+### Check digit
 
 1. Before entry, check digit is calculated (by computer)
 2. During entry, check digit stored together with data

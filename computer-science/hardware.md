@@ -2,7 +2,7 @@
 
 # Components <small><sup><sub>(Von Neumann architecture)</sub></sup></small>
 
-- **CPU (central processing unit)**
+- **CPU**
     - CU (control unit)
     - ALU (arithmetic logic unit)
     - Registers
@@ -26,13 +26,10 @@
         - Magnetic
         - Optical
         - Solid-state
-- **Network**
-    - NIC (network interface card)
-    - Router
 
 <br>
 
-# CPU
+# CPU[^CPU]
 
 > Input \
 > Process data and instructions \
@@ -94,10 +91,10 @@ If RAM is full
 <p></p>
 When page is needed
 
-3. Space made available in RAM
+2. Space made available in RAM
    - Send another page to CPU to process
    - Send another page to virtual memory
-4. Page needed is sent back to RAM
+3. Page needed is sent back to RAM
 
 <br>
 
@@ -117,12 +114,12 @@ When page is needed
 
 > Directly accessed by CPU
 
-| RAM                                                                                                       | ROM                                                                                                                 |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| <p></p>Volatile<ul><li>Temporary storage</li><li>Contents are lost when power is turned off</li></ul><br> | <p></p>Non-volatile<ul><li>Permanent storage</li><li>Contents are preserved even when power is turned off</li></ul> |
-| Stores data currently in use<br><br><br>                                                                  | <p></p>Stores startup instructions<ul><li>Bootstrap</li><li>BIOS</li></ul>                                          |
-| Contents constantly changing                                                                              | Contents fixed<br><br>                                                                                              |
-| Can increase amount of RAM                                                                                | Cannot increase amount of ROM                                                                                       |
+| RAM                                                                                                   | ROM                                                                                                                 |
+| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| <p></p>Volatile<ul><li>Temporary storage</li><li>Contents are lost when power is turned off</li></ul> | <p></p>Non-volatile<ul><li>Permanent storage</li><li>Contents are preserved even when power is turned off</li></ul> |
+| Stores data currently in use                                                                          | <p></p>Stores startup instructions<ul><li>Bootstrap</li><li>BIOS</li></ul>                                          |
+| Contents constantly changing                                                                          | Contents fixed                                                                                                      |
+| Can increase amount of RAM                                                                            | Cannot increase amount of ROM                                                                                       |
 
 ## Secondary
 
@@ -142,54 +139,6 @@ When page is needed
 
 <br>
 
-# Network
-
-## Router
-
-> Routes data to a specific destination on a network
-
-- Connects local network to the internet
-- Assigns dynamic IP address
-
-## NIC
-
-> Component for connecting to networks
-
-## MAC address[^MAC]
-
-> Unique identifier \
-> Assigned to NIC by manufacturer
-
-> `34:4D:EA:89:75:B2`
-
-- Hexadecimal
-- Separated by colons
-- Manufacturer code + serial code
-
-## IP address[^IP]
-
-> Unique address
-
-### Static
-
-> Assigned by ISP (internet service provider) \
-> Does not change
-
-### Dynamic
-
-> Assigned by router \
-> Changes each time device connects to network
-
-### Types of IP addresses
-
-| IPv4                 | IPv6                        |
-| -------------------- | --------------------------- |
-| `12.244.233.165`     | `2001:0db8::ff00:0042:7879` |
-| 32-bit               | 128-bit                     |
-| Separated by periods | Separated by colons         |
-
-<br>
-
 # Videos
 
 - FDE cycle \
@@ -197,6 +146,5 @@ When page is needed
 
 <br>
 
+[^CPU]: Central Processing Unit
 [^FDE]: Fetch-Decode-Execute
-[^MAC]: Media Access Control
-[^IP]: Internet Protocol

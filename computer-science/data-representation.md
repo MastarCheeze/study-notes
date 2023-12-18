@@ -47,14 +47,14 @@
 - Faster upload/download time
 - Less bandwith required
 
-#### Lossless
+### Lossless
 
 > Reduce file size without permanent loss of data
 
 - Perceptual music shaping
     - Removes sounds that cannot be heard by the human ear
 
-#### Lossy
+### Lossy
 
 > Reduce file size by permanently removing data
 

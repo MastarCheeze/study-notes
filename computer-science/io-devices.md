@@ -30,6 +30,8 @@
 | Proximity      | Distance (using echo)                    |
 | Temperature    |                                          |
 
+<br>
+
 # Output devices
 
 - Speaker
