@@ -28,12 +28,12 @@ A derivative fails to exist:
 
 - Constant rule
   $$\frac{d}{dx}[k] = 0$$
-- Power rule
-  $$\frac{d}{dx}[x^n] = nx^{n-1}$$
-- Sum & difference rule
-  $$\frac{d}{dx}[f(x) + g(x)] = f'(x) + g'(x)$$
 - Constant multiple rule
   $$\frac{d}{dx}[k \cdot f(x)] = k \cdot f'(x)$$
+- Sum & difference rule
+  $$\frac{d}{dx}[f(x) + g(x)] = f'(x) + g'(x)$$
+- Power rule
+  $$\frac{d}{dx}[x^n] = nx^{n-1}$$
 - Product rule
   $$\frac{d}{dx}[f(x) \cdot g(x)] = f'(x)\cdot g(x) + g'(x)\cdot f(x)$$
 - Quotient rule

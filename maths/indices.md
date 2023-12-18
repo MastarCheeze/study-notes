@@ -29,35 +29,42 @@ $$
 
 ## Example Questions
 
-1. Same base \
-   $\displaystyle
-    3^x = 27 \\
-    3^x = 3^3 \\
-    x = 3$
+1. Same base
+   $$
+   \begin{aligned}
+     3^x &= 27 \\
+     3^x &= 3^3 \\
+     x &= 3
+   \end{aligned}
+   $$
 
-2. Different base \
-   $\displaystyle
-    3^x = 2 \\
-    x = \log_32$
+2. Different base
+   $$
+   \begin{aligned}
+     3^x &= 2 \\
+     x &= \log_32
+   \end{aligned}
+   $$
 
-3. 5x+1 - 5x = 8
-    5x • 5 - 5x = 8
-    let y = 5x
-    5y - y = 8
-    y = 2
-    5x = 2
-    x = log5 2
-    Sub with y (linear)
+3. Single term (linear)
+   $$
+   \begin{aligned}
+     5^{x+1}-5^x &= 8 \\
+     5(5^x)-5^x &= 8 \\
+     4(5^x) &= 8 \\
+     5^x &= 2 \\
+     x &= \log_52
+   \end{aligned}
+   $$
 
-4. 9x - 3x+1 = 4
-    32x - 3x • 3 - 4 = 0
-    let y = 3x
-    y2 - 3y - 4 = 0
-    (y - 4)(y + 1) = 0
-    → y = 4
-    3x = 4
-    x = log3 4
-    → y = -1
-    3x = -1
-    (no solution)
-    Sub with y (quadratic)
+4. Single term (quadratic)
+   $$
+   \begin{aligned}
+     9^x-3^{x+1} &= 4 \\
+     (3^{x})^2-3(3^x) -4 &= 0 \\
+     (3^x-4)(3^x+1) &= 0 \\
+     \text{(1)} \quad 3^x &= 4 \\
+     x &= \log_34 \\
+     \text{(2)} \quad 3^x &= -1 \quad \text{(no solution)} \\
+   \end{aligned}
+   $$
