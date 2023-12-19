@@ -1,34 +1,59 @@
 # Cyber Security
 
+- [Cyber Threats](#cyber-threats)
+   - [Brute-force Attack](#brute-force-attack)
+   - [Data Interception](#data-interception)
+   - [DDoS Attack\[^DDoS\]](#ddos-attackddos)
+   - [Hacking](#hacking)
+   - [Malware](#malware)
+   - [Pharming](#pharming)
+   - [Phishing](#phishing)
+   - [Social Engineering](#social-engineering)
+- [Prevention](#prevention-8)
+   - [Strong password](#strong-password)
+   - [Anti-malware](#anti-malware)
+   - [Two-step verification](#two-step-verification)
+   - [Firewall](#firewall)
+   - [Proxy server](#proxy-server)
+   - [Access levels](#access-levels)
+
+<br>
+
+# Cyber Threats
+
 ## Brute-force Attack
 
 > Repeatedly guessing password until correct one is found
 
 #### Prevention
-- Strong password
-- Biometrics (e.g. fingerprints)
-- Limiting password tries
 - [Two-step verification](#two-step-verification)
+- [Strong password](#strong-password)
+- Biometrics (e.g. fingerprints)
 
 ## Data Interception
 
-> Packets are intercepted and examined using **packet sniffers**
+> Packets are intercepted and monitored using **packet sniffers**
 
 #### Prevention
 - [HTTPS](./internet.md#https)
 
 ## DDoS Attack[^DDoS]
 
-> Flood server with requests using **botnet** \
-> to cause it to crash
+> Deny people access to website \
+> by crashing it
 
 1. **Malware** is sent to computer
 2. Computer becomes **bot**
    - Dormant computer: **zombie**
    - Network of bots: **botnet**
+3. During attack: \
+   Server flooded with numerous requests at the same time \
+   using botnet
+4. Server unable to respond, crash
 
 #### Prevention
 - [Proxy server](#proxy-server)
+- [Firewall](#firewall)
 - [Anti-malware](#anti-malware)
 
 ## Hacking
@@ -38,10 +63,10 @@
 
 #### Prevention
 - [Firewall](#firewall)
-- Automatic software updates
-- Strong password
-- Biometrics (e.g. fingerprints)
 - [Two-step verification](#two-step-verification)
+- [Strong password](#strong-password)
+- Biometrics (e.g. fingerprints)
+- Automatic software updates
 
 ## Malware
 
@@ -96,6 +121,11 @@
 
 # Prevention
 
+## Strong password
+
+- Changing regularly
+- Limiting number of tries
+
 ## Anti-malware
 
 <p></p>
@@ -126,9 +156,10 @@ Also
 
 ## Firewall
 
-> Examine traffic from a computer or network
+> Monitors traffic from a computer or network
 
 - Reject data from passing through
+   - If criteria is met
 - Close unused ports
 
 #### Used for
@@ -137,7 +168,7 @@ Also
 
 ## Proxy server
 
-> Examines requests sent to web server
+> Monitors requests sent to web server
 
 - Limit rate of requests if too many
 - Caching - stop repeated requests from same IP address

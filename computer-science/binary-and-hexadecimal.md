@@ -60,3 +60,14 @@ Converting:
 - Takes up less space
 - Easier to read, write and understand
 - Easier to debug
+
+## Uses
+
+- Colour codes
+- ASCII/Unicode
+- Error codes
+- Debugging
+- IP address
+- Memory address
+- Assembly
+- URLs

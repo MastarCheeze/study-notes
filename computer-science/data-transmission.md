@@ -8,7 +8,7 @@
 ## Parallel
 
 - Multiple wires
-- Multiple bits at the same time
+- Multiple bits simultaneously
 
 <br>
 

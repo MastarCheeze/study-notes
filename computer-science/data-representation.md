@@ -51,13 +51,13 @@
 
 > Reduce file size without permanent loss of data
 
-- Perceptual music shaping
-    - Removes sounds that cannot be heard by the human ear
+- Run length encoding (RLE)
+    - Groups together repeating patterns
+    - Indexes them
 
 ### Lossy
 
 > Reduce file size by permanently removing data
 
-- Run length encoding (RLE)
-    - Groups together repeating patterns
-    - Indexes them
+- Perceptual music shaping
+    - Removes sounds that cannot be heard by the human ear

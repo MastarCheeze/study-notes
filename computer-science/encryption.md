@@ -1,13 +1,13 @@
 # Encryption
 
-- **Plain text** scrambled into **cipher text** with **encryption key**
+- **Plain text** *scrambled* into **cipher text** with **encryption key** (algorithm)
 - Data can be stolen, but cannot be understood
 
 ### Symmetric
 
-Encrypt and decrypt with same key
+- Encrypt and decrypt with same key
 
 ### Asymmetric
 
-Encrypt with public key \
-Decrypt with private key
+- Encrypt with public key
+- Decrypt with private key

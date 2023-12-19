@@ -43,7 +43,8 @@
 ## MAC address[^MAC]
 
 > Unique identifier (for NIC) \
-> Assigned to NIC by manufacturer
+> Assigned to NIC by manufacturer \
+> Static
 
 > `34:4D:EA:89:75:B2`
 
@@ -88,14 +89,16 @@ $$\large\underbrace{\textsf{https}}_{\text{protocol}}\textsf{://www.}\underbrace
 ### HTTPS[^HTTPS]
 
 > Secure version of HTTP \
-> Encrypts data
+> HTTP + SSL = HTTPS
 
-- Digital certificates
-    - To prove that website is authentic
-    - Awarded by certificate authority
-- SSL (secure sockets layer)
-    - Protocol that encrypts data
-    - HTTP + SSL = HTTPS
+- SSL (secure socket layer)
+    - Security protocol
+    - Encrypts data
+    - Digital certificates
+        - Authenticator
+        - Contains public key
+        - Requested by browser before allow communication
+        - Awarded by certificate authority
 - TLS (transport layer security)
     - Newer version of SSL
 
@@ -120,11 +123,11 @@ $$\large\underbrace{\textsf{https}}_{\text{protocol}}\textsf{://www.}\underbrace
 
 ### HTML[^HTML]
 
-> Create web page
+> Mark-up language to create web page
 
 ### CSS[^CSS]
 
-> Define appearance of web page
+> Define formatting/style of web page
 
 ### JavaScript
 
@@ -133,13 +136,15 @@ $$\large\underbrace{\textsf{https}}_{\text{protocol}}\textsf{://www.}\underbrace
 
 ## Cookies
 
-> File created by web browser \
-> to store data
+> Data file \
+> created/stored by web browser
 
 <p></p>
 Stores:
 
 - Login details
+- Credit card details
+- Track history (for personalised ads)
 - User preferences
 - Items in shopping cart
 
