@@ -1,5 +1,26 @@
 # Internet
 
+- [Internet](#internet)
+    - [Internet](#internet-1)
+    - [World wide web](#world-wide-web)
+    - [NIC](#nicnic)
+    - [Router](#router)
+    - [DNS](#dns)
+    - [Web server](#web-server)
+- [Addresses and Protocols](#addresses-and-protocols)
+    - [MAC address](#mac-address)
+    - [IP address](#ip-address)
+    - [URL](#urlurl)
+    - [Protocols](#protocols)
+        - [HTTP](#http)
+        - [HTTPS](#https)
+- [Web browser](#web-browser)
+    - [Scripting languages](#scripting-languages)
+    - [Cookies](#cookies)
+    - [How web pages are requested](#how-web-pages-are-requested)
+    - [How websites are authorised](#how-websites-are-authorised)
+
+
 ## Internet
 
 > Infrastructure (physical) \
@@ -34,23 +55,22 @@
 
 > Device where web pages for website are stored
 
-<br>
+<br><br>
 
----
-
-<br>
+# Addresses and Protocols
 
 ## MAC address[^MAC]
 
-> Unique identifier (for NIC) \
+> Unique identifier \
 > Assigned to NIC by manufacturer \
 > Static
 
-> `34:4D:EA:89:75:B2`
+`34:4D:EA:89:75:B2`
 
+- 48-bit
 - Hexadecimal
-- Separated by colons
 - Manufacturer code + serial code
+- Separated by colons
 
 ## IP address[^IP]
 
@@ -91,32 +111,31 @@ $$\large\underbrace{\textsf{https}}_{\text{protocol}}\textsf{://www.}\underbrace
 > Secure version of HTTP \
 > HTTP + SSL = HTTPS
 
-- SSL (secure socket layer)
+- **SSL** (secure socket layer)
     - Security protocol
     - Encrypts data
     - Digital certificates
-        - Authenticator
         - Contains public key
-        - Requested by browser before allow communication
         - Awarded by certificate authority
-- TLS (transport layer security)
+- **TLS** (transport layer security)
     - Newer version of SSL
 
-<br>
+<br><br>
 
----
+# Web browser
 
-<br>
+> <p></p>
+> Displays web pages
+>
+> - Renders HTML
+> - Runs active script
 
-## Web browser
-
-> Renders HTML and displays web pages
-
-- Address bar
-- Navigation tools
-- Bookmark
-- History
-- Multiple tabs
+- Requests web pages from web server
+- Manages protocols
+    - Authenticates website
+- Features
+    - Create tabs
+    - History & bookmarks
 - Cookies
 
 ## Scripting languages
@@ -137,7 +156,7 @@ $$\large\underbrace{\textsf{https}}_{\text{protocol}}\textsf{://www.}\underbrace
 ## Cookies
 
 > Data file \
-> created/stored by web browser
+> created/stored by browser
 
 <p></p>
 Stores:
@@ -150,31 +169,35 @@ Stores:
 
 ### Session cookies
 
-> Deleted when web browser is closed
+> Deleted when browser is closed
 
 ### Persistent cookies
 
-> Stored by web browser \
+> Stored by browser \
 > until expired or deleted by user
 
-<br>
 
----
+## How web pages are requested
 
-<br>
+1. Browser sends URL to DNS
+2. DNS sends IP address to browser
+3. Browser locates web server with IP address \
+   requests web page
+   - using HTTP/HTTPS
+4. Web server sends data to browser (HTML/CSS/JS)
+   - using HTTP/HTTPS
+5. Browser
+   - Renders HTML and CSS
+   - Runs JavaScript
 
-> ## How web pages are requested
->
-> 1. Browser sends URL to DNS
-> 2. DNS sends IP address to browser
-> 3. Browser locates web server with IP address \
->    requests web page
->    - using HTTP/HTTPS
-> 4. Web server sends data to browser (HTML/CSS/JS)
->    - using HTTP/HTTPS
-> 5. Browser
->    - Renders HTML and CSS
->    - Runs JavaScript
+## How websites are authorised
+
+1. Browser requests certificate from web server
+2. Receives copy of certificate
+3. Checks if authentic
+4. Sends signal to web server \
+   that certificate is authentic
+5. Establishes communication
 
 <br>
 

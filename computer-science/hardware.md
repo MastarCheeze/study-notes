@@ -2,6 +2,11 @@
 
 # Von Neumann Architecture
 
+## Stored program concept
+
+- **Instructions** & **data** stored in memory
+- Instructions **fetched → decoded → executed** one by one
+
 ## Components
 - **CPU**
     - [CU](#cu) (control unit)
@@ -30,7 +35,12 @@
 
 #### CU
 
-
+- Coordinates all operations in CPU
+    - Transmits control signals to all components
+        - Using [control bus](#control-bus)
+- Decodes instruction into machine code
+    - Using **instruction set** \
+      (set of commands that are understood by CPU)
 
 #### ALU
 
@@ -40,53 +50,33 @@
 
 #### PC
 
-
-
 #### MAR
-
-
 
 #### MDR
 
-
-
 #### CIR
-
-
 
 #### ACC
 
-
+- Store interim values calculated by [ALU](#alu)
 
 #### Data bus
 
-
+- Bi-directional
 
 #### Address bus
 
-
+- Uni-directional
 
 #### Control bus
 
-
+- Bi-directional
 
 #### Core
 
-
-
 #### Cache
 
-
-
 #### Clock
-
-
-
-
-## Stored program concept
-
-- **Instructions** & **data** stored in memory
-- Instructions **fetched → decoded → executed** one by one
 
 <br>
 
@@ -97,12 +87,6 @@
 > Output
 
 ## FDE cycle[^FDE]
-
-> <p></p>
-> <b><a href="#cu">CU</a></b> coordinates all operations in CPU
->
-> - Transmits control signals to all components
-> - Using [control bus](#control-bus)
 
 ### Fetch
 
@@ -120,13 +104,11 @@
 
 ### Decode
 
-6. **[CU](#cu)** decodes instruction into machine code
-   - Using **instruction set** \
-     (set of commands that are understood by CPU)
+1. **[CU](#cu)** decodes instruction into machine code
 
 ### Execute
 
-7. **[ALU](#alu)** performs mathematical/logical operations (if needed)
+7. **[ALU](#alu)** performs calculations (if needed)
 8. **[ACC](#acc)** stores interim values created by calculations
 
 ## Performance
@@ -177,9 +159,9 @@ When page is needed
 
 | RAM                                                                                                   | ROM                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| <p></p>Volatile<ul><li>Temporary storage</li><li>Contents are lost when power is turned off</li></ul> | <p></p>Non-volatile<ul><li>Permanent storage</li><li>Contents are preserved even when power is turned off</li></ul> |
 | Stores data currently in use                                                                          | <p></p>Stores startup instructions<ul><li>Bootstrap</li><li>BIOS</li><li>Firmware</li></ul>                         |
-| Contents constantly changing                                                                          | Contents fixed                                                                                                      |
+| <p></p>Volatile<ul><li>Temporary storage</li><li>Contents are lost when power is turned off</li></ul> | <p></p>Non-volatile<ul><li>Permanent storage</li><li>Contents are preserved even when power is turned off</li></ul> |
+| Can be written to<br>Contents constantly changing                                                     | Cannot be written to<br>Contents fixed                                                                              |
 | Can increase amount of RAM                                                                            | Cannot increase amount of ROM                                                                                       |
 
 ## Secondary
@@ -193,8 +175,13 @@ When page is needed
 |                                    | Description                                                                                         | Examples                                                                 |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
 | Magnetic                           | <ul><li>Uses **electromagnets**</li><li>Spinning platters (separated into tracks/sectors)</li></ul> | <ul><li>Hard disk drive (HDD)</li></ul>                                  |
-| Optical                            | <ul><li>Uses **lasers**</li><ul><li>Pits/lands</li></ul></ul>                                       | <ul><li>CD</li><li>DVD</li><li>Blu-ray</li></ul>                         |
+| Optical                            | <ul><li>Uses **lasers**</li><ul><li>Pits/lands</li></ul></ul>                                       | <ul><li>CD[^CD]</li><li>DVD[^DVD]</li><li>Blu-ray</li></ul>              |
 | Solid-state<br>(flash&nbsp;memory) | <ul><li>Uses **transistors**<ul><li>NAND/NOR</li><li>Control/floating gates</li></ul></li></ul>     | <ul><li><nobr>Solid-state</nobr> drive (SSD)</li><li>USB stick</li></ul> |
+
+| Optical Storage | Differences                                                                                                 |
+| --------------- | ----------------------------------------------------------------------------------------------------------- |
+| CD / DVD        | <ul><li>Red laser</li><li>Less capacity</li><li>Slow transfer rate</li></ul>                                |
+| Blu-ray         | <ul><li>Blue laser</li><li>More capacity</li><li>Fast transfer rate</li><li>Has secure encryption</li></ul> |
 
 ## Cloud
 
@@ -212,3 +199,5 @@ When page is needed
 
 [^CPU]: Central Processing Unit
 [^FDE]: Fetch-Decode-Execute
+[^CD]: Compact Disc
+[^DVD]: Digital Versatile Disc

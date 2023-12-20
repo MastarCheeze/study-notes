@@ -149,6 +149,8 @@ Fewer excess neutrons in nucleus
 - Redshift
 - Brightness
 
+<br><br>
+
 # Paper 6
 
 > ## Techniques
@@ -180,6 +182,8 @@ Fewer excess neutrons in nucleus
 >
 > - Straight line
 > - Passes through origin
+
+<br>
 
 ### Why taking average is more accurate
 - Less error

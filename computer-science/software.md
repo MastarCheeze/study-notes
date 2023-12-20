@@ -1,5 +1,12 @@
 # Software
 
+- [System Software](#system-software)
+    - [OS](#os)
+    - [Interrupts](#interrupts)
+- [Application Software](#application-software)
+
+<br>
+
 ![Software dependencies (1)](images/software-dependencies-1.png) ![Software dependencies (2)](images/software-dependencies-2.png)
 
 <br>
@@ -8,10 +15,10 @@
 
 > Services that the computer requires
 
-- OS[^OS]
+- OS
 - Utility programs
 
-## OS
+## OS[^OS]
 
 | Function                                               | Description                                                                                                                                              |
 | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -29,12 +36,20 @@
 
 > Signal to processor
 
-1. Each FDE cycle, processor checks interrupt queue (IH[^IH]) for higher priority interrupt
+1. Each FDE cycle, processor checks interrupt queue ([IH](#ih)) for higher priority interrupt
 2. Stores current process
 3. Checks source of interrupt
-4. Calls ISR[^ISR]
+4. Calls [ISR](#isr)
 5. When finished, stored process returned to memory
 6. Repeat
+
+### IH[^IH]
+- Receive/manage all interrupts
+- Organises interrupts based on priorities
+
+### ISR[^ISR]
+ - Program
+ - Handles the interrupt by performing instructions
 
 #### Types of interrupts
 
@@ -70,5 +85,5 @@
 [^GUI]: Graphical User Interface
 [^peripheral]: External hardware device for input/output
 [^driver]: Software that translates data from computer to peripheral
-[^IH]: Interrupt Handler - organises interrupts based on priorities
-[^ISR]: Interrupt Service Routine - program that handles the interrupt by performing instructions
+[^IH]: Interrupt Handler
+[^ISR]: Interrupt Service Routine

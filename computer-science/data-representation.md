@@ -42,6 +42,8 @@
 
 ## Compression
 
+> Algorithm
+
 - Less storage
 - Faster transmission
 - Faster upload/download time
@@ -51,13 +53,22 @@
 
 > Reduce file size without permanent loss of data
 
+1. Finds patterns
+2. Indexes patterns
+    - Store position
+    - Store frequency
+
+<p></p>
+Example
+
 - Run length encoding (RLE)
-    - Groups together repeating patterns
-    - Indexes them
 
 ### Lossy
 
 > Reduce file size by permanently removing data
+
+<p></p>
+Example
 
 - Perceptual music shaping
     - Removes sounds that cannot be heard by the human ear

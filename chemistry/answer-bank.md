@@ -95,6 +95,8 @@ Oxidation layer on surface
 ### Uses of ammonium nitrate / ammonium phosphate
 Synthetic fertiliser
 
+<br><br>
+
 # Paper 6
 
 ### Why use white tile

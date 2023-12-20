@@ -1,21 +1,22 @@
 # Cyber Security
 
 - [Cyber Threats](#cyber-threats)
-   - [Brute-force Attack](#brute-force-attack)
-   - [Data Interception](#data-interception)
-   - [DDoS Attack\[^DDoS\]](#ddos-attackddos)
-   - [Hacking](#hacking)
-   - [Malware](#malware)
-   - [Pharming](#pharming)
-   - [Phishing](#phishing)
-   - [Social Engineering](#social-engineering)
+    - [Brute-force Attack](#brute-force-attack)
+    - [Data Interception](#data-interception)
+    - [DDoS Attack](#ddos-attack)
+    - [Hacking](#hacking)
+    - [Malware](#malware)
+    - [Pharming](#pharming)
+    - [Phishing](#phishing)
+    - [Social Engineering](#social-engineering)
 - [Prevention](#prevention-8)
-   - [Strong password](#strong-password)
-   - [Anti-malware](#anti-malware)
-   - [Two-step verification](#two-step-verification)
-   - [Firewall](#firewall)
-   - [Proxy server](#proxy-server)
-   - [Access levels](#access-levels)
+    - [Strong password](#strong-password)
+    - [Biometrics](#biometrics)
+    - [Anti-malware](#anti-malware)
+    - [Two-step verification](#two-step-verification)
+    - [Firewall](#firewall)
+    - [Proxy server](#proxy-server)
+    - [Access levels](#access-levels)
 
 <br>
 
@@ -28,7 +29,7 @@
 #### Prevention
 - [Two-step verification](#two-step-verification)
 - [Strong password](#strong-password)
-- Biometrics (e.g. fingerprints)
+- [Biometrics](#biometrics)
 
 ## Data Interception
 
@@ -47,9 +48,10 @@
    - Dormant computer: **zombie**
    - Network of bots: **botnet**
 3. During attack: \
-   Server flooded with numerous requests at the same time \
+   Web server **flooded** \
+   with **numerous** requests simultaneously \
    using botnet
-4. Server unable to respond, crash
+4. Server unable to handle, crash
 
 #### Prevention
 - [Proxy server](#proxy-server)
@@ -65,27 +67,35 @@
 - [Firewall](#firewall)
 - [Two-step verification](#two-step-verification)
 - [Strong password](#strong-password)
-- Biometrics (e.g. fingerprints)
+- [Biometrics](#biometrics)
 - Automatic software updates
 
 ## Malware
 
 > Malicious software
 
-| Malware      | Description                                                                                            |
-| ------------ | ------------------------------------------------------------------------------------------------------ |
-| Virus        | <ul><li>Replicates</li><li>Corrupts data</li><li>Uses up memory</li></ul>                              |
-| Worm         | <ul><li>Replicates</li><li>Clog up bandwidth</li></ul>                                                 |
-| Trojan horse | <ul><li>Malware disguised as harmless program</li></ul>                                                |
-| Spyware      | <ul><li>Record actions on computer<ul><li>Keylogger - records all keyboard presses</li></ul></li></ul> |
-| Adware       | <ul><li>Create ads automatically</li></ul>                                                             |
-| Ransomware   | <ul><li>Encrypt data to prevent access</li><li>Ransom to decrypt data</li></ul>                        |
+| Malware      | Description                                                                                                                                                                                                                                                             |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Virus        | <ul><li>Replicates</li><li>Corrupts data</li><li>Fills up storage space</li><li>Clogs up memory</li></ul>                                                                                                                                                               |
+| Worm         | <ul><li>Replicates</li><li>Clog up bandwidth</li></ul>                                                                                                                                                                                                                  |
+| Spyware      | <ol><li>Record actions on computer<ul><li>Keylogger - records all keyboard presses</li></ul></li><li>Data sent back to perpetrator</li><li>Perpetrator analyses data</li><li>Common pattern used to identify password</li><li>Perpetrator can log in remotely</li></ol> |
+| Ransomware   | <ul><li>Encrypt data to prevent access</li><li>Ransom to decrypt data</li></ul>                                                                                                                                                                                         |
+| Adware       | <ul><li>Create ads automatically</li></ul>                                                                                                                                                                                                                              |
+| Trojan horse | <ul><li>Malware disguised as harmless program</li></ul>                                                                                                                                                                                                                 |
 
 #### Prevention
 - [Anti-malware](#anti-malware)
 - [Firewall](#firewall)
 - Download from trusted sites
 - Backup data
+
+<!---->
+
+- **Spyware**
+    - [Two-step verification](#two-step-verification)
+    - Partial password
+    - Drop-down box for password
+    - Virtual keyboard
 
 ## Pharming
 
@@ -126,45 +136,74 @@
 - Changing regularly
 - Limiting number of tries
 
-## Anti-malware
+#### Used for
+- [Brute-force attack](#brute-force-attack)
+- [Hacking](#hacking)
 
-<p></p>
-Also
+## Biometrics
 
-- Anti-virus
-- Anti-spyware
+- Unique
+- Quicker access
 
-> Scans computer for virus
+<!---->
 
-- Compare files with list of known malware
-- If malware found, put into quarantine area for deletion
+- Examples
+    - Fingerprint
+    - Facial recognition
+    - Retina recognition
+    - Voice recognition
 
 #### Used for
-- [Malware](#malware)
-- [DDoS attack](#ddos-attackddos)
-- [Pharming](#pharming)
+- [Brute-force attack](#brute-force-attack)
+- [Hacking](#hacking)
 
 ## Two-step verification
 
 > Input two different data to access device
 
 - Verification code sent to email/phone
+    - Difficult for perpetrator to obtain
 
 #### Used for
 - [Brute-force attack](#brute-force-attack)
 - [Hacking](#hacking)
 
+## Anti-malware
+
+> Scans computer for virus
+
+- Compare files with list of known malware
+- If malware found, put into quarantine area for deletion
+
+<!---->
+
+- Examples
+    - Anti-virus
+    - Anti-spyware
+
+#### Used for
+- [Malware](#malware)
+- [DDoS attack](#ddos-attack)
+- [Pharming](#pharming)
+
 ## Firewall
 
-> Monitors traffic from a computer or network
+> <p></p>
+> Monitors outgoing/incoming traffic for
+>
+> - Network (software)
+> - Computer (hardware)
 
-- Reject data from passing through
-   - If criteria is met
+- Set criteria
+    - Reject data from passing through
+    - if criteria is met
 - Close unused ports
+- Logs all attempts to access blocked websites
 
 #### Used for
 - [Malware](#malware)
 - [Hacking](#hacking)
+- [DDoS attack](#ddos-attack)
 
 ## Proxy server
 
@@ -174,7 +213,7 @@ Also
 - Caching - stop repeated requests from same IP address
 
 #### Used for
-- [DDoS attack](#ddos-attackddos)
+- [DDoS attack](#ddos-attack)
 
 ## Access levels
 

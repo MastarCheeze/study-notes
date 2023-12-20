@@ -28,14 +28,14 @@ Overflow error: calculated number is larger than storage space
 Left shift
 
 - Moves bits to the left
-- Most significant bits lost
+- Most significant bits (MSB) lost
 - Multiplies number by 2
 
 <p></p>
 Right shift
 
 - Moves bits to the right
-- Least significant bits lost
+- Least significant bits (LSB) lost
 - Divides number by 2
 
 ## Negative binary (two's complement)
@@ -64,10 +64,12 @@ Converting:
 ## Uses
 
 - Colour codes
-- ASCII/Unicode
+- ASCII / Unicode
 - Error codes
-- Debugging
-- IP address
-- Memory address
+- Memory dumps (debugging)
 - Assembly
+- Machine code
+- Memory address
+- MAC address
+- IP address
 - URLs

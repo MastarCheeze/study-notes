@@ -12,6 +12,11 @@
 
 <br>
 
+|          | Advantages                                                                                                          | Disadvantages                                                                                                                     |
+| -------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| Serial   | <ul><li>Less error<ul><li>Arrive in order</li><li>Single wire (less interference)</li></ul></li><li>Cheap</li></ul> | <ul><li>Slow</li><li>Additional data (start/stop bit)</li></ul>                                                                   |
+| Parallel | <ul><li>Fast</li></ul>                                                                                              | <ul><li>More error<ul><li>Do not arrive in order</li><li>Multiple wires (more interference)</li></ul></li><li>Expensive</li></ul> |
+
 ## Simplex
 
 - Transmission in one direction only
@@ -36,13 +41,6 @@
 
 <br>
 
-# Advantages / Disadvantages
-
-|          | Advantages                                                                                                          | Disadvantages                                                                                                                     |
-| -------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-| Serial   | <ul><li>Less error<ul><li>Arrive in order</li><li>Single wire (less interference)</li></ul></li><li>Cheap</li></ul> | <ul><li>Slow</li><li>Additional data (start/stop bit)</li></ul>                                                                   |
-| Parallel | <ul><li>Fast</li></ul>                                                                                              | <ul><li>More error<ul><li>Do not arrive in order</li><li>Multiple wires (more interference)</li></ul></li><li>Expensive</li></ul> |
-
-|     | Advantages                                                                                                                                      | Disadvantages                                                         |
-| --- | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| USB | <ul><li>Fast</li><li>Universal standard</li><li>Download drivers automatically</li><li>Can only fit one way</li><li>Can charge device</li></ul> | <ul><li>Not as fast as ethernet</li><li>Limited length (5m)</li></ul> |
+|     | Advantages                                                                                                                                                                                            | Disadvantages                                                         |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| USB | <ul><li>Fast</li><li>Supports different transmission speeds</li><li>Universal standard</li><li>Automatically detect/download drivers</li><li>Can only fit one way</li><li>Can charge device</li></ul> | <ul><li>Not as fast as ethernet</li><li>Limited length (5m)</li></ul> |
