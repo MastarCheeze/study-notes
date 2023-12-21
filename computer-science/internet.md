@@ -70,7 +70,6 @@
 - 48-bit
 - Hexadecimal
 - Manufacturer code + serial code
-- Separated by colons
 
 ## IP address[^IP]
 
@@ -88,11 +87,10 @@
 
 ### Types of IP addresses
 
-| IPv4                 | IPv6                        |
-| -------------------- | --------------------------- |
-| `12.244.233.165`     | `2001:0db8::ff00:0042:7879` |
-| 32-bit               | 128-bit                     |
-| Separated by periods | Separated by colons         |
+| IPv4             | IPv6                        |
+| ---------------- | --------------------------- |
+| `12.244.233.165` | `2001:0db8::ff00:0042:7879` |
+| 32-bit           | 128-bit                     |
 
 ## URL[^URL]
 
@@ -179,14 +177,16 @@ Stores:
 
 ## How web pages are requested
 
+<p></p>
+Using HTTP/HTTPS:
+
 1. Browser sends URL to DNS
-2. DNS sends IP address to browser
-3. Browser locates web server with IP address \
+2. IP address found on DNS
+3. DNS sends IP address to browser
+4. Browser locates web server with IP address \
    requests web page
-   - using HTTP/HTTPS
-4. Web server sends data to browser (HTML/CSS/JS)
-   - using HTTP/HTTPS
-5. Browser
+5. Web server sends data to browser (HTML/CSS/JS)
+6. Browser
    - Renders HTML and CSS
    - Runs JavaScript
 

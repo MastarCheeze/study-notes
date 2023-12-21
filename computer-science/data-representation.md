@@ -28,17 +28,17 @@
 
 ## Units
 
-|                 |            |
-| --------------- | ---------- |
-| Bit             |            |
-| Nibble          | 4 bits     |
-| Byte            | 8 bits     |
-| Kibibtye (KiB)  | 1024 bytes |
-| Mebibtye (MiB)  | 1024 KiB   |
-| Gibibtye (GiB)  | 1024 MiB   |
-| Tebibtye (TiB)  | 1024 GiB   |
-| Pebibtye (PiB)  | 1024 TiB   |
-| Exibibtye (EiB) | 1024 EiB   |
+|                 |            |                      |
+| --------------- | ---------- | -------------------- |
+| Bit             |            |                      |
+| Nibble          | 4 bits     |                      |
+| Byte            | 8 bits     |                      |
+| Kibibtye (KiB)  | 1024 bytes | 2<sup>10</sup> bytes |
+| Mebibtye (MiB)  | 1024 KiB   | 2<sup>20</sup> bytes |
+| Gibibtye (GiB)  | 1024 MiB   | 2<sup>30</sup> bytes |
+| Tebibtye (TiB)  | 1024 GiB   | 2<sup>40</sup> bytes |
+| Pebibtye (PiB)  | 1024 TiB   | 2<sup>50</sup> bytes |
+| Exibibtye (EiB) | 1024 EiB   | 2<sup>60</sup> bytes |
 
 ## Compression
 
@@ -49,9 +49,20 @@
 - Faster upload/download time
 - Less bandwith required
 
+### Lossy
+
+> Reduce file size by permanently removing data
+
+<p></p>
+Example
+
+- Perceptual music shaping
+    - Removes sounds that cannot be heard by the human ear
+
 ### Lossless
 
-> Reduce file size without permanent loss of data
+> Reduce file size without permanent loss of data \
+> Original file can be restored
 
 1. Finds patterns
 2. Indexes patterns
@@ -63,12 +74,9 @@ Example
 
 - Run length encoding (RLE)
 
-### Lossy
+<br>
 
-> Reduce file size by permanently removing data
-
-<p></p>
-Example
-
-- Perceptual music shaping
-    - Removes sounds that cannot be heard by the human ear
+|          | Advantages                          | Disadvantages                      |
+| -------- | ----------------------------------- | ---------------------------------- |
+| Lossy    | <ul><li>More compression</li></ul>  |
+| Lossless | <ul><li>Quality preserved</li></ul> | <ul><li>Less compression</li></ul> |

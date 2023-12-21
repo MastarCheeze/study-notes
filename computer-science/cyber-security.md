@@ -6,8 +6,8 @@
     - [DDoS Attack](#ddos-attack)
     - [Hacking](#hacking)
     - [Malware](#malware)
-    - [Pharming](#pharming)
     - [Phishing](#phishing)
+    - [Pharming](#pharming)
     - [Social Engineering](#social-engineering)
 - [Prevention](#prevention-8)
     - [Strong password](#strong-password)
@@ -97,23 +97,25 @@
     - Drop-down box for password
     - Virtual keyboard
 
+## Phishing
+
+> 1. Legitimate looking **email**
+> 2. User **click** link to **fake website**
+> 3. Enter personal details
+
+#### Prevention
+- Checking spelling/tone
+- Visually checking website
+
 ## Pharming
 
-> Malware \
-> redirects to fake website
+> 1. Malware
+> 2. **Redirects** to **fake website**
+> 3. Enter personal details
 
 #### Prevention
 - [Anti-malware](#anti-malware)
 - Download from trusted sites
-- Visually checking website
-
-## Phishing
-
-> Email \
-> link to fake website
-
-#### Prevention
-- Checking spelling/tone
 - Visually checking website
 
 ## Social Engineering

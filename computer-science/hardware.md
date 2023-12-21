@@ -93,11 +93,11 @@
 ![Fetch cycle](images/fetch.png)
 
 1. **[PC](#pc)** stores address of next instruction (to be processed)
-   - send to [MAR](#mar) - [Address bus](#address-bus)
+   - copied to [MAR](#mar) - [Address bus](#address-bus)
 2. **[MAR](#mar)** holds address of data/instruction (to be located in [RAM](#primary))
    - send to [RAM](#primary) - [Address bus](#address-bus)
 3. [RAM](#primary) retrieves data/instruction
-   - send to [MDR](#mdr) - [Data bus](#data-bus)
+   - copied to [MDR](#mdr) - [Data bus](#data-bus)
 4. **[MDR](#mdr)** holds address of data/instruction (fetched from [RAM](#primary))
    - send to [CIR](#cir) - [Data bus](#data-bus)
 5. **[CIR](#cir)** stores current instruction (being processed)
@@ -172,11 +172,17 @@ When page is needed
 >
 > - Has to be sent to primary storage first
 
-|                                    | Description                                                                                         | Examples                                                                 |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Magnetic                           | <ul><li>Uses **electromagnets**</li><li>Spinning platters (separated into tracks/sectors)</li></ul> | <ul><li>Hard disk drive (HDD)</li></ul>                                  |
-| Optical                            | <ul><li>Uses **lasers**</li><ul><li>Pits/lands</li></ul></ul>                                       | <ul><li>CD[^CD]</li><li>DVD[^DVD]</li><li>Blu-ray</li></ul>              |
-| Solid-state<br>(flash&nbsp;memory) | <ul><li>Uses **transistors**<ul><li>NAND/NOR</li><li>Control/floating gates</li></ul></li></ul>     | <ul><li><nobr>Solid-state</nobr> drive (SSD)</li><li>USB stick</li></ul> |
+|                                            | Description                                                                                                                                                                                                          | Examples                                                                 |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Magnetic                                   | <ul><li>Read/write head<br>**electromagnetic**</li><li>Spinning platters (separated into tracks/sectors)</li><li>Data stored as dots</li><ul><li>Magnetised = 1</li><li><nobr>Demagnetised = 0</nobr></li></ul></ul> | <ul><li>Hard disk drive (HDD)</li><li>Magnetic tape</li></ul>            |
+| Optical                                    | <ul><li>Uses **lasers**</li><ul><li>Pits/lands</li></ul></ul>                                                                                                                                                        | <ul><li>CD[^CD]</li><li>DVD[^DVD]</li><li>Blu-ray</li></ul>              |
+| <nobr>Solid-state</nobr><br>(flash memory) | <ul><li>Data flashed onto silicon chips</li><li>Uses **transistors**<ul><li>NAND/NOR<br>(flip-flop)</li><li>Control/floating gates</li><li>Control electron flow</li></ul></li><li>EEPROM technology</li></ul>       | <ul><li><nobr>Solid-state</nobr> drive (SSD)</li><li>USB stick</li></ul> |
+
+|             | Advantages                                                                                                                                                                      | Disadvantages |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Magnetic    | <ul><li>Cheaper per storage unit</li><li>Longetivity</li></ul>                                                                                                                  |
+| Solid-state | <ul><li>Faster read/write speed</li><li>Energy efficient</li><li>Runs cooler</li><li>Portable (no moving parts)</li><li>Lighter</li><li>Smaller size per storage unit</li></ul> |
+
 
 | Optical Storage | Differences                                                                                                 |
 | --------------- | ----------------------------------------------------------------------------------------------------------- |
