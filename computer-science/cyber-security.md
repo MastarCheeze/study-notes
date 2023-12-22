@@ -1,14 +1,14 @@
 # Cyber Security
 
 - [Cyber Threats](#cyber-threats)
-    - [Brute-force Attack](#brute-force-attack)
-    - [Data Interception](#data-interception)
-    - [DDoS Attack](#ddos-attack)
+    - [Brute-force attack](#brute-force-attack)
+    - [Data interception](#data-interception)
+    - [DDoS attack](#ddos-attack)
     - [Hacking](#hacking)
     - [Malware](#malware)
     - [Phishing](#phishing)
     - [Pharming](#pharming)
-    - [Social Engineering](#social-engineering)
+    - [Social engineering](#social-engineering)
 - [Prevention](#prevention-8)
     - [Strong password](#strong-password)
     - [Biometrics](#biometrics)
@@ -22,7 +22,7 @@
 
 # Cyber Threats
 
-## Brute-force Attack
+## Brute-force attack
 
 > Repeatedly guessing password until correct one is found
 
@@ -31,14 +31,14 @@
 - [Strong password](#strong-password)
 - [Biometrics](#biometrics)
 
-## Data Interception
+## Data interception
 
 > Packets are intercepted and monitored using **packet sniffers**
 
 #### Prevention
 - [HTTPS](./internet.md#https)
 
-## DDoS Attack[^DDoS]
+## DDoS attack[^DDoS]
 
 > Deny people access to website \
 > by crashing it
@@ -118,7 +118,7 @@
 - Download from trusted sites
 - Visually checking website
 
-## Social Engineering
+## Social engineering
 
 > Manipulating/deceiving people
 
@@ -143,6 +143,8 @@
 - [Hacking](#hacking)
 
 ## Biometrics
+
+> Biological data
 
 - Unique
 - Quicker access
@@ -191,14 +193,15 @@
 ## Firewall
 
 > <p></p>
-> Monitors outgoing/incoming traffic for
+> Monitors incoming/outgoing traffic for
 >
 > - Network (software)
 > - Computer (hardware)
 
-- Set criteria
-    - Reject data from passing through
-    - if criteria is met
+- Set criteria (blacklist/whitelist)
+    - Compare data with criteria
+    - Reject data from passing through \
+      if criteria is met
 - Close unused ports
 - Logs all attempts to access blocked websites
 

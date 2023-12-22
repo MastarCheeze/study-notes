@@ -148,12 +148,9 @@
 1. Document placed on glass panel
 2. Light illuminates document
 3. Scan head moves across whole document
-4. Image of document produced \
-   Sent to lens using mirrors
-5. Lens focus image
-6. onto CCD (charged couple device) \
-   consists of integrated circuits
-7. Software produces digital image
+4. Light captured using mirrors/lenses
+5. CCD (charged couple device) detects light
+6. Software produces digital image
 
 ### 3D scanner
 

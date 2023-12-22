@@ -1,13 +1,28 @@
 # Data Representation
 
+- [Text](#text)
+    - [ASCII](#ascii)
+    - [Unicode](#unicode)
+- [Images](#images)
+    - [JPEG](#jpeg)
+- [Sound](#sound)
+    - [MIDI](#midi)
+    - [MP3](#mp3)
+- [Video](#video)
+    - [MP4](#mp4)
+- [Units](#units)
+- [Compression](#compression)
+    - [Lossy](#lossy)
+    - [Lossless](#lossless)
+
 ## Text
 
-#### ASCII
+### ASCII
 
 - 8-bit binary
 - 256 characters
 
-#### Unicode
+### Unicode
 
 - 16-bit binary
 - 65536 characters
@@ -19,12 +34,38 @@
 - Colour depth
     - Number of bits used to represent each colour
 
+### JPEG[^JPEG]
+
+> Lossy compression
+
+- Reduce resolution
+
 ## Sound
 
 - Sample rate
     - Number of samples taken per second
 - Sample resolution
     - Number os bits used to represent each sample
+
+### MIDI[^MIDI]
+
+- Protocol \
+  Electronic musical instruments to interact with each other
+- Stored as series of demands (no music notes)
+- 8-bit serial transmission
+
+### MP3
+
+> Lossy compression
+
+- Perceptual music shaping
+    - Removes sounds that cannot be heard by the human ear
+
+## Video
+
+### MP4
+
+<br><br>
 
 ## Units
 
@@ -53,12 +94,6 @@
 
 > Reduce file size by permanently removing data
 
-<p></p>
-Example
-
-- Perceptual music shaping
-    - Removes sounds that cannot be heard by the human ear
-
 ### Lossless
 
 > Reduce file size without permanent loss of data \
@@ -80,3 +115,8 @@ Example
 | -------- | ----------------------------------- | ---------------------------------- |
 | Lossy    | <ul><li>More compression</li></ul>  |
 | Lossless | <ul><li>Quality preserved</li></ul> | <ul><li>Less compression</li></ul> |
+
+<br>
+
+[^JPEG]: Joint Photographic Experts Group
+[^MIDI]: Musical Instrument Digital Format

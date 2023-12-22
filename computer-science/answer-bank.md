@@ -18,6 +18,10 @@
 
 <br>
 
+### Why can computers only process binary?
+- Transistors
+- Can only store 0 and 1
+
 ### What is off-line storage?
 - Non-volatile
 - Not directly accessed by CPU
@@ -27,7 +31,6 @@
     - Flash drive
 
 ### How is data accidentally lost?
-
 - Physical damage
 - Hardware failure
 - Software failure
@@ -37,19 +40,23 @@
 - Ejecting drive incorrectly
 
 ### How to prevent accidental data loss?
-
 - Backup
 - Protection case
+- Update software
 - Surge protection (UPS[^UPS])
 - Verify when delete file
 - Eject drive correctly
 
 ### Why are cookies concerning
-
 - Data collection
 - Privacy concern
 - Identity theft
 - Sensitive information stolen
+
+### Why separate presentation from structure?
+- Change formatting without changing structure
+- Formatting can be reused
+- Standardise formatting across web pages
 
 <br><br>
 

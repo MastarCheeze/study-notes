@@ -10,7 +10,7 @@
 - [Addresses and Protocols](#addresses-and-protocols)
     - [MAC address](#mac-address)
     - [IP address](#ip-address)
-    - [URL](#urlurl)
+    - [URL](#url)
     - [Protocols](#protocols)
         - [HTTP](#http)
         - [HTTPS](#https)
@@ -142,6 +142,11 @@ $$\large\underbrace{\textsf{https}}_{\text{protocol}}\textsf{://www.}\underbrace
 
 > Mark-up language to create web page
 
+| Structure                   | Presentation                                  |
+| --------------------------- | --------------------------------------------- |
+| Layout                      | Formatting                                    |
+| <ul><li>Placement</li></ul> | <ul><li>Colours</li><li>Font family</li></ul> |
+
 ### CSS[^CSS]
 
 > Define formatting/style of web page
@@ -181,7 +186,7 @@ Stores:
 Using HTTP/HTTPS:
 
 1. Browser sends URL to DNS
-2. IP address found on DNS
+2. DNS looks up **matching** IP address
 3. DNS sends IP address to browser
 4. Browser locates web server with IP address \
    requests web page

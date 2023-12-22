@@ -8,7 +8,7 @@
 - Instructions **fetched → decoded → executed** one by one
 
 ## Components
-- **CPU**
+- [**CPU**](#cpu)
     - [CU](#cu) (control unit)
     - [ALU](#alu) (arithmetic logic unit)
     - Registers
@@ -24,7 +24,7 @@
     - [*Core*](#core)
     - [*Cache*](#cache)
     - [*Clock*](#clock)
-- **Storage**
+- [**Storage**](#storage)
     - Primary
         - [RAM](#primary) (random access memory)
         - [ROM](#primary) (read only memory)
@@ -82,9 +82,8 @@
 
 # CPU[^CPU]
 
-> Input \
-> Process data and instructions \
-> Output
+> Process **data** and **instructions** \
+> Perform **calculations** and **logical operations**
 
 ## FDE cycle[^FDE]
 
@@ -94,11 +93,11 @@
 
 1. **[PC](#pc)** stores address of next instruction (to be processed)
    - copied to [MAR](#mar) - [Address bus](#address-bus)
-2. **[MAR](#mar)** holds address of data/instruction (to be located in [RAM](#primary))
+2. **[MAR](#mar)** temporarily holds address of data/instruction (to be located in [RAM](#primary))
    - send to [RAM](#primary) - [Address bus](#address-bus)
 3. [RAM](#primary) retrieves data/instruction
    - copied to [MDR](#mdr) - [Data bus](#data-bus)
-4. **[MDR](#mdr)** holds address of data/instruction (fetched from [RAM](#primary))
+4. **[MDR](#mdr)** temporarily holds address of data/instruction (fetched from [RAM](#primary))
    - send to [CIR](#cir) - [Data bus](#data-bus)
 5. **[CIR](#cir)** stores current instruction (being processed)
 
@@ -155,7 +154,7 @@ When page is needed
 
 ## Primary
 
-> Directly accessed by CPU
+> **Directly accessed by CPU**
 
 | RAM                                                                                                   | ROM                                                                                                                 |
 | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
@@ -166,22 +165,22 @@ When page is needed
 
 ## Secondary
 
-> Permanent data storage (non-volatile)
+> **Permanent** data storage (**non-volatile**)
 > <p></p>
-> Cannot be directly accessed by CPU
+> <b>Cannot be directly accessed by CPU</b>
 >
 > - Has to be sent to primary storage first
 
-|                                            | Description                                                                                                                                                                                                          | Examples                                                                 |
-| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Magnetic                                   | <ul><li>Read/write head<br>**electromagnetic**</li><li>Spinning platters (separated into tracks/sectors)</li><li>Data stored as dots</li><ul><li>Magnetised = 1</li><li><nobr>Demagnetised = 0</nobr></li></ul></ul> | <ul><li>Hard disk drive (HDD)</li><li>Magnetic tape</li></ul>            |
-| Optical                                    | <ul><li>Uses **lasers**</li><ul><li>Pits/lands</li></ul></ul>                                                                                                                                                        | <ul><li>CD[^CD]</li><li>DVD[^DVD]</li><li>Blu-ray</li></ul>              |
-| <nobr>Solid-state</nobr><br>(flash memory) | <ul><li>Data flashed onto silicon chips</li><li>Uses **transistors**<ul><li>NAND/NOR<br>(flip-flop)</li><li>Control/floating gates</li><li>Control electron flow</li></ul></li><li>EEPROM technology</li></ul>       | <ul><li><nobr>Solid-state</nobr> drive (SSD)</li><li>USB stick</li></ul> |
+|                                            | Description                                                                                                                                                                                                             | Examples                                                                                            |
+| ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Magnetic                                   | <ul><li>Read/write arm with<br>**electromagnets**</li><li>Spinning platters (separated into tracks/sectors)</li><li>Data stored as dots</li><ul><li>Magnetised = 1</li><li><nobr>Demagnetised = 0</nobr></li></ul></ul> | <ul><li>Hard disk drive (HDD)</li><li>Magnetic tape</li></ul>                                       |
+| Optical                                    | <ul><li>Read/write arm with<br>**lasers** + **sensors**</li><ul><li>Burn pits</li><li>Read pits/lands<br>using reflections</li></ul></ul>                                                                               | <ul><li>CD[^CD]</li><li>DVD[^DVD]</li><li>Blu-ray</li></ul>                                         |
+| <nobr>Solid-state</nobr><br>(flash memory) | <ul><li>Data flashed onto silicon chips</li><li>Uses **transistors**<ul><li>NAND/NOR<br>(flip-flop)</li><li>Control/floating gates</li><li>Control electron flow</li></ul></li><li>EEPROM technology</li></ul>          | <ul><li><nobr>Solid-state</nobr> drive (SSD)</li><li>USB flash drive</li><li>SD card[^SD]</li></ul> |
 
-|             | Advantages                                                                                                                                                                      | Disadvantages |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Magnetic    | <ul><li>Cheaper per storage unit</li><li>Longetivity</li></ul>                                                                                                                  |
-| Solid-state | <ul><li>Faster read/write speed</li><li>Energy efficient</li><li>Runs cooler</li><li>Portable (no moving parts)</li><li>Lighter</li><li>Smaller size per storage unit</li></ul> |
+|             | Advantages                                                                                                                                                                 | Disadvantages |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Magnetic    | <ul><li>Cheaper per storage unit</li><li>Longetivity</li></ul>                                                                                                             |
+| Solid-state | <ul><li>Faster read/write speed</li><li>Low power consumption</li><li>Runs cooler</li><li>Portable (no moving parts)<br>Lighter<br>Smaller size per storage unit</li></ul> |
 
 
 | Optical Storage | Differences                                                                                                 |
@@ -207,3 +206,4 @@ When page is needed
 [^FDE]: Fetch-Decode-Execute
 [^CD]: Compact Disc
 [^DVD]: Digital Versatile Disc
+[^SD]: Secure Digital
