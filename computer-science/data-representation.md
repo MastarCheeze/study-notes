@@ -99,7 +99,7 @@
 > Reduce file size without permanent loss of data \
 > Original file can be restored
 
-1. Finds patterns
+1. Finds **repeating** patterns
 2. Indexes patterns
     - Store position
     - Store frequency

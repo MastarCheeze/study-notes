@@ -17,19 +17,20 @@
 
 - OS
 - Utility programs
+    -
 
 ## OS[^OS]
 
-| Function                                               | Description                                                                                                                                              |
-| ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Providing an interface                                 | <ul><li>GUI[^GUI]<ul><li>Windows, icons, menus and pointers (WIMP)</li></ul></li><li>Command line interface</li><li>Natural language interface</li></ul> |
-| Managing files                                         | <ul><li>Create, delete, move, copy, rename files/folders</li></ul>                                                                                       |
-| Managing memory                                        | <ul><li>Make sure processes have enough memory allocated</li><li>Prevent two processes from accessing same memory location</li></ul>                     |
-| Managing multitasking                                  | <ul><li>Decide<ul><li>which process should be executed next</li><li>how long they can execute before switching</li></ul></li></ul>                       |
-| Managing interrupts                                    | <ul><li>Decides which interrupt to run</li></ul>                                                                                                         |
-| Managing peripherals[^peripheral] and drivers[^driver] | <ul><li>Install drivers</li></ul>                                                                                                                        |
-| Providing a platform for applications                  | <ul><li>Fetch application software instructions and execute</li></ul>                                                                                    |
-| Managing user accounts                                 | <ul><li>Username & password</li><li>Preferences</li><li>Restrict access / keep data separate</li></ul>                                                   |
+| Function                                               | Description                                                                                                                                                                                                                          |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Providing an interface                                 | <ul><li>GUI[^GUI]<ul><li>Windows, icons, menus and pointers (WIMP)</li></ul></li><li>Command line interface</li><li>Natural language interface</li></ul>                                                                             |
+| Managing files                                         | <ul><li>Create, delete, move, copy, rename files/folders</li></ul>                                                                                                                                                                   |
+| Managing memory                                        | <ul><li>Manage movement of data to/from RAM</li><li>Allocate enough memory for processes</li><li>Prevent two processes from accessing same memory location</li><li>Manage transfer of pages between RAM and virtual memory</li></ul> |
+| Managing multitasking                                  | <ul><li>Decide<ul><li>which process should be executed next</li><li>how long they can execute before switching</li></ul></li></ul>                                                                                                   |
+| Managing interrupts                                    | <ul><li>Decides which interrupt to run</li></ul>                                                                                                                                                                                     |
+| Managing peripherals[^peripheral] and drivers[^driver] | <ul><li>Install drivers</li></ul>                                                                                                                                                                                                    |
+| Providing a platform for applications                  | <ul><li>Fetch application software instructions and execute</li></ul>                                                                                                                                                                |
+| Managing user accounts                                 | <ul><li>Username & password</li><li>Preferences</li><li>Restrict access / keep data separate</li></ul>                                                                                                                               |
 | Providing a security system                            |
 
 ## Interrupts

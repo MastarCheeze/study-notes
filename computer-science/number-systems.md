@@ -57,7 +57,7 @@ Converting:
 
 ## Advantages
 
-- Takes up less space
+- Takes up less **screen** space
 - Easier to read, write and understand
 - Easier to debug
 

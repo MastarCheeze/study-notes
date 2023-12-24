@@ -14,7 +14,7 @@
 >    *Scenario 2*, **signal** sent to cause *action* \
 >    *Scenario 3*, no action
 > 7. **Actuator** operates *device*
-> 8. **Whole** process is **continuous** (depends)
+> 8. **Whole** process is **continuous until stopped** (depends)
 
 <br>
 

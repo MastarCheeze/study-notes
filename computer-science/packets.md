@@ -11,7 +11,9 @@
 
 ![Network for packet switching](images/packet-switching.png)
 
-1. Data broken down into packets
-2. Each packet takes different route across network \
-   Router controls route
-3. When packets arrive, reordered
+1. Data split into packets
+2. Router controls route \
+   Router chooses shortest route \
+   Each packet takes different route across network
+3. Packets arrive out of order
+4. When all packets arrive, reordered

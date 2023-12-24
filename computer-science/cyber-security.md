@@ -24,7 +24,8 @@
 
 ## Brute-force attack
 
-> Repeatedly guessing password until correct one is found
+> **Repeatedly guessing combinations of passwords until correct one is found \
+> Can be manual/automated
 
 #### Prevention
 - [Two-step verification](#two-step-verification)
@@ -47,7 +48,7 @@
 2. Computer becomes **bot**
    - Dormant computer: **zombie**
    - Network of bots: **botnet**
-3. During attack: \
+3. During attack (initiated by third party): \
    Web server **flooded** \
    with **numerous** requests simultaneously \
    using botnet
@@ -222,8 +223,12 @@
 
 ## Access levels
 
-> Limit amount of data that can be accessed \
-> by employee
+> <p></p>
+> Permissions
+>
+> - Limit data that can be read
+> - Limit data that can be edited
+> - Linked to a account / username
 
 #### Used for
 - [Social engineering](#social-engineering)

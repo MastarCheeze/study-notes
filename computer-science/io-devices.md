@@ -61,8 +61,10 @@
 
 ### Keyboard
 
-1. Each character has ASCII value
+1. Each character has unique binary value
 2. Converted into digital signal
+    - Using character map
+    - ASCII / Unicode
 
 ### Microphone
 

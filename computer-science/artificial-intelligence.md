@@ -21,9 +21,15 @@ Features
 
 > System that replicates the knowledge of an expert
 
-- Knowledge base (facts)
+- Knowledge base
+    - Stores facts (for inference engine)
 - Rule base
-- Inference engine (decisions)
+    - Stores rules (for inference engine)
+    - Link facts in knowledge base
+- Inference engine
+    - Makes decisions
+    - Apply **logic** to **facts** \
+      to provide results/diagnosis
 - Interface
 
 [^1]: Only for machine learning

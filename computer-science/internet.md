@@ -38,7 +38,7 @@
 
 ## Router
 
-> Routes data to a specific destination on a network
+> Forwards packets to a specific destination on a network
 
 - Connects local network to the internet
 - Assigns dynamic IP address
@@ -87,10 +87,15 @@
 
 ### Types of IP addresses
 
-| IPv4             | IPv6                        |
-| ---------------- | --------------------------- |
-| `12.244.233.165` | `2001:0db8::ff00:0042:7879` |
-| 32-bit           | 128-bit                     |
+| IPv4                        | IPv6                                   |
+| --------------------------- | -------------------------------------- |
+| `12.244.233.165`            | `2001:0db8::ff00:0042:7879`            |
+| 32-bit                      | 128-bit                                |
+| Denary                      | Hexadecimal                            |
+| 0-255                       | 0000-FFFF                              |
+| 4 groups of digits          | 8 groups of digits                     |
+| Separated with dots         | Separated with colons                  |
+| All 0s have to be displayed | 0000 can be omitted with double colons |
 
 ## URL[^URL]
 
@@ -128,13 +133,16 @@ $$\large\underbrace{\textsf{https}}_{\text{protocol}}\textsf{://www.}\underbrace
 > - Renders HTML
 > - Runs active script
 
-- Requests web pages from web server
+- Requests web pages from **web server**
 - Manages protocols
     - Authenticates website
-- Features
-    - Create tabs
-    - History & bookmarks
 - Cookies
+- Features
+    - Create multiple tabs
+    - History & bookmarks
+    - Nav tools
+    - Address bar
+    - Downloads
 
 ## Scripting languages
 
@@ -172,12 +180,13 @@ Stores:
 
 ### Session cookies
 
-> Deleted when browser is closed
+> Deleted when browser is closed \
+> Stored in RAM
 
 ### Persistent cookies
 
-> Stored by browser \
-> until expired or deleted by user
+> Stored until expired / deleted by user \
+> Stored in secondary storage
 
 
 ## How web pages are requested

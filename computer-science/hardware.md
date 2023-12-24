@@ -126,7 +126,7 @@
 > Partition in hard drive
 
 <p></p>
-If [RAM](#primary) is full
+If <a href="#primary">RAM</a> is full
 
 1. **Page** is sent to virtual memory
 

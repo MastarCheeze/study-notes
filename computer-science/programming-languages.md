@@ -2,12 +2,16 @@
 
 ## Low-level
 
+> Closer to machine language
+
 - Machine code
 - Assembly
     - Uses mnemonics
     - Assembler to translate into machine code
 
 ## High-level
+
+> English-like statements
 
 - Python
 - Java
@@ -24,14 +28,16 @@
 
 # Translators
 
+> High-level → machine code
+
 ## Compiler
 
-> Translates whole code at once before executing
+> Translates whole code at once before executing \
+> Produces executable file
 
 ## Interpreter
 
-> Translates/executes code line by line \
-> High-level → low-level
+> Translates/executes code line by line
 
 ## Assembler
 
@@ -46,7 +52,7 @@
 | No other software required to run                     | Interpreter software required to run          |
 | Source code not required to run                       | Source code required to run                   |
 | Code does not need re-translating each time it is run | Code needs re-translating each time it is run |
-| Reports all errors at the same time                   | Stops when error is found                     |
+| Creates **error report** with **all** errors          | Stops when error is found                     |
 
 <br>
 
