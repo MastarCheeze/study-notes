@@ -13,12 +13,12 @@ Glowing wooden splinter → relights
 ### Carbon dioxide
 
 Turns **limewater** cloudy \
-$\ce{Ca(OH)_2 + CO_2 -> CaCO_3 + H_2O}$
+$\ce{Ca(OH)2 + CO2 -> CaCO3 + H2O}$
 
 ### Ammonia
 
 Turns damp litmus paper blue \
-Forms ammonium hydroxide $(\ce{NH_4OH})$ in presence of water.
+Forms ammonium hydroxide $(\ce{NH4OH})$ in presence of water.
 
 ### Chlorine
 
@@ -34,16 +34,16 @@ Turns **acidified aqueous potassium manganate (VII)** from purple to colourless
 #### Copper (II) Sulfate
 
 Anhydrous copper (II) sulfate turns from white to blue \
-$\ce{\underset{white}{CuSO_4} + 5H_2O <=> \underset{blue}{CuSO_4.5H_2O}}$
+$\ce{\underset{white}{CuSO4} + 5H2O <=> \underset{blue}{CuSO4.5H2O}}$
 
-![Anhydrous and hydrated copper (II) sulfate](images/copper-2-sulfate.png)
+![Anhydrous and hydrated copper (II) sulfate](images/copper-ii-sulfate.png)
 
 #### Cobalt (II) chloride
 
 Anhydrous cobalt (II) chloride paper turns from blue to pink \
-$\ce{\underset{blue}{CoCl_2} + 6H_2O <=> \underset{pink}{CoCl_2.6H_2O}}$
+$\ce{\underset{blue}{CoCl2} + 6H2O <=> \underset{pink}{CoCl2.6H2O}}$
 
-![Anhydrous and hydrated cobalt (II) chloride paper](images/cobalt-2-chloride.jpeg)
+![Anhydrous and hydrated cobalt (II) chloride paper](images/cobalt-ii-chloride.jpeg)
 
 ## Flame tests
 
@@ -60,9 +60,9 @@ $\ce{\underset{blue}{CoCl_2} + 6H_2O <=> \underset{pink}{CoCl_2.6H_2O}}$
 
 ## Cation tests
 
-| Cation         | Add sodium hydroxide $\ce{NaOH}$                                                     | Add aqueous ammonia $\ce{NH_3}$                                                      |
+| Cation         | Add sodium hydroxide $\ce{NaOH}$                                                     | Add aqueous ammonia $\ce{NH3}$                                                       |
 | -------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| $\ce{NH_4^+}$  | **ammonia gas** on warming $\ce{NH_3}$                                               |                                                                                      |
+| $\ce{NH4^+}$   | **ammonia gas** on warming $\ce{NH3}$                                                |                                                                                      |
 | $\ce{Cu^{2+}}$ | **light blue** precipitate <br> insoluble in excess                                  | **light blue** precipitate <br> soluble in excess, turns dark blue                   |
 | $\ce{Fe^{2+}}$ | **green** precipitate <br> insoluble in excess, turns brown near surface on standing | **green** precipitate <br> insoluble in excess, turns brown near surface on standing |
 | $\ce{Fe^{3+}}$ | **red-brown** precipitate <br> insoluble in excess                                   | **red-brown** precipitate <br> insoluble in excess                                   |
@@ -75,7 +75,7 @@ $\ce{\underset{blue}{CoCl_2} + 6H_2O <=> \underset{pink}{CoCl_2.6H_2O}}$
 
 ### Halide ions
 
-Add dilute nitric acid ($\ce{HNO_3}$) first to remove carbonate or sulfate ions.
+Add dilute nitric acid ($\ce{HNO3}$) first to remove carbonate or sulfate ions.
 
 | Anion       | Result after adding silver nitrate $\ce{AgNO3}$ |
 | ----------- | ----------------------------------------------- |
@@ -83,17 +83,17 @@ Add dilute nitric acid ($\ce{HNO_3}$) first to remove carbonate or sulfate ions.
 | $\ce{Br^-}$ | **creamy** precipitate                          |
 | $\ce{I^-}$  | **yellow** precipitate                          |
 
-### Carbonate ion $(\ce{CO_3^2-})$
+### Carbonate ion $(\ce{CO3^2-})$
 
 Dilute acid → carbon dioxide
 
-### Nitrate ion $(\ce{NO_3^-})$
-Sodium hydroxide and aluminium foil, warm → ammonia (NH3)
+### Nitrate ion $(\ce{NO3^-})$
+Sodium hydroxide and aluminium foil, warm → ammonia $\ce{(NH3)}$
 
-### Sulfate ion $(\ce{SO_4^2-})$
+### Sulfate ion $(\ce{SO4^2-})$
 
-Barium chloride (BaCl) → white precipitate - barium sulfate (BaSO4)
+Barium chloride $\ce{(BaCl)}$ → white precipitate - barium sulfate $\ce{(BaSO4)}$
 
-### Sulfite ion $(\ce{SO_3^2-})$
+### Sulfite ion $(\ce{SO3^2-})$
 
 Acidified aqueous potassium manganate (VII) changes from purple to colourless

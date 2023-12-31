@@ -1,29 +1,34 @@
 # Permutations and Combinations
 
+## Factorial
+$$n! = n \cdot (n-1) \cdot {\dots} \cdot 2 \cdot 1$$
+
 ## Permutations
 
 With order, without replacement
-![image.png](image/image.png)
+
+$$^n\mathrm{P}_r = \frac{n!}{(n-r)!}$$
 
 ### Properties
 
-- ![image-3.png](image/image-3.png)
-- ![image-2.png](image/image-2.png)
+- $^n\mathrm{P}_1 = n$
+- $^n\mathrm{P}_n = n!$
 
 ## Combinations
 
 Without order, without replacement
-![image-1.png](image/image-1.png)
+
+$$^n\mathrm{C}_r = \begin{pmatrix}n\\r\end{pmatrix} = \frac{n!}{r!(n-r)!}$$
 
 ### Properties
 
-- ![image-4.png](image/image-4.png)
-- ![image-6.png](image/image-6.png)
-- ![image-5.png](image/image-5.png)
+- $^n\mathrm{C}_1 = n$
+- $^n\mathrm{C}_n = 1$
+- $^n\mathrm{C}_r = {}^n\mathrm{C}_{n-r}$
 
 ## Proofs
 
-- [https://youtu.be/DROZVHObeko?si=cze0Q8qvTQuWnTxN](https://youtu.be/DROZVHObeko?si=cze0Q8qvTQuWnTxN)
-    Permutations formula
-- [https://youtu.be/p8vIcmr\_Pqo?si=CuXAlP8pGxJsSsv8](https://youtu.be/p8vIcmr_Pqo?si=CuXAlP8pGxJsSsv8)
-    Combinations formula
+- Permutations \
+  [Khan Academy](https://youtu.be/DROZVHObeko?si=cze0Q8qvTQuWnTxN)
+- Combinations \
+  [Khan Academy](https://youtu.be/p8vIcmr_Pqo?si=CuXAlP8pGxJsSsv8)

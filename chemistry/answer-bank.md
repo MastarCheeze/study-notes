@@ -43,7 +43,7 @@ Proton acceptor
 
 ### What is electrolysis
 - Breakdown using electricity
-- Molten / aqueous ionic compound
+- Molten / aqueous ionic compound (electrolyte)
 
 ### What is electrolyte
 - Ionic compound
@@ -77,7 +77,7 @@ Mobile ions
 
 ### What are chemical properties of transition elements
 - Variable oxidation number
-- Forms coloured compound
+- Forms coloured compounds
 - Catalyst
 
 ### What are physical properties of transition elements
@@ -113,7 +113,7 @@ Remove water
 Smoother graph
 
 ### How to not remove bung when mixing
-- Divided flash
+- Divided flask
 - Tip to mix
 
 ### Why use pencil to draw line (chromatography)

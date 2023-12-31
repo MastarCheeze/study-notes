@@ -12,33 +12,33 @@ Temperature is constant during change of physical state (B → C, D → E) becau
 
 - A → B
     - Solid
-    - Kinetic energy ⤴️
+    - Kinetic energy ⬆
 - B → C
     - Solid → Liquid (Melting)
-    - Potential energy ⤴️
+    - Potential energy ⬆
 - C → D
     - Liquid
-    - Kinetic energy ⤴️
+    - Kinetic energy ⬆
 - D → E
     - Liquid → Gas (Boiling)
-    - Potential energy ⤴️
+    - Potential energy ⬆
 - E → F
     - Gas
-    - Kinetic energy ⤴️
+    - Kinetic energy ⬆
 ## Cooling
 
 - F → E
     - Gas
-    - Kinetic energy ⤵️
+    - Kinetic energy ⬇
 - E → D
     - Gas → Liquid (Condensation)
-    - Potential energy ⤵️
+    - Potential energy ⬇
 - D → C
     - Liquid
-    - Kinetic energy ⤵️
+    - Kinetic energy ⬇
 - C → B
     - Liquid → Solid (Freezing)
-    - Potential energy ⤵️
+    - Potential energy ⬇
 - B → A
     - Solid
-    - Kinetic energy ⤵️
+    - Kinetic energy ⬇

@@ -22,6 +22,7 @@
        calcium carbonate $\ce{->[heat]}$ calcium oxide + carbon dioxide \
        $\ce{CaCO_3 ->[heat] CaO + CO2}$
     2. Reacts with sand to form slag \
+       calcium oxide + silicon (IV) oxide → calcium silicate \
        $\ce{CaO + SiO_2 -> CaSiO_3}$
 
 

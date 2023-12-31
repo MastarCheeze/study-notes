@@ -1,17 +1,22 @@
 # Haber Process
 
+> Ammonia
+
 |             |         |
 | ----------- | ------- |
 | temperature | 450˚C   |
 | pressure    | 200 atm |
 | catalyst    | iron    |
 
+nitrogen + hydrogen $\rightleftharpoons$ ammonia \
 $\ce{N_2 + 3H_2 <=> 2NH_3}$ \
 forward reaction: **exothermic**
 
 Hydrogen - obtained from reacting methane with steam / cracking hydrocarbons
 
 # Contact Process
+
+> Sulfuric acid
 
 |             |                    |
 | ----------- | ------------------ |
