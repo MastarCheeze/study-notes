@@ -18,6 +18,10 @@ Same number of valence electrons
 - Concentration of reactant/product constant
 - Closed system
 
+### What is activation energy
+- Minimum energy colliding particles must have
+- to react
+
 ### Why increasing temperature increases rate of reaction
 - More kinetic energy
 - Collide more
@@ -70,6 +74,11 @@ Mobile electrons
 ### Why aqueous/molten ionic compound conducts electricity
 Mobile ions
 
+### What are physical properties of ionic compound
+- High melting/boiling point
+- Soluble in water (depends)
+- Good electrical conductor when molten/aqueous
+
 ### Describe bonding in metallic element
 - Positive ions arranged in lattice
 - Sea of delocalised electrons
@@ -99,6 +108,9 @@ Synthetic fertiliser
 
 # Paper 6
 
+### How can reliability of experiment be confirmed
+**Repeat** and **compare**
+
 ### Why use white tile
 See colour change clearer
 
@@ -120,8 +132,14 @@ Smoother graph
 Insoluble
 
 ### How to increase accuracy (25cm<sup>3</sup>)
-Pipette
+<u>Volumetric</u> pipette
 
 ### How to know water is fully given off
 - Heat, weight, repeat
 - Until mass constant
+
+### How to do flame test
+- Wooden splint with substance
+- Blue flame
+- Put splint into flame
+- Observe colour of flame

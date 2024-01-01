@@ -9,7 +9,7 @@
 | catalyst    | iron    |
 
 nitrogen + hydrogen $\rightleftharpoons$ ammonia \
-$\ce{N_2 + 3H_2 <=> 2NH_3}$ \
+$\ce{N2 + 3H2 <=> 2NH3}$ \
 forward reaction: **exothermic**
 
 Hydrogen - obtained from reacting methane with steam / cracking hydrocarbons
@@ -25,14 +25,14 @@ Hydrogen - obtained from reacting methane with steam / cracking hydrocarbons
 | catalyst    | vanadium (V) oxide |
 
 1. sulfur + oxygen → sulfur dioxide \
-   $\ce{S + O_2 -> SO_2}$
+   $\ce{S + O2 -> SO2}$
 2. **sulfur dioxide + oxygen $\rightleftharpoons$ sulfur trioxide** \
-   $\ce{2SO_2 + O_2 <=> 2SO_3}$ \
+   $\ce{2SO2 + O2 <=> 2SO3}$ \
    forward reaction: **exothermic**
 3. sulfur trioxide + sulfuric acid → oleum \
-   $\ce{SO_3 + H_2SO_4 -> H_2S_2O_7}$
+   $\ce{SO3 + H2SO4 -> H2S2O7}$
 4. oleum + water → sulfuric acid \
-   $\ce{H_2S_2O_7 + H_2O -> 2H_2SO_4}$
+   $\ce{H2S2O7 + H2O -> 2H2SO4}$
 
 Sulfur dioxide - obtained from burning sulfur / roasting metal sulfite
 Oleum - react sulfur trioxide with water safely

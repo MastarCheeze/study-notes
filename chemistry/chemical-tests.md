@@ -4,11 +4,11 @@
 
 ### Hydrogen
 
-Lighted wooden splinter → pop sound
+Lighted wooden splint → pop sound
 
 ### Oxygen
 
-Glowing wooden splinter → relights
+Glowing wooden splint → relights
 
 ### Carbon dioxide
 
@@ -49,27 +49,27 @@ $\ce{\underset{blue}{CoCl2} + 6H2O <=> \underset{pink}{CoCl2.6H2O}}$
 
 ![image-4.png](images/flame-test.png)
 
-| Cation         | Flame colour |
-| -------------- | ------------ |
-| $\ce{Li^+}$    | red          |
-| $\ce{Na^+}$    | yellow       |
-| $\ce{K^+}$     | lilac        |
-| $\ce{Ca^{2+}}$ | orange-red   |
-| $\ce{Ba^{2+}}$ | light green  |
-| $\ce{Cu^{2+}}$ | blue-green   |
+| Cation       | Flame colour |
+| ------------ | ------------ |
+| $\ce{Li+}$   | red          |
+| $\ce{Na+}$   | yellow       |
+| $\ce{K+}$    | lilac        |
+| $\ce{Ca^2+}$ | orange-red   |
+| $\ce{Ba^2+}$ | light green  |
+| $\ce{Cu^2+}$ | blue-green   |
 
 ## Cation tests
 
-| Cation         | Add sodium hydroxide $\ce{NaOH}$                                                     | Add aqueous ammonia $\ce{NH3}$                                                       |
-| -------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
-| $\ce{NH4^+}$   | **ammonia gas** on warming $\ce{NH3}$                                                |                                                                                      |
-| $\ce{Cu^{2+}}$ | **light blue** precipitate <br> insoluble in excess                                  | **light blue** precipitate <br> soluble in excess, turns dark blue                   |
-| $\ce{Fe^{2+}}$ | **green** precipitate <br> insoluble in excess, turns brown near surface on standing | **green** precipitate <br> insoluble in excess, turns brown near surface on standing |
-| $\ce{Fe^{3+}}$ | **red-brown** precipitate <br> insoluble in excess                                   | **red-brown** precipitate <br> insoluble in excess                                   |
-| $\ce{Al^{3+}}$ | **white** precipitate <br> soluble in excess, turns colourless                       | **white** precipitate <br> insoluble in excess                                       |
-| $\ce{Ca^{2+}}$ | **white** precipitate <br> insoluble in excess                                       | **no** precipitate / very **slight white** precipitate                               |
-| $\ce{Zn^{2+}}$ | **white** precipitate <br> soluble in excess, turns colourless                       | **white** precipitate <br> soluble in excess, turns colourless                       |
-| $\ce{Cr^{3+}}$ | **green** precipitate <br> soluble in excess                                         | **green** precipitate <br> insoluble in excess                                       |
+| Cation       | Add sodium hydroxide $\ce{NaOH}$                                                     | Add aqueous ammonia $\ce{NH3}$                                                       |
+| ------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
+| $\ce{NH4+}$  | **ammonia gas** on warming $\ce{NH3}$                                                |                                                                                      |
+| $\ce{Cu^2+}$ | **light blue** precipitate <br> insoluble in excess                                  | **light blue** precipitate <br> soluble in excess, turns dark blue                   |
+| $\ce{Fe^2+}$ | **green** precipitate <br> insoluble in excess, turns brown near surface on standing | **green** precipitate <br> insoluble in excess, turns brown near surface on standing |
+| $\ce{Fe^3+}$ | **red-brown** precipitate <br> insoluble in excess                                   | **red-brown** precipitate <br> insoluble in excess                                   |
+| $\ce{Al^3+}$ | **white** precipitate <br> soluble in excess, turns colourless                       | **white** precipitate <br> insoluble in excess                                       |
+| $\ce{Ca^2+}$ | **white** precipitate <br> insoluble in excess                                       | **no** precipitate / very **slight white** precipitate                               |
+| $\ce{Zn^2+}$ | **white** precipitate <br> soluble in excess, turns colourless                       | **white** precipitate <br> soluble in excess, turns colourless                       |
+| $\ce{Cr^3+}$ | **green** precipitate <br> soluble in excess                                         | **green** precipitate <br> insoluble in excess                                       |
 
 ## Negative ion tests
 
@@ -77,11 +77,11 @@ $\ce{\underset{blue}{CoCl2} + 6H2O <=> \underset{pink}{CoCl2.6H2O}}$
 
 Add dilute nitric acid ($\ce{HNO3}$) first to remove carbonate or sulfate ions.
 
-| Anion       | Result after adding silver nitrate $\ce{AgNO3}$ |
-| ----------- | ----------------------------------------------- |
-| $\ce{Cl^-}$ | **white** precipitate                           |
-| $\ce{Br^-}$ | **creamy** precipitate                          |
-| $\ce{I^-}$  | **yellow** precipitate                          |
+| Anion      | Result after adding silver nitrate $\ce{AgNO3}$ |
+| ---------- | ----------------------------------------------- |
+| $\ce{Cl-}$ | **white** precipitate                           |
+| $\ce{Br-}$ | **creamy** precipitate                          |
+| $\ce{I-}$  | **yellow** precipitate                          |
 
 ### Carbonate ion $(\ce{CO3^2-})$
 
