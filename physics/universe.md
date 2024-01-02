@@ -31,7 +31,7 @@ $$
 \end{aligned}
 $$
 
-derived from above and $d=vt$
+derived from above and $v=\frac{d}{t}$
 
 $$
 \begin{aligned}

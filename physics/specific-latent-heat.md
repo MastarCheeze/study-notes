@@ -13,5 +13,5 @@ The heat or energy that is absorbed or released during a phase change of a subst
 > Unit: J/kg \
 > Energy required to transform 1 kg of mass to the next state
 
-Specific latent heat of fusion - solid → liquid \
-Specific latent heat of vaporisation - liquid → gas
+Specific latent heat of fusion - solid ⇄ liquid \
+Specific latent heat of vaporisation - liquid ⇄ gas

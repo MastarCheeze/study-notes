@@ -37,9 +37,43 @@
 | [Charge](./charge.md)                                            | $Q$       | coulomb $(\mathrm{C})$ | $\mathrm{A~s}$              |                  |
 | [Voltage](./current-voltage-and-resistance.md#voltage)           | $V$       | volt $(\mathrm{V})$    | $\mathrm{J/C}$              |                  |
 
+<br>
+
 ## Formulae
 
+### Kinematics
+
+$$
+\begin{aligned}
+  v &= \frac{\Delta d}{\Delta t} \\
+  a &= \frac{\Delta v}{\Delta t} = \frac{v-u}{t} \\
+\end{aligned}
+$$
+
+### Dynamics
+
+$$
+\begin{aligned}
+  F &= ma \\
+  p &= mv \\
+  \Delta p &= F\Delta t \\
+  F &= \frac{\Delta p}{\Delta t} = \frac{m(v-u)}{\Delta t} \\
+  M &= Fd \\
+\end{aligned}
+$$
+
+### Energy
+
+$$
+\begin{aligned}
+  W &= Fd \\
+  \text{GPE} &= \mathrm{mgh} \\
+  \text{KE} &= \frac{1}{2}mv^2
+\end{aligned}
+$$
+
 ### Heat
+
 $$
 \begin{aligned}
   K &= C + 273

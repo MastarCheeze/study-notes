@@ -50,7 +50,7 @@ Examples
 \end{aligned}
 > $$
 >
-> Speed is directly proportional to wavelength
+> $\small\text{speed} \propto \text{wavelength}$
 
 ## Frequency equation
 
@@ -122,11 +122,11 @@ Examples
 
 ## Reasons of application
 
-| Application                                                           | Wave                     | Reason                                                                                             |
-| --------------------------------------------------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------- |
-| Optical fibres<ul><li>Cable TV</li><li>High-speed broadband</li></ul> | Visible light & infrared | <ul><li>Transparent</li><li>Can carry high rates of data</li></ul>                                 |
-| Bluetooth                                                             | Radio waves (low energy) | <ul><li>Can penetrate walls</li></ul>                                                              |
-| WiFi                                                                  | Microwave                | <ul><li>Can penetrate walls</li><li>Only require short aerial for transmission/reception</li></ul> |
+| Application                                                           | Wave                                  | Reason                                                                                             |
+| --------------------------------------------------------------------- | ------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| Optical fibres<ul><li>Cable TV</li><li>High-speed broadband</li></ul> | Visible light & infrared              | <ul><li>Transparent</li><li>Can carry high rates of data</li></ul>                                 |
+| Bluetooth                                                             | Radio waves <nobr>(low energy)</nobr> | <ul><li>Can penetrate walls</li></ul>                                                              |
+| WiFi                                                                  | Microwave                             | <ul><li>Can penetrate walls</li><li>Only require short aerial for transmission/reception</li></ul> |
 
 ## Harmful effects
 

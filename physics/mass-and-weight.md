@@ -6,7 +6,7 @@ Unit: Kilogram (kg) \
 Definition: **Amount of matter** / property that resists change in motion (inertia)
 
 - **Fixed**
-- Vector
+- Scalar
 
 
 ## Weight
@@ -15,7 +15,7 @@ Unit: Newton (N) \
 Definition: **Force of gravity acting on object**
 
 - **Changes with gravitational force**
-- Scalar
+- Vector
 - Is a force
 
 ## Formula

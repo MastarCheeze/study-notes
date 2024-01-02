@@ -2,7 +2,7 @@
 
 ## Conduction
 
-**Heat transfer in solids**
+**Heat transfer in solids and liquids**
 
 ### Metals
 
@@ -20,7 +20,7 @@ Metals are good conductors because:
 
 ![Convection current](images/convection-current.png)
 
-1. Water is heated from the bottom
+1. Cool water is heated at the bottom
 2. Hot water rises
 3. Cool water sinks
 4. Cool water is heated at the bottom
@@ -33,18 +33,20 @@ Sea breeze
 
 - Daytime
 - Lands heats up more quickly than the sea
-- Warm air from the land rises, displaced by cooler air from the sea
+- Warm air from the land rises
+- Displaced by cooler air from the sea
 
 <p></p>
 Land breeze
 
 - Nighttime
 - Land cools off more quickly than the sea
-- Warm air from the sea rises, displaced by cooler air from the land
+- Warm air from the sea rises
+- Displaced by cooler air from the land
 
 ## Radiation
 
-**Heat transfer (via infrared rays) without a medium**
+**Heat transfer without a medium** (via infrared rays)
 
 $$
 \begin{aligned}

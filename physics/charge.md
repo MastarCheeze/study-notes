@@ -17,7 +17,7 @@
 
 ## Electric field
 
-- **Region where force acts on a charge**
+- **Region where charges experience force**
 - +ve → -ve
 
 ## Electrostatic charges
@@ -26,5 +26,7 @@
 Ways to charge an object:
 
 - Friction
-- Conduction (objects touching, electrons transferring)
-- Induction (objects not touching, electrons transferring via another object or earthing)
+- Conduction \
+  (objects touching, electrons transferring)
+- Induction \
+  (objects not touching, electrons transferring via another object or earthing)

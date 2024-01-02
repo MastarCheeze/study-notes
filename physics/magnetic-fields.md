@@ -43,7 +43,7 @@ To increase force on wire:
 > (see [Fleming's right hand rule](#flemings-right-hand-rule))
 >
 > #### Faraday's law
-> $\text{e.m.f. induced in conductor} \propto \text{magnetic field line cutting rate}$
+> $$\text{e.m.f. induced in conductor} \propto \text{magnetic field line cutting rate}$$
 >
 > #### Lenz's law
 > Induced current always flows in direction that opposes change
@@ -72,6 +72,8 @@ To reverse induced current:
 
 > Created when metals cut through magnetic fields lines \
 > Produces motion that opposes change
+
+<br>
 
 # Applications
 
@@ -107,7 +109,7 @@ $$
 
 $$
 \begin{aligned}
-  V_pI_p &= V_sI_s ~ \scriptsize\text{(Power is constant)} \\
+  V_pI_p &= V_sI_s ~ \scriptsize\text{(power is constant)} \\
   \mathrm{input~voltage \cdot input~current} &= \mathrm{output~voltage \cdot output~current}
 \end{aligned}
 $$

@@ -33,7 +33,7 @@
 
 ### Thermistor
 
-$\displaystyle \mathrm{temperature} \propto \mathrm{\frac{1}{resistance}}$
+$\displaystyle \mathrm{temperature} \propto \mathrm{\frac{1}{resistance}} \text{ \scriptsize(semiconductors)}$
 
 ### LDR
 

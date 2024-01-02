@@ -1,7 +1,9 @@
 # Fission
 
 > **Splitting** one large nucleus into two smaller nuclei \
-> Emits neutrons
+> Caused by collision of neutron \
+> Emits neutrons \
+> Chain reaction
 
 $$\ce{^235_92U + ^1_0n -> ^144_56Ba + ^90_36Kr + 2^1_0n}$$
 

@@ -11,6 +11,6 @@
    - Run out of hydrogen
    - Expand
 
-| Smaller star                                                         | Larger star                                                                                                                    |
-| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| <ol start=4><li>Red giant</li><li>White dwarf + nebula</li></ol><br> | <ol start=4><li>Red supergiant<ul><li>Explode</li></ul></li><li>Supernova</li><li>Neutron star / black hole + nebula</li></ol> |
+| Smaller star                                                         | Larger star                                                                                                                          |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| <ol start=4><li>Red giant</li><li>White dwarf + nebula</li></ol><br> | <ol start=4><li>Red supergiant<ul><li>Explode</li></ul></li><li>Supernova</li><li>Neutron star or <br> black hole + nebula</li></ol> |

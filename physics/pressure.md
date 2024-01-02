@@ -44,3 +44,6 @@
 
 For barometers, $p_a=0$ since vacuum \
 For manometers, if gas pressure < atmospheric pressure, height change is negative
+
+Calculating pressure with barometers and manometers \
+[Professor Dave Explains](https://youtu.be/YI4RRZ3ZM7g?si=wJwm3DNwbSpKZUOl)

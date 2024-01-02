@@ -6,10 +6,10 @@
   \mathrm{heat~energy} &= \mathrm{mass \cdot specific~heat~capacity \cdot temperature~change}
 \end{aligned}
 > $$
-> Unit: J/(kg ˚C) \
+> Unit of c: J/(kg ˚C) \
 > Amount of heat energy required to raise the temperature of 1 kg of mass by 1˚C
 
-# Thermal capacity
+# Thermal Capacity
 
 > $$
 \begin{aligned}
@@ -24,5 +24,5 @@
   \mathrm{heat~energy} &= \mathrm{thermal~capacity \cdot temperature~change}
 \end{aligned}
 > $$
-> Unit: J/˚C \
+> Unit of C: J/˚C \
 > Amount of heat energy required to raise the temperature by 1˚C

@@ -8,12 +8,19 @@
 | Mass[^2]            | 4                                                                                                  | 1/1840                                                               | 0                                                                      |
 | Ionising power      | High                                                                                               | Medium                                                               | Low                                                                    |
 | Penetrating power   | Low                                                                                                | Medium                                                               | High                                                                   |
-| Stopped by          | Paper                                                                                              | Aluminium (1 cm)                                                     | Lead (10 cm)                                                           |
+| Stopped by          | Paper                                                                                              | Aluminium <nobr>(1 cm)</nobr>                                        | Lead <nobr>(10 cm)</nobr>                                              |
 
 # Radioactive Decay
 
 > **Half-life** \
 > Time taken for half the nuclei to decay
+>
+> $$
+\begin{aligned}
+  N &= \frac{N_0}{2^{\frac{t}{h}}} \\
+  \mathrm{amount~of~substance} &= \mathrm{\frac{initial~amoun t}{2^{\frac{time}{\text{half-life}}}}} \\
+\end{aligned}
+> $$
 
 ## Alpha decay
 

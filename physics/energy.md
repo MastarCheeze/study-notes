@@ -33,8 +33,8 @@ Energy cannot be created nor destroyed, only converted from one form of energy t
 
 > $$
 \begin{aligned}
-  \mathrm{GPE} &= \mathrm{mgh} \\
-  \mathrm{GPE} &= \mathrm{mass \cdot gravitational~field~strength \cdot height}
+  \text{GPE} &= \mathrm{mgh} \\
+  &= \mathrm{mass \cdot gravitational~field~strength \cdot height}
 \end{aligned}
 > $$
 
@@ -42,8 +42,8 @@ Energy cannot be created nor destroyed, only converted from one form of energy t
 
 > $$
 \begin{aligned}
-\mathrm{KE} &= \frac{1}{2}mv^2 \\
-\mathrm{KE} &= \frac{1}{2} \cdot \mathrm{mass \cdot velocity^2}
+  \text{KE} &= \frac{1}{2}mv^2 \\
+  &= \frac{1}{2} \cdot \mathrm{mass \cdot velocity^2}
 \end{aligned}
 > $$
 

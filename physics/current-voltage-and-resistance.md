@@ -37,8 +37,8 @@ $$
   \mathrm{cross~sectional~area} &\propto \mathrm{\frac{1}{resistance}} \\
   \mathrm{diameter} &\propto \mathrm{\frac{1}{resistance^2}} \\
   \mathrm{radius} &\propto \mathrm{\frac{1}{resistance^2}} \\
-  \mathrm{temperature} &\propto \mathrm{resistance~(conductors)} \\
-  \mathrm{temperature} &\propto \mathrm{\frac{1}{resistance}~(semiconductors)} \\
+  \mathrm{temperature} &\propto \mathrm{resistance} \text{ \scriptsize(conductors)} \\
+  \mathrm{temperature} &\propto \mathrm{\frac{1}{resistance}} \text{ \scriptsize(semiconductors)} \\
   \mathrm{material}
 \end{aligned}
 $$

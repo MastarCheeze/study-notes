@@ -27,7 +27,7 @@
 > $$
 \begin{aligned}
   F &= \frac{\Delta p}{\Delta t} = \frac{m(v-u)}{\Delta t} \\
-  \mathrm{resultant~force} &= \frac{\mathrm{change~in~momentum~(impulse)}}{\mathrm{change~in~time}}
+  \mathrm{resultant~force} &= \frac{\mathrm{change~in~momentum~\scriptsize(impulse)}}{\mathrm{change~in~time}}
 \end{aligned}
 > $$
 >

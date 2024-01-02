@@ -19,7 +19,7 @@
 
 ### Forming images
 
-|                                                                                                     | Properties                             |
+|                                                                                                     |                                        |
 | --------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | ![Convex lens forming real, diminished and inverted image](images/convex-real-diminished-image.png) | **Real** <br> Inverted <br> Diminished |
 | ![Convex lens forming real, same size and inverted image](images/convex-real-same-size-image.png)   | **Real** <br> Inverted <br> Same size  |
@@ -39,6 +39,6 @@
 
 ### Forming images
 
-|                                                                         | Properties                               |
+|                                                                         |                                          |
 | ----------------------------------------------------------------------- | ---------------------------------------- |
 | ![Concave lens forming virtual image](images/concave-virtual-image.png) | **Virtual** <br> Upright <br> Diminished |

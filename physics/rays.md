@@ -18,6 +18,8 @@
 \end{aligned}
 > $$
 
+see [Speed of Light](./waves.md#speed-of-waves)
+
 ### Total internal reflection
 
 > $$
