@@ -67,7 +67,7 @@ $$c^2 = a^2+b^2-2ab\cos\gamma$$
 
 ### Area of triangle
 
-$$A = \frac{1}{3}ab\sin\gamma$$
+$$A = \frac{1}{2}ab\sin\gamma$$
 
 ### Sine rule
 
