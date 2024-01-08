@@ -244,15 +244,15 @@
 
 > Print one-off documents
 
-1. Rollers push paper
-2. Nozzle spray ink on paper
-3. Print head move across paper
+1. **Rollers** push paper
+2. **Nozzle** spray ink on paper
+3. **Print head** move across paper
 
-- Piezoelectric technology
+- **Piezoelectric** technology
     1. Electrical current applied to crystal
     2. Vibrates
     3. Forces droplet of ink through nozzle
-- Thermal bubble technology
+- **Thermal bubble** technology
     1. Ink heated
     2. Expands into bubble
     3. Bubble pushed through nozzle
@@ -262,10 +262,10 @@
 
 > Print many documents
 
-1. Printing drum (+ve charge)
-2. Laser scans drum
+1. Printing **drum** (+ve charge)
+2. **Laser** scans drum
     - Becomes -ve charge
-3. Drum coated with toner (+ve charge)
+3. Drum coated with **toner** (+ve charge)
     - Stick onto -ve charge area of drum
 4. Drum rolled over paper (-ve charge)
     - Toner stick onto paper

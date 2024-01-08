@@ -24,7 +24,7 @@
 
 ## Brute-force attack
 
-> **Repeatedly guessing combinations of passwords until correct one is found \
+> **Repeatedly** guessing combinations of passwords until correct one is found \
 > Can be manual/automated
 
 #### Prevention
@@ -52,7 +52,7 @@
    Web server **flooded** \
    with **numerous** requests simultaneously \
    using botnet
-4. Server unable to handle, crash
+4. Server unable to handle, time out / crash
 
 #### Prevention
 - [Proxy server](#proxy-server)

@@ -51,7 +51,7 @@
 - Sample rate
     - Number of samples taken per second
 - Sample resolution
-    - Number os bits used to represent each sample
+    - Number of bits used to represent each sample
 
 ### MIDI[^MIDI]
 

@@ -5,6 +5,8 @@
     - [World wide web](#world-wide-web)
     - [NIC](#nicnic)
     - [Router](#router)
+        - [Packet](#packet)
+        - [Packet switching](#packet-switching)
     - [DNS](#dns)
     - [Web server](#web-server)
 - [Addresses and Protocols](#addresses-and-protocols)
@@ -43,6 +45,27 @@
 - Connects local network to the internet
 - Assigns dynamic IP address
 
+### Packets
+
+- Header
+    - Destination address (IP address)
+    - Originators address (IP address)
+    - Packet number
+- Payload
+- Trailer
+
+### Packet switching
+
+![Network for packet switching](images/packet-switching.png)
+
+1. Data split into packets
+2. Router controls route \
+   Router chooses shortest route \
+   Each packet takes different route across network
+3. Packets arrive out of order
+4. When all packets arrive, reordered
+
+
 ## DNS[^DNS]
 
 > <p></p>
@@ -63,7 +86,7 @@
 
 > Unique identifier (for device) \
 > Assigned to NIC by manufacturer \
-> Static
+> Static \
 > Manufacturer code + serial code
 
 `34:4D:EA:89:75:B2`

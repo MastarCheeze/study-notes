@@ -15,7 +15,8 @@
 - Calculate value
     - Before and after transmission
     - If equal, no error
-- **Modulus 11**
+- Example:
+    - Modulus 11
 
 ### Echo sum
 

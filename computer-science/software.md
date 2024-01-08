@@ -17,7 +17,6 @@
 
 - OS
 - Utility programs
-    -
 
 ## OS[^OS]
 
@@ -37,7 +36,7 @@
 
 > Signal to processor
 
-1. Each FDE cycle, processor checks interrupt queue ([IH](#ih)) for higher priority interrupt
+1. Each FDE cycle, [IH](#ih) checks interrupt queue for higher priority interrupt
 2. Stores current process
 3. Checks source of interrupt
 4. Calls [ISR](#isr)
