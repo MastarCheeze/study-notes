@@ -60,7 +60,7 @@ $\ce{\underset{blue}{CoCl2} + 6H2O <=> \underset{pink}{CoCl2.6H2O}}$
 
 ## Cation tests
 
-| Cation       | Add sodium hydroxide $\ce{NaOH}$                                                     | Add aqueous ammonia $\ce{NH3}$                                                       |
+| Cation       | Add sodium hydroxide $\ce{NaOH}$ <small>(strong base)</small>                        | Add aqueous ammonia $\ce{NH3}$ <small>(weak base)</small>                            |
 | ------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | $\ce{NH4+}$  | **ammonia gas** on warming $\ce{NH3}$                                                |                                                                                      |
 | $\ce{Cu^2+}$ | **light blue** precipitate <br> insoluble in excess                                  | **light blue** precipitate <br> soluble in excess, turns dark blue                   |

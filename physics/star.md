@@ -5,7 +5,7 @@
 1. Nebula
    - Nebula collapse & increase temperature
 2. Protostar
-   - Inward force of gravitational attraction = outward force of high temperature
+   - Gravitational attraction (inward force) = high temperature (outward force)
 3. Star (stable)
    - [Nuclear fusion](./fission-and-fusion.md#fusion) of hydrogen → helium
    - Run out of hydrogen

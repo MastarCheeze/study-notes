@@ -18,11 +18,11 @@
 
 <br>
 
-### Why can computers only process binary?
+### Why can computers only process binary
 - Transistors
 - Can only store 0 and 1
 
-### What is off-line storage?
+### What is off-line storage
 - Non-volatile
 - Not directly accessed by CPU
 - Can be easily disconnected
@@ -30,7 +30,12 @@
     - CD / DVD
     - Flash drive
 
-### How is data accidentally lost?
+### Why is virtual memory needed
+- Extend RAM capacity
+- Process more data
+- Prevent *application* from freezing
+
+### How is data accidentally lost
 - Physical damage
 - Hardware failure
 - Software failure
@@ -39,7 +44,7 @@
 - Accidentally delete
 - Ejecting drive incorrectly
 
-### How to prevent accidental data loss?
+### How to prevent accidental data loss
 - Backup
 - Protection case
 - Update software
@@ -53,7 +58,7 @@
 - Identity theft
 - Sensitive information stolen
 
-### Why separate presentation from structure?
+### Why separate presentation from structure
 - Change formatting without changing structure
 - Formatting can be reused
 - Standardise formatting across web pages

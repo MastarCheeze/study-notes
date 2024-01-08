@@ -149,6 +149,12 @@ Fewer excess neutrons in nucleus
 - Redshift
 - Brightness
 
+### What can be deduced from CMBR
+- CMBR is microwave radiation at all points in space
+- Prodeuced when universe is formed
+- Radiation expanded and red-shifted into microwave
+- Evidence that universe expanded
+
 <br><br>
 
 # Paper 6
@@ -200,6 +206,7 @@ Fewer excess neutrons in nucleus
     - Ensure same temperature throughout liquid
 - Avoid touching sides with thermometer
     - Temperature is different from liquid
+- Wait until reading stops rising before reading
 
 ### Precautions of measuring (measuring cylinder)
 - View scale perpendicularly

@@ -61,15 +61,15 @@
 
 ## MAC address[^MAC]
 
-> Unique identifier \
+> Unique identifier (for device) \
 > Assigned to NIC by manufacturer \
 > Static
+> Manufacturer code + serial code
 
 `34:4D:EA:89:75:B2`
 
 - 48-bit
 - Hexadecimal
-- Manufacturer code + serial code
 
 ## IP address[^IP]
 

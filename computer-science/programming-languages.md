@@ -19,10 +19,10 @@
 
 <br>
 
-|            | Advantages                                                                                                                        | Disadvantages                                                                                                                       |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| Low-level  | <ul><li>Does not need translating <br> Assembly translates fast</li><li>Can directly manipulate memory</li></ul>                  | <ul><li>Hard to read/write</li><li>Hard to debug</li><li>Not portable, machine dependent</li><li>More instructions needed</li></ul> |
-| High-level | <ul><li>Easy to read/write</li><li>Easy to debug</li><li>Portable, machine independent</li><li>Less instructions needed</li></ul> | <ul><li>Needs translating</li><li>Cannot directly manipulate memory</li></ul>                                                       |
+|                         | Advantages                                                                                                                        | Disadvantages                                                                                                                       |
+| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| <nobr>Low-level</nobr>  | <ul><li>Does not need translating <br> (Assembly translates fast)</li><li>Can directly manipulate memory</li></ul>                | <ul><li>Hard to read/write</li><li>Hard to debug</li><li>Not portable, machine dependent</li><li>More instructions needed</li></ul> |
+| <nobr>High-level</nobr> | <ul><li>Easy to read/write</li><li>Easy to debug</li><li>Portable, machine independent</li><li>Less instructions needed</li></ul> | <ul><li>Needs translating</li><li>Cannot directly manipulate memory</li></ul>                                                       |
 
 <br>
 
@@ -56,7 +56,10 @@
 
 <br>
 
-# IDEs[^IDE]
+# IDE[^IDE]
+
+> Software \
+> Provides useful tools for writing a program
 
 - Code editors
 - Run-time environment

@@ -1,6 +1,7 @@
 # Data Representation
 
 - [Text](#text)
+    - [Character set](#character-set)
     - [ASCII](#ascii)
     - [Unicode](#unicode)
 - [Images](#images)
@@ -16,6 +17,11 @@
     - [Lossless](#lossless)
 
 ## Text
+
+### Character set
+
+> All characters that can be represented \
+> Each character has unique value
 
 ### ASCII
 

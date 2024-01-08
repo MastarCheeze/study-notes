@@ -43,7 +43,7 @@ Right shift
 ![Two's complement with value of each bit shown](images/twos-complement.jpg)
 
 <p></p>
-Converting:
+Converting (both ways):
 
 1. Invert all bits
 2. Add 1
@@ -67,9 +67,9 @@ Converting:
 - ASCII / Unicode
 - Error codes
 - Memory dumps (debugging)
-- Assembly
-- Machine code
-- Memory address
 - MAC address
 - IP address
-- URLs
+- URL
+- Memory address
+- Assembly
+- Machine code

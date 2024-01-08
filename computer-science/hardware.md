@@ -35,7 +35,7 @@
 
 #### CU
 
-- Coordinates all operations in CPU
+- Coordinates transfer of data & instructions in CPU
     - Transmits control signals to all components
         - Using [control bus](#control-bus)
 - Decodes instruction into machine code
@@ -83,7 +83,8 @@
 # CPU[^CPU]
 
 > Process **data** and **instructions** \
-> Perform **calculations** and **logical operations**
+> Perform **calculations** and **logical operations** \
+> Carry out FDE cycle
 
 ## FDE cycle[^FDE]
 
@@ -92,18 +93,19 @@
 ![Fetch cycle](images/fetch.png)
 
 1. **[PC](#pc)** stores address of next instruction (to be processed)
-   - copied to [MAR](#mar) - [Address bus](#address-bus)
+   - copied to [MAR](#mar) via [Address bus](#address-bus)
 2. **[MAR](#mar)** temporarily holds address of data/instruction (to be located in [RAM](#primary))
-   - send to [RAM](#primary) - [Address bus](#address-bus)
+   - send to [RAM](#primary) via [Address bus](#address-bus)
 3. [RAM](#primary) retrieves data/instruction
-   - copied to [MDR](#mdr) - [Data bus](#data-bus)
+   - copied to [MDR](#mdr) via [Data bus](#data-bus)
 4. **[MDR](#mdr)** temporarily holds address of data/instruction (fetched from [RAM](#primary))
-   - send to [CIR](#cir) - [Data bus](#data-bus)
+   - send to [CIR](#cir) via [Data bus](#data-bus)
 5. **[CIR](#cir)** stores current instruction (being processed)
 
 ### Decode
 
-1. **[CU](#cu)** decodes instruction into machine code
+6. **[CU](#cu)** decodes instruction into machine code \
+   using instruction set
 
 ### Execute
 
