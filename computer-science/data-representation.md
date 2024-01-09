@@ -119,7 +119,7 @@ Example
 
 |          | Advantages                          | Disadvantages                      |
 | -------- | ----------------------------------- | ---------------------------------- |
-| Lossy    | <ul><li>More compression</li></ul>  |
+| Lossy    | <ul><li>More compression</li></ul>  | <ul><li>Quality lost</li></ul>     |
 | Lossless | <ul><li>Quality preserved</li></ul> | <ul><li>Less compression</li></ul> |
 
 <br>

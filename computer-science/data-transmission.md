@@ -1,5 +1,16 @@
 # Data transmission
 
+- [Transmission](#transmission)
+    - [Serial](#serial)
+    - [Parallel](#parallel)
+- [Direction](#direction)
+    - [Simplex](#simplex)
+    - [Half-duplex](#half-duplex)
+    - [Full-duplex](#full-duplex)
+- [Universal serial bus (USB)](#universal-serial-bus-usb)
+
+<br>
+
 # Transmission
 
 ## Serial
@@ -14,10 +25,10 @@
 
 <br>
 
-|          | Advantages                                                                                                                      | Disadvantages                                                                                                                                 |
-| -------- | ------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Serial   | <ul><li>Less error<ul><li>Arrive in order (less skew)</li><li>Single wire (less interference)</li></ul></li><li>Cheap</li></ul> | <ul><li>Slow</li><li>Additional data (start/stop bit)</li></ul>                                                                               |
-| Parallel | <ul><li>Fast</li></ul>                                                                                                          | <ul><li>More error<ul><li>Do not arrive in order (more skew)</li><li>Multiple wires (more interference)</li></ul></li><li>Expensive</li></ul> |
+|          | Advantages                                                                                                             | Disadvantages                                                                                                                        |
+| -------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| Serial   | <ul><li>Less error</li><li>Less skew (arrive in order)</li><li>Less interference (single wire)</li><li>Cheap</li></ul> | <ul><li>Slow</li><li>Additional data (start/stop bit)</li></ul>                                                                      |
+| Parallel | <ul><li>Fast</li></ul>                                                                                                 | <ul><li>More error</li><li>More skew (do not arrive in order)</li><li>More interference (multiple wires)</li><li>Expensive</li></ul> |
 
 # Direction
 
