@@ -61,12 +61,16 @@ Because $\mathrm{resistance} \propto \mathrm{\frac{length}{area}}$:
 > $$
 \begin{aligned}
   V &= IR \\
-  \mathrm{voltage} &= \mathrm{current \cdot resistance} \\
-  \\
+  \mathrm{voltage} &= \mathrm{current \cdot resistance}
+\end{aligned}
+> $$
+
+$$
+\begin{aligned}
   \mathrm{voltage} &\propto \mathrm{current} \\
   \mathrm{voltage} &\propto \mathrm{resistance} \\
   \mathrm{current} &\propto \frac{1}{\mathrm{resistance}}
 \end{aligned}
-> $$
+$$
 
 ![Ohm's triangle](images/ohms-triangle.png)

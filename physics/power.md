@@ -22,7 +22,7 @@
 >
 > Unit: Watt (W)
 
-Derived from $P=VI$:
+Derived from $P=VI$ and $P=\frac{E}{t}$:
 > $$
 \begin{aligned}
   E &= VIt \\

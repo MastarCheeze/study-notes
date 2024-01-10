@@ -4,15 +4,15 @@
 
 ### Base units
 
-| Quantity                                               | Sym.     | Unit                     |
-| ------------------------------------------------------ | -------- | ------------------------ |
-| [Mass](./mass-and-weight.md)                           | $m$      | kilogram $(\mathrm{kg})$ |
-| Length                                                 |          | metre $(\mathrm{m})$     |
-| Time                                                   | $t$      | second $(\mathrm{s})$    |
-| [Current](./current-voltage-and-resistance.md#current) | $I$      | ampere $(\mathrm{A})$    |
-| [Temperature](./kelvin.md)                             | $\theta$ | kelvin $(\mathrm{K})$    |
-| [Amount of substance](../chemistry/moles.md)           |          | mole $(\mathrm{mol})$    |
-| Luminous intensity                                     |          | candela $(\mathrm{cd})$  |
+| Quantity                                               | Sym.     | Unit                                 |
+| ------------------------------------------------------ | -------- | ------------------------------------ |
+| [Mass](./mass-and-weight.md)                           | $m$      | kilogram $(\mathrm{kg})$             |
+| Length                                                 |          | metre $(\mathrm{m})$                 |
+| Time                                                   | $t$      | second $(\mathrm{s})$                |
+| [Current](./current-voltage-and-resistance.md#current) | $I$      | ampere $(\mathrm{A})$                |
+| Temperature                                            | $\theta$ | [kelvin $(\mathrm{K})$](./kelvin.md) |
+| [Amount of substance](../chemistry/moles.md)           |          | mole $(\mathrm{mol})$                |
+| Luminous intensity                                     |          | candela $(\mathrm{cd})$              |
 
 ### Derived units
 
@@ -32,10 +32,11 @@
 | [Power](./power.md)                                              | $P$       | watt $(\mathrm{W})$    | $\mathrm{J/s}$              | $\mathrm{N~m/s}$ |
 | [Specific heat capacity](./specific-heat-capacity.md)            | $c$       |                        | $\mathrm{J/(kg~\degree C)}$ |                  |
 | [Thermal capacity](./specific-heat-capacity.md#thermal-capacity) | $C$       |                        | $\mathrm{J/\degree C}$      |                  |
-| [Specific latent heat](./latent-heat.md)                         | $L$       |                        | $\mathrm{J/kg}$             |                  |
+| [Specific latent heat](./specific-latent-heat.md)                | $L$       |                        | $\mathrm{J/kg}$             |                  |
 | [Frequency](./waves.md#properties-of-waves)                      | $\lambda$ | hertz $(\mathrm{Hz})$  | $\mathrm{1/s}$              |                  |
 | [Charge](./charge.md)                                            | $Q$       | coulomb $(\mathrm{C})$ | $\mathrm{A~s}$              |                  |
 | [Voltage](./current-voltage-and-resistance.md#voltage)           | $V$       | volt $(\mathrm{V})$    | $\mathrm{J/C}$              |                  |
+| [Resistance](./current-voltage-and-resistance.md#resistance)     | $R$       | ohm $(\Omega)$         | $\mathrm{V/A}$              |                  |
 
 <br>
 

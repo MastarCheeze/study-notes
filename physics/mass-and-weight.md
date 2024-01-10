@@ -3,7 +3,8 @@
 ## Mass
 
 Unit: Kilogram (kg) \
-Definition: **Amount of matter** / property that resists change in motion (inertia)
+Definition: **Amount of matter** \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; property that resists change in motion (type of inertia)
 
 - **Fixed**
 - Scalar

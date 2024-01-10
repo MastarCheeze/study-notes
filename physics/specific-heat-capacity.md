@@ -13,16 +13,16 @@
 
 > $$
 \begin{aligned}
-  C &= mc \\
-  \mathrm{thermal~capacity} &= \mathrm{mass \cdot specific~heat~capacity}
-\end{aligned}
-> $$
-
-> $$
-\begin{aligned}
   E &= C\Delta\theta \\
   \mathrm{heat~energy} &= \mathrm{thermal~capacity \cdot temperature~change}
 \end{aligned}
 > $$
 > Unit of C: J/˚C \
 > Amount of heat energy required to raise the temperature by 1˚C
+
+> $$
+\begin{aligned}
+  C &= mc \\
+  \mathrm{thermal~capacity} &= \mathrm{mass \cdot specific~heat~capacity}
+\end{aligned}
+> $$
