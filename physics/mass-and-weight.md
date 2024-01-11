@@ -23,7 +23,7 @@ Definition: **Force of gravity acting on object**
 
 > $$
 \begin{aligned}
-  W &= mg \\
+  F &= mg \\
   \mathrm{weight} &= \mathrm{mass \cdot gravitational~field~strength}
 \end{aligned}
 > $$

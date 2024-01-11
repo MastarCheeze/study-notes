@@ -40,6 +40,7 @@ Delivers only a proportion of voltage from a battery
 
 > $$
 \begin{aligned}
+  \frac{V_{\text{in}}}{R_\text{total}} &= \frac{V_{\text{out}}}{R_\text{out}} \\
   \frac{V_{\text{in}}}{R_1+R_2} &= \frac{V_{\text{out}}}{R_1} \\
   \\
   R_1 &\propto V_{\text{out}} \\

@@ -21,7 +21,7 @@ $$
 Caused by Doppler effect \
 Used to measure distance to celestial object
 
-## Hubble constant
+## Hubble's law
 
 $$
 \begin{aligned}

@@ -103,16 +103,14 @@ To reverse induced current:
 $$
 \begin{aligned}
   \frac{V_p}{N_p} &= \frac{V_s}{N_s} \\
-  \mathrm{\frac{primary~voltage}{turns~in~primary~coil}} &= \mathrm{\frac{secondary~voltage}{turns~in~secondary~coil}}
-\end{aligned}
-$$
-
-$$
-\begin{aligned}
+  \mathrm{\frac{primary~voltage}{turns~in~primary~coil}} &= \mathrm{\frac{secondary~voltage}{turns~in~secondary~coil}} \\
+  \\
   V_pI_p &= V_sI_s ~ \scriptsize\text{(power is constant)} \\
   \mathrm{input~voltage \cdot input~current} &= \mathrm{output~voltage \cdot output~current}
 \end{aligned}
 $$
+
+<br>
 
 # Hand rules
 
