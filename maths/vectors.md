@@ -3,12 +3,12 @@
 ## Notation
 
 $$
-\begin{aligned}
+\begin{align*}
   &\mathrm{A}(2, -3) \\
   &\mathrm{\overrightarrow{OA}} = \begin{pmatrix}
   2 \\ -3 \\
   \end{pmatrix} = 2\mathbf{i} - 3\mathbf{j}
-\end{aligned}
+\end{align*}
 $$
 
 ## Magnitude
@@ -20,13 +20,13 @@ $$
 ## Unit vectors
 
 $$
-\begin{aligned}
+\begin{align*}
   \text{unit vector of}\enspace\mathrm{\overrightarrow{OA}} &= \mathrm{\frac{\overrightarrow{OA}}{|\overrightarrow{OA}|}} \\
   &= \frac{2\mathbf{i} - 3\mathbf{j}}{\sqrt{13}} \\
   &= \frac{1}{\sqrt{13}}\begin{pmatrix}
   2 \\ -3 \\
   \end{pmatrix}
-\end{aligned}
+\end{align*}
 $$
 
 ## Parallel

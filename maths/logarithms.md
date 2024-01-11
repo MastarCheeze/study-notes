@@ -7,18 +7,18 @@
 <br><br>
 - Product & quotient rule
   $$
-  \begin{aligned}
+  \begin{align*}
     \log_n(ab) &= \log_na + \log_nb \\
     \log_n\left(\frac{a}{b}\right) &= \log_na - \log_nb
-  \end{aligned}
+  \end{align*}
   $$
 
 - Power & root rule
   $$
-  \begin{aligned}
+  \begin{align*}
     \log_n(a^b) &= b\log_na \\
     \log_n(\sqrt[b]{a}) &= \frac{\log_na}{b}
-  \end{aligned}
+  \end{align*}
   $$
 
 - Change of base rule
@@ -29,18 +29,18 @@
 
 - Log/exponent reduction
   $$
-  \begin{aligned}
+  \begin{align*}
     \log_aa^b &= b \\
     a^{\log_ab} &= b
-  \end{aligned}
+  \end{align*}
   $$
 
 > **Note**
 > $$
-\begin{aligned}
+\begin{align*}
   \log x &= \lg =  \log_{10}x \\
   \ln x &= \log_{e}x
-\end{aligned}
+\end{align*}
 > $$
 
 ## Proofs

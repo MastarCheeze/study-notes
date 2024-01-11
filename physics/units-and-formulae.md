@@ -43,87 +43,87 @@
 ## Kinematics
 
 $$
-\begin{aligned}
+\begin{align*}
   v &= \frac{\Delta d}{\Delta t} \\
   a &= \frac{\Delta v}{\Delta t} = \frac{v-u}{t} \\
-\end{aligned}
+\end{align*}
 $$
 
 ## Dynamics
 
 $$
-\begin{aligned}
+\begin{align*}
   \tag*{\scriptsize (Newton's 2nd law)} F &= ma \\
   p &= mv \\
   \Delta p &= F\Delta t \\
   F &= \frac{\Delta p}{\Delta t} = \frac{m(v-u)}{\Delta t} \\
   F &= mg \\
   M &= Fd \\
-\end{aligned}
+\end{align*}
 $$
 
 ## Energy
 
 $$
-\begin{aligned}
+\begin{align*}
   W &= Fd \\
   \text{GPE} &= \mathrm{mgh} \\
   \text{KE} &= \frac{1}{2}mv^2 \\
   P &= \frac{E}{t}
-\end{aligned}
+\end{align*}
 $$
 
 ## Solid mechanics
 
 $$
-\begin{aligned}
+\begin{align*}
   F &= kx \\
-\end{aligned}
+\end{align*}
 $$
 
 ## Thermodynamics
 
 $$
-\begin{aligned}
+\begin{align*}
   p &= \frac{F}{A} \\
   p &= \rho gh \\
   p_1V_1 &= p_2V_2 \\
   E &= mc\Delta\theta \\
   E &= C\Delta\theta \\
   E &= mL \\
-\end{aligned}
+\end{align*}
 $$
 
 ## Electricity
 
 $$
-\begin{aligned}
+\begin{align*}
   Q &= It \\
   V &= \frac{E}{Q} \\
   V &= IR \\
   P &= VI \\
   E &= VIt
-\end{aligned}
+\end{align*}
 $$
 
 #### Series
 
 $$
-\begin{aligned}
+\begin{align*}
   A&=A_1=A_2=\dots=A_n \\
   V&=V_1+V_2+\dots+V_n \\
   R&=R_1+R_2+\dots+R_n
-\end{aligned}
+\end{align*}
 $$
 
 #### Parallel
 $$
-\begin{aligned}
+\begin{align*}
   A&=A_1+A_2+\dots+A_n \\
   V&=V_1=V_2=\dots=V_n \\
   \frac{1}{R}&=\frac{1}{R_1}+\frac{1}{R_2}+\dots+\frac{1}{R_n} \\
   R&=\frac{R_1\cdot R_2}{R_1+R_2}
-\end{aligned}
+\end{align*}
 $$
 
 #### Potential divider
@@ -133,37 +133,37 @@ $$\frac{V_{\text{in}}}{R_\text{total}} = \frac{V_{\text{out}}}{R_\text{out}}$$
 #### Transformer
 
 $$
-\begin{aligned}
+\begin{align*}
   \frac{V_p}{N_p} &= \frac{V_s}{N_s} \\
   V_pI_p &= V_sI_s \\
-\end{aligned}
+\end{align*}
 $$
 
 ## Light
 
 $$
-\begin{aligned}
+\begin{align*}
   n &= \frac{c}{v} = \frac{\sin i}{\sin r} \\
   n &= \frac{\sin 90\degree}{\sin c} = \frac{1}{\sin c} \\
-\end{aligned}
+\end{align*}
 $$
 
 ## Waves
 
 $$
-\begin{aligned}
+\begin{align*}
   v &= f\lambda \\
   f &= \frac{1}{T} \\
-\end{aligned}
+\end{align*}
 $$
 
 ## Space
 
 $$
-\begin{aligned}
+\begin{align*}
   H_0 &= \frac{v}{d} \\
   t &= \frac{1}{H_0} \\
-\end{aligned}
+\end{align*}
 $$
 
 <br>
@@ -171,11 +171,11 @@ $$
 # Constants
 
 $$
-\begin{aligned}
+\begin{align*}
   c &= 3\cdot10^8 \text{ m/s} \\
   \text{sound \scriptsize(air)} &= 340 \text{ m/s} \\
   \text{sound \scriptsize(water)} &= 1500 \text{ m/s} \\
   H_0 &= 2.3 \cdot 10^{-18} \\
   \text{light year} &= 9.5 \cdot 10^{15} \text{~m}
-\end{aligned}
+\end{align*}
 $$

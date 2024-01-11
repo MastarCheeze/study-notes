@@ -3,13 +3,13 @@
 ## Properties
 
 $$
-\begin{aligned}
+\begin{align*}
   a^m \cdot a^n &= a^{m+n} \\
   \frac{a^m}{a^n} &= a^{m-n} \\
   (a^m)^n &= a^{mn} \\
   \sqrt[n]{a^m} &= a^\frac{m}{n} \\
   a^{-m} &= \frac{1}{a^m}
-\end{aligned}
+\end{align*}
 $$
 
 ## Common Indices
@@ -31,40 +31,40 @@ $$
 
 1. Same base
    $$
-   \begin{aligned}
+   \begin{align*}
      3^x &= 27 \\
      3^x &= 3^3 \\
      x &= 3
-   \end{aligned}
+   \end{align*}
    $$
 
 2. Different base
    $$
-   \begin{aligned}
+   \begin{align*}
      3^x &= 2 \\
      x &= \log_32
-   \end{aligned}
+   \end{align*}
    $$
 
 3. Single term (linear)
    $$
-   \begin{aligned}
+   \begin{align*}
      5^{x+1}-5^x &= 8 \\
      5(5^x)-5^x &= 8 \\
      4(5^x) &= 8 \\
      5^x &= 2 \\
      x &= \log_52
-   \end{aligned}
+   \end{align*}
    $$
 
 4. Single term (quadratic)
    $$
-   \begin{aligned}
+   \begin{align*}
      9^x-3^{x+1} &= 4 \\
      (3^{x})^2-3(3^x) -4 &= 0 \\
      (3^x-4)(3^x+1) &= 0 \\
      \text{(1)} \quad 3^x &= 4 \\
      x &= \log_34 \\
      \text{(2)} \quad 3^x &= -1 \quad \text{(no solution)} \\
-   \end{aligned}
+   \end{align*}
    $$

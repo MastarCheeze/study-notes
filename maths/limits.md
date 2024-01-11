@@ -27,10 +27,10 @@ Whenever a point $x$ is within $\delta$ units of $c$, $f(x)$ is within $\epsilon
 ![Jump discontinuity](images/discontinuity-jump-2.png)
 
 $$
-\begin{aligned}
+\begin{align*}
   \lim_{x\rightarrow3^-}f(x) &= 6 \quad \scriptsize\text{(From the left -)} \\
   \lim_{x\rightarrow3^+}f(x) &= 2 \quad \scriptsize\text{(From the right +)}
-\end{aligned}
+\end{align*}
 $$
 
 ## Asymptotes
@@ -39,18 +39,18 @@ $$
 
 Vertical asymptotes
 $$
-\begin{aligned}
+\begin{align*}
   \lim_{x\rightarrow3^-}f(x) &= \infty \\
   \lim_{x\rightarrow3^+}f(x) &= -\infty
-\end{aligned}
+\end{align*}
 $$
 
 Horizontal asymptotes
 $$
-\begin{aligned}
+\begin{align*}
   \lim_{x\rightarrow\infty}f(x) &= 1 \\
   \lim_{x\rightarrow-\infty}f(x) &= 1
-\end{aligned}
+\end{align*}
 $$
 
 # **Solving Limits**
@@ -64,18 +64,18 @@ $$\lim_{x\rightarrow c}a = a$$
 
 - Sum & difference rule
 $$
-\begin{aligned}
+\begin{align*}
   \lim_{x\rightarrow c}[f(x)+g(x)] &= \lim_{x\rightarrow c}f(x) + \lim_{x\rightarrow c}g(x) \\
   \lim_{x\rightarrow c}[f(x)-g(x)] &= \lim_{x\rightarrow c}f(x) - \lim_{x\rightarrow c}g(x)
-\end{aligned}
+\end{align*}
 $$
 
 - Product & quotient rule
 $$
-\begin{aligned}
+\begin{align*}
   \lim_{x\rightarrow c}[f(x)\cdot g(x)] &= \lim_{x\rightarrow c}f(x) \cdot \lim_{x\rightarrow c}g(x) \\
   \lim_{x\rightarrow c}\left[\frac{f(x)}{g(x)}\right] &= \frac{\displaystyle\lim_{x\rightarrow c}f(x)}{\displaystyle\lim_{x\rightarrow c}g(x)}
-\end{aligned}
+\end{align*}
 $$
 
 - Constant multiple rule
@@ -83,10 +83,10 @@ $$\lim_{x\rightarrow c}[k\cdot f(x)] = k\cdot\lim_{x\rightarrow c}f(x)$$
 
 - Power & root rule
 $$
-\begin{aligned}
+\begin{align*}
   \lim_{x\rightarrow c}~[f(x)]^n &= \left[\lim_{x\rightarrow c}f(x)\right]^n \\
   \lim_{x\rightarrow c}\sqrt[n]{f(x)} &= \sqrt[n]{\lim_{x\rightarrow c}f(x)}
-\end{aligned}
+\end{align*}
 $$
 
 - Composite rule
@@ -95,7 +95,7 @@ $$\lim_{x\rightarrow c}f(g(x)) = f\left(\lim_{x\rightarrow c}g(x)\right)$$
 ## Important Limits
 
 $$
-\begin{aligned}
+\begin{align*}
   \lim_{x\rightarrow 0^+}\frac{1}{x} &= \infty \\
   \lim_{x\rightarrow 0^-}\frac{1}{x} &= -\infty \\
   \lim_{x\rightarrow \infty}\frac{1}{x} &= 0 \\
@@ -104,7 +104,7 @@ $$
   \lim_{x\rightarrow 0}\frac{\sin x}{x} &= \lim_{x\rightarrow 0}\frac{x}{\sin x} &= 1 \\
   \lim_{x\rightarrow 0}\frac{\cos x-1}{x} &= \lim_{x\rightarrow 0}\frac{1-\cos x}{x} &= 1 \\
   \lim_{x\rightarrow \infty}\left(1+\frac{1}{x}\right)^x &= e \approx 2.718
-\end{aligned}
+\end{align*}
 $$
 
 ## Limits at infinity $\scriptsize(\lim_{x\rightarrow\infty})$

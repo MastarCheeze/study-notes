@@ -6,10 +6,10 @@
 **Electron flow direction**: electrons travel from - to +.
 
 > $$
-\begin{aligned}
+\begin{align*}
   Q &= It \\
   \mathrm{charge} &= \mathrm{current \cdot time}
-\end{aligned}
+\end{align*}
 > $$
 >
 > Unit: Coulomb (C) \

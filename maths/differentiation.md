@@ -47,39 +47,39 @@ A derivative fails to exist:
 
 - Exponential functions
   $$
-  \begin{aligned}
+  \begin{align*}
     \frac{d}{dx}[e^x] &= e^x \\
     \frac{d}{dx}[a^x] &= a^x \cdot \ln(a)
-  \end{aligned}
+  \end{align*}
   $$
 
 - Logarithmic functions
   $$
-  \begin{aligned}
+  \begin{align*}
     \frac{d}{dx}[\ln x] &= \frac{1}{x} \\
     \frac{d}{dx}[\log_a x] &= \frac{1}{x \cdot \ln a}
-  \end{aligned}
+  \end{align*}
   $$
 
 - Trigonometric functions
   $$
-  \begin{aligned}
+  \begin{align*}
     \frac{d}{dx}[\sin x] &= \cos x \\
     \frac{d}{dx}[\cos x] &= -\sin x \\
     \frac{d}{dx}[\tan x] &= \sec^2x &= \frac{1}{\cos^2x} \\
     \frac{d}{dx}[\sec x] &= \sec x \cdot \tan x &= \frac{\sin x}{\cos^2x} \\
     \frac{d}{dx}[\csc x] &= -\csc x \cdot \cot x &= -\frac{\cos x}{\sin^2x} \\
     \frac{d}{dx}[\cot x] &= -\csc^2x &= -\frac{1}{\sin^2x}
-  \end{aligned}
+  \end{align*}
   $$
 
 - Inverse trigonometric functions
   $$
-  \begin{aligned}
+  \begin{align*}
     \frac{d}{dx}[\sin^{-1} x] &= \frac{1}{\sqrt{1 - x^2}} \\
     \frac{d}{dx}[\cos^{-1} x] &= -\frac{1}{\sqrt{1 - x^2}} \\
     \frac{d}{dx}[\tan^{-1} x] &= -\frac{1}{1 + x^2} \\
-  \end{aligned}
+  \end{align*}
   $$
   $$$$
   $$$$
@@ -89,10 +89,10 @@ A derivative fails to exist:
 - Differentiate both sides of equation with respect to x.
 - If expression does not contain x (contains y), use the chain rule:
   $$
-  \begin{aligned}
+  \begin{align*}
     \frac{d}{dx}[y^4] &= \frac{d}{dy}[y^4] \cdot \frac{dy}{dx} \\
     &= 4y^3 \cdot \frac{dy}{dx}
-  \end{aligned}
+  \end{align*}
   $$
 - Solve for dy/dx.
 

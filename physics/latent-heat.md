@@ -5,10 +5,10 @@ The heat or energy that is absorbed or released during a phase change of a subst
 ### Specific latent heat
 
 > $$
-\begin{aligned}
+\begin{align*}
   E &= mL \\
   \mathrm{energy~transferred} &= \mathrm{mass \cdot specific~latent~heat}
-\end{aligned}
+\end{align*}
 > $$
 > Unit: J/kg \
 > Energy required to transform 1 kg of mass to the next state

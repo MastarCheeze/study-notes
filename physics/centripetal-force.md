@@ -3,11 +3,11 @@
 Inward force that makes object move in circle
 
 $$
-\begin{aligned}
+\begin{align*}
   \mathrm{mass} &\propto \mathrm{centripetal~force} \\
   \mathrm{speed} &\propto \mathrm{centripetal~force} \\
   \mathrm{radius} &\propto \frac{1}{\mathrm{centripetal~force}}
-\end{aligned}
+\end{align*}
 $$
 
 ## Orbit

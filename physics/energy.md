@@ -7,10 +7,10 @@ Energy cannot be created nor destroyed, only converted from one form of energy t
 ## Work
 
 > $$
-\begin{aligned}
+\begin{align*}
   W &= Fd \\
   \mathrm{work} &= \mathrm{force \cdot displacement}
-\end{aligned}
+\end{align*}
 > $$
 >
 > Unit: J (N m) \
@@ -32,19 +32,19 @@ Energy cannot be created nor destroyed, only converted from one form of energy t
 ### Gravitational potential energy
 
 > $$
-\begin{aligned}
+\begin{align*}
   \text{GPE} &= \mathrm{mgh} \\
   &= \mathrm{mass \cdot gravitational~field~strength \cdot height}
-\end{aligned}
+\end{align*}
 > $$
 
 ### Kinetic energy
 
 > $$
-\begin{aligned}
+\begin{align*}
   \text{KE} &= \frac{1}{2}mv^2 \\
   &= \frac{1}{2} \cdot \mathrm{mass \cdot velocity^2}
-\end{aligned}
+\end{align*}
 > $$
 
 ## Transfer of energy

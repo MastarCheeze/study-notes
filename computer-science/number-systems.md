@@ -12,12 +12,12 @@
 ### Addition
 
 $$
-\begin{aligned}
+\begin{align*}
   0 + 0 &= 0 \\
   1 + 0 &= 1 \\
   1 + 1 &= 10 \\
   1 + 1 + 1 &= 11 \\
-\end{aligned}
+\end{align*}
 $$
 
 Overflow error: calculated number is larger than storage space

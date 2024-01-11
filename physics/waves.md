@@ -44,10 +44,10 @@ Examples
 ## Wave equation
 
 > $$
-\begin{aligned}
+\begin{align*}
   v &= f\lambda \\
   \mathrm{speed} &= \mathrm{frequency \cdot wavelength}
-\end{aligned}
+\end{align*}
 > $$
 >
 > $\small\text{speed} \propto \text{wavelength}$
@@ -55,10 +55,10 @@ Examples
 ## Frequency equation
 
 > $$
-\begin{aligned}
+\begin{align*}
   f &= \frac{1}{T} \\
   \mathrm{frequency} &= \mathrm{\frac{1}{period}}
-\end{aligned}
+\end{align*}
 > $$
 
 ## Speed of waves

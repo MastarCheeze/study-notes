@@ -39,11 +39,11 @@ $\displaystyle R=\frac{R_1\cdot R_2}{R_1+R_2}$
 Delivers only a proportion of voltage from a battery
 
 > $$
-\begin{aligned}
+\begin{align*}
   \frac{V_{\text{in}}}{R_\text{total}} &= \frac{V_{\text{out}}}{R_\text{out}} \\
   \frac{V_{\text{in}}}{R_1+R_2} &= \frac{V_{\text{out}}}{R_1} \\
   \\
   R_1 &\propto V_{\text{out}} \\
   R_2 &\propto \frac{1}{V_{\text{out}}}
-\end{aligned}
+\end{align*}
 > $$

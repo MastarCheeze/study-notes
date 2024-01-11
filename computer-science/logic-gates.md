@@ -20,10 +20,10 @@
 ![NOT gate](images/logic-gate-not.png)
 
 > $$
-\begin{aligned}
+\begin{align*}
   \text{X} &= \text{NOT A} \\
   \mathrm{X} &= \mathrm{\overline{A}}
-\end{aligned}
+\end{align*}
 > $$
 
 | A   | X     |
@@ -35,10 +35,10 @@
 ![AND gate](images/logic-gate-and.png)
 
 > $$
-\begin{aligned}
+\begin{align*}
   \text{X} &= \text{A AND B} \\
   \mathrm{X} &= \mathrm{A.B}
-\end{aligned}
+\end{align*}
 > $$
 
 | A   | B   | X     |
@@ -52,10 +52,10 @@
 ![OR gate](images/logic-gate-or.png)
 
 > $$
-\begin{aligned}
+\begin{align*}
   \text{X} &= \text{A OR B} \\
   \mathrm{X} &= \mathrm{A+B}
-\end{aligned}
+\end{align*}
 > $$
 
 | A   | B   | X     |
@@ -69,10 +69,10 @@
 ![NAND gate](images/logic-gate-nand.png)
 
 > $$
-\begin{aligned}
+\begin{align*}
   \text{X} &= \text{A AND B} \\
   \mathrm{X} &= \mathrm{\overline{A.B}}
-\end{aligned}
+\end{align*}
 > $$
 
 | A   | B   | X     |
@@ -86,10 +86,10 @@
 ![NOR gate](images/logic-gate-nor.png)
 
 > $$
-\begin{aligned}
+\begin{align*}
   \text{X} &= \text{A OR B} \\
   \mathrm{X} &= \mathrm{\overline{A+B}}
-\end{aligned}
+\end{align*}
 > $$
 
 | A   | B   | X     |
@@ -103,10 +103,10 @@
 ![XOR gate](images/logic-gate-xor.png)
 
 > $$
-\begin{aligned}
+\begin{align*}
   \text{X} &= \text{A XOR B} \\
   \mathrm{X} &= \mathrm{A\oplus B}
-\end{aligned}
+\end{align*}
 > $$
 
 | A   | B   | X     |

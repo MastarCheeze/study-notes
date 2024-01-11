@@ -8,7 +8,7 @@
 
 Examples:
 $$
-\begin{aligned}
+\begin{align*}
   \ce{\underset{(aq)}{Pb(NO3)2} + \underset{(aq)}{2KCl} &-> \underset{(aq)}{2KNO3} + \underset{(s)}{PbCl2}} \\
   \ce{Pb^2+ + \cancel{\ce{2NO3-}} + \cancel{\ce{2K+}} + 2Cl- &-> \cancel{\ce{2K+}} + \cancel{\ce{2NO3-}} + PbCl2} \\
   \ce{\underset{(aq)}{Pb^2+} + \underset{(aq)}{2Cl-} &-> \underset{(s)}{PbCl2}}
@@ -18,7 +18,7 @@ $$
   \ce{2H+ + \cancel{\ce{SO4^2-}} + \cancel{\ce{Na+}} + 2OH- &-> \cancel{\ce{Na+}} + \cancel{\ce{SO4^2-}} + 2H2O} \\
   \ce{2H+ + 2OH- &-> 2H2O} \\
   \ce{\underset{(aq)}{H+} + \underset{(aq)}{OH-} &-> \underset{(l)}{H2O}}
-\end{aligned}
+\end{align*}
 $$
 
 ## Half ionic

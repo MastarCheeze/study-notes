@@ -47,12 +47,12 @@ $$\ce{CH3COOH <=>[\text{<100\% disassociated}] H+ + CH3COO-}$$
 # Reactions
 
 $$
-\begin{aligned}
+\begin{align*}
   \ce{acid + alkali &-> salt + water} \\
   \ce{acid + metal &-> salt + hydrogen} \\
   \ce{acid + metal oxide &-> salt + water} \\
   \ce{acid + carbonate &-> salt + water + carbon dioxide}
-\end{aligned}
+\end{align*}
 $$
 
 <br>
@@ -89,12 +89,12 @@ $$
 ### From insoluble base / carbonate
 
 $$
-\begin{aligned}
+\begin{align*}
   \ce{acid + alkali &-> salt + water} \\
   \ce{acid + metal &-> salt + hydrogen} \\
   \ce{acid + metal oxide &-> salt + water} \\
   \ce{acid + carbonate &-> salt + water + carbon dioxide}
-\end{aligned}
+\end{align*}
 $$
 
 1. Add excess insoluble base / carbonate to acid and heat

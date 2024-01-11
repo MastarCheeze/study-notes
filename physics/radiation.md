@@ -16,10 +16,10 @@
 > Time taken for half the nuclei to decay
 >
 > $$
-\begin{aligned}
+\begin{align*}
   N &= \frac{N_0}{2^{\frac{t}{h}}} \\
   \mathrm{amount~of~substance} &= \mathrm{\frac{initial~amoun t}{2^{\frac{time}{\text{half-life}}}}} \\
-\end{aligned}
+\end{align*}
 > $$
 
 ## Alpha decay

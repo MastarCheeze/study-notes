@@ -3,10 +3,10 @@
 ## Quadratic formula
 
 $$
-\begin{aligned}
+\begin{align*}
   ax^2+bx+c &= 0 \\
   x &= \frac{-b\pm\sqrt{b^2-4ac}}{2a}
-\end{aligned}
+\end{align*}
 $$
 
 ## Discriminant
@@ -27,19 +27,19 @@ $$d = b^2-4ac$$
 ### Completing the square
 
 $$
-\begin{aligned}
+\begin{align*}
   x^2+bx+c &= x^2+bx+\left(\frac{b}{2}\right)^2-\left(\frac{b}{2}\right)^2+c \\
   &= \left(x-\frac{b}{2}\right)^2-\left(\frac{b}{2}\right)^2+c
-\end{aligned}
+\end{align*}
 $$
 
 $$
-\begin{aligned}
+\begin{align*}
   ax^2+bx+c &= a\left(x^2+\frac{bx}{a}\right)+c \\
   &= a\left[x^2+\frac{bx}{a}+\left(\frac{b}{2a}\right)^2-\left(\frac{b}{2a}\right)^2\right] + c \\
   &= a\left[\left(x-\frac{b}{2a}\right)^2-\left(\frac{b}{2a}\right)^2\right] + c \\
   &= a\left(x-\frac{b}{2a}\right)^2-a\left(\frac{b}{2a}\right)^2+c
-\end{aligned}
+\end{align*}
 $$
 
 ![Graphical representation of completing the square](images/completing-the-square.png)

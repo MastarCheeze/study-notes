@@ -23,11 +23,11 @@ $360\degree = 2\pi r\textrm{ rad}$
 ![Parts of a circle](images/parts-of-a-circle.png)
 
 $$
-\begin{aligned}
+\begin{align*}
   \mathrm{length~of~arc} &= r\theta \\
   \mathrm{area~of~sector} &= \frac{1}{2}r^2\theta \\
   \mathrm{length~of~chord} &= 2r\sin\frac{\theta}{2} \\
   \mathrm{area~of~triangle} &= \frac{1}{2}r^2\sin\theta \\
   \mathrm{area~of~segment} &= \frac{1}{2}r^2\theta - \frac{1}{2}r^2\sin\theta
-\end{aligned}
+\end{align*}
 $$

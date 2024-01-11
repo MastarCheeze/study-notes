@@ -49,10 +49,10 @@ Land breeze
 **Heat transfer without a medium** (via infrared rays)
 
 $$
-\begin{aligned}
+\begin{align*}
   \mathrm{surface~area} &\propto \mathrm{energy~radiated} \\
   \mathrm{temperature} &\propto \mathrm{energy~radiated}
-\end{aligned}
+\end{align*}
 $$
 
 Dark & dull = good absorber / emitter \

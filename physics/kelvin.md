@@ -1,10 +1,10 @@
 # Kelvin
 
 > $$
-\begin{aligned}
+\begin{align*}
   K &= C + 273 \\
   \mathrm{kelvin} &= \mathrm{celcius + 273}
-\end{aligned}
+\end{align*}
 > $$
 
 ## Absolute zero

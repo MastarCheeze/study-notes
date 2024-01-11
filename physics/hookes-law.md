@@ -1,10 +1,10 @@
 # Hooke's Law
 
 > $$
-\begin{aligned}
+\begin{align*}
   F &= kx \\
   \mathrm{load} &= \mathrm{spring~constant \cdot extension}
-\end{aligned}
+\end{align*}
 > $$
 >
 > Unit of k: N/m
@@ -14,10 +14,10 @@ A material obeys Hooke's law if **extension is directly proportional to load** (
 Also
 
 > $$
-\begin{aligned}
+\begin{align*}
   \frac{F_1}{x_1} &= \frac{F_2}{x_2} \\
   \mathrm{\frac{force_1}{extension_1}} &= \mathrm{\frac{force_2}{extension_2}}
-\end{aligned}
+\end{align*}
 > $$
 > Only for the same spring
 

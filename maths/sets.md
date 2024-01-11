@@ -3,12 +3,12 @@
 ## Notation
 
 $$
-\begin{aligned}
+\begin{align*}
   \xi &= \{1, 2, 3, 4, 5\} \enspace \scriptsize\text{(universal set)} \\
   A &= \{1, 2, 3\} \\
   B &= \{3, 4, 5\} \\
   C &= \{\} = \varnothing \enspace \scriptsize\text{(empty set)}
-\end{aligned}
+\end{align*}
 $$
 
 Set builder notation
@@ -20,10 +20,10 @@ $$
 ### Member of
 
 $$
-\begin{aligned}
+\begin{align*}
   1 &\in A \\
   4 &\notin A
-\end{aligned}
+\end{align*}
 $$
 
 ### Subset
@@ -32,12 +32,12 @@ Proper subset $\subset$ - both sets cannot be equal \
 Improper subset $\subseteq$ - both sets can be equal
 
 $$
-\begin{aligned}
+\begin{align*}
   \{1, 2\} &\subset A \\
   \{1, 2, 3\} &\subseteq A \\
   \{1, 2\} &\not\subset B \\
   \{1, 2, 3\} &\not\subseteq B \\
-\end{aligned}
+\end{align*}
 $$
 
 ## Operators

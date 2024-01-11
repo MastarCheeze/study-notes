@@ -3,10 +3,10 @@
 ## Force
 
 > $$
-\begin{aligned}
+\begin{align*}
   P &= \frac{E}{t} \\
   \mathrm{power} &= \mathrm{\frac{energy~transferred}{time~taken}}
-\end{aligned}
+\end{align*}
 > $$
 > Unit: Watt (W) \
 > Energy transferred per unit time
@@ -14,18 +14,18 @@
 ## Electricity
 
 > $$
-\begin{aligned}
+\begin{align*}
   P &= VI \\
   \mathrm{power} &= \mathrm{voltage \cdot current}
-\end{aligned}
+\end{align*}
 > $$
 >
 > Unit: Watt (W)
 
 Derived from $P=VI$ and $P=\frac{E}{t}$:
 > $$
-\begin{aligned}
+\begin{align*}
   E &= VIt \\
   \mathrm{energy} &= \mathrm{voltage \cdot current \cdot time}
-\end{aligned}
+\end{align*}
 > $$

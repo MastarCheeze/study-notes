@@ -22,10 +22,10 @@ Definition: **Force of gravity acting on object**
 ## Formula
 
 > $$
-\begin{aligned}
+\begin{align*}
   F &= mg \\
   \mathrm{weight} &= \mathrm{mass \cdot gravitational~field~strength}
-\end{aligned}
+\end{align*}
 > $$
 >
 > Unit of g: N/kg or m/s<sup>2</sup>

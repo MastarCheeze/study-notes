@@ -3,10 +3,10 @@
 Turning effect of a force
 
 > $$
-\begin{aligned}
+\begin{align*}
   M &= Fd \\
   \mathrm{moment~of~force} &= \mathrm{force \cdot perpendicular~distance~from~pivot}
-\end{aligned}
+\end{align*}
 > $$
 >
 > Unit: N m
