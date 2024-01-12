@@ -57,8 +57,8 @@ $$
   p &= mv \\
   \Delta p &= F\Delta t \\
   F &= \frac{\Delta p}{\Delta t} = \frac{m(v-u)}{\Delta t} \\
-  F &= mg \\
-  M &= Fd \\
+  \tag*{\scriptsize ~~~~~~~~~~~~~~~~~~~(weight)} F &= mg \\
+  \tag*{\scriptsize ~~~(moment of force)} M &= Fd \\
 \end{align*}
 $$
 
@@ -77,7 +77,8 @@ $$
 
 $$
 \begin{align*}
-  F &= kx \\
+  \tag*{\scriptsize (Hooke's law)} F &= kx \\
+  \frac{F_1}{x_1} &= \frac{F_2}{x_2} \\
 \end{align*}
 $$
 
@@ -87,7 +88,7 @@ $$
 \begin{align*}
   p &= \frac{F}{A} \\
   p &= \rho gh \\
-  p_1V_1 &= p_2V_2 \\
+  \tag*{\scriptsize (Boyle's law)} p_1V_1 &= p_2V_2 \\
   E &= mc\Delta\theta \\
   E &= C\Delta\theta \\
   E &= mL \\
@@ -101,6 +102,7 @@ $$
   Q &= It \\
   V &= \frac{E}{Q} \\
   V &= IR \\
+  R &= \rho \cdot \frac{l}{A} \\
   P &= VI \\
   E &= VIt
 \end{align*}
@@ -128,7 +130,11 @@ $$
 
 #### Potential divider
 
-$$\frac{V_{\text{in}}}{R_\text{total}} = \frac{V_{\text{out}}}{R_\text{out}}$$
+$$
+\begin{align*}
+  \frac{V_{\text{in}}}{R_\text{total}} &= \frac{V_{\text{out}}}{R_\text{out}}
+\end{align*}
+$$
 
 #### Transformer
 
@@ -143,7 +149,7 @@ $$
 
 $$
 \begin{align*}
-  n &= \frac{c}{v} = \frac{\sin i}{\sin r} \\
+  \tag*{\scriptsize (Snell's law)} n &= \frac{c}{v} = \frac{\sin i}{\sin r} \\
   n &= \frac{\sin 90\degree}{\sin c} = \frac{1}{\sin c} \\
 \end{align*}
 $$
@@ -157,12 +163,20 @@ $$
 \end{align*}
 $$
 
+## Nuclear
+
+$$
+\begin{align*}
+  N &= \frac{N_0}{2^{\frac{t}{h}}} \\
+\end{align*}
+$$
+
 ## Space
 
 $$
 \begin{align*}
-  H_0 &= \frac{v}{d} \\
-  t &= \frac{1}{H_0} \\
+  \tag*{\scriptsize ~~~(Hubble's law)} H_0 &= \frac{v}{d} \\
+  \tag*{\scriptsize (age of universe)} t &= \frac{1}{H_0} \\
 \end{align*}
 $$
 

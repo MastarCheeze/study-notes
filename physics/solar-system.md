@@ -24,5 +24,5 @@ Nearer - Faster \
 ## Accretion model
 
 1. Rotating accretion disc (gradual growth by addition of material)
-2. Gas driven off by radiation
+2. Gas driven off by Sun's radiation
 3. **Inner planets small & rocky, outer planets gas giants**
