@@ -32,7 +32,6 @@ Top to bottom
 > ![Reactivity of alkali metals](images/reactivity-of-alkali-metals.png)
 >
 > **Reactivity & melting point** \
-> ⬆ attractive force on valence electron, ⬇ reactive, ⬆ melting point \
 > ⬇ attractive force on valence electron, ⬆ reactive, ⬇ melting point
 
 ## Halogens (Group VII)
@@ -50,11 +49,9 @@ Top to bottom
 > ![Reactivity of halogens](images/reactivity-of-halogens.png)
 >
 > **Reactivity** \
-> ⬆ attractive force on other electrons, ⬆ reactive \
 > ⬇ attractive force on other electrons, ⬇ reactive
 >
 > **Boiling point** \
-> ⬇ molecule size, ⬇ boiling point \
 > ⬆ molecule size, ⬆ boiling point
 
 ## Transition elements

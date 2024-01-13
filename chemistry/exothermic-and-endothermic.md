@@ -6,7 +6,7 @@
 
 > Overall energy change of reaction
 >
-> $$\mathrm{\Delta H} = \text{energy to break bonds} - \text{energy released making bonds}$$
+> $$\mathrm{\Delta H} = \underset{\text{(energy in)}}{\text{energy to break bonds}} - \underset{\text{(energy out)}}{\text{energy released making bonds}}$$
 
 <br>
 
