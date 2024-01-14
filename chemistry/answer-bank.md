@@ -11,7 +11,7 @@
 - Different number of neutrons
 
 ### Why have similar chemical properties
-Same number of valence electrons
+Same number of outer shell (valence) electrons
 
 ### What is equilibrium
 - Rate of forwards/backwards reaction is equal

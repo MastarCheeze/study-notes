@@ -3,9 +3,13 @@
 ## Combinations
 
 $$
+\boxed{\Large(x+y)^n = \Large\sum^n_{k=0} \begin{pmatrix} n \\ k \end{pmatrix} x^ky^{n-k}}
+$$
+
+<br>
+
+$$
 \begin{align*}
-  \Large(x+y)^n &= \Large\sum^n_{k=0} \begin{pmatrix} n \\ k \end{pmatrix} x^ky^{n-k} \\
-  \\
   (x+y)^0 &= \begin{pmatrix} 0 \\ 0 \end{pmatrix} \\
   (x+y)^1 &= \begin{pmatrix} 1 \\ 0 \end{pmatrix}x + \begin{pmatrix} 1 \\ 1 \end{pmatrix}y \\
   (x+y)^2 &= \begin{pmatrix} 2 \\ 0 \end{pmatrix}x^2 + \begin{pmatrix} 2 \\ 1 \end{pmatrix}xy + \begin{pmatrix} 2 \\ 2 \end{pmatrix}y \\

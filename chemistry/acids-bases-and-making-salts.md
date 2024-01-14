@@ -83,7 +83,7 @@ $$
 \ce{acid + alkali -> salt + water}
 $$
 
-1. Titration - mix exact amount of acid and alkali
+1. Titration - mix exact amount of acid and alkali (with indicator)
 2. Crystallisation - heat to evaporate water, then cool to form crystals
 
 ### From insoluble base / carbonate

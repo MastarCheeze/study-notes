@@ -8,7 +8,7 @@
 | pressure    | 200 atm |
 | catalyst    | iron    |
 
-nitrogen + hydrogen $\rightleftharpoons$ ammonia \
+**nitrogen + hydrogen $\rightleftharpoons$ ammonia** \
 $\ce{N2 + 3H2 <=> 2NH3}$ \
 forward reaction: **exothermic**
 
