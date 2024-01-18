@@ -1,6 +1,7 @@
 # Validation
 
-Checking if data is reasonable / within bounds
+Automated check \
+Check if data is reasonable / within bounds
 
 ## Range check
 
@@ -26,7 +27,7 @@ Checking if data is reasonable / within bounds
 
 # Verification
 
-Checking if data is entered accurately / same as original
+Check if data is entered accurately / same as original
 
 ## Visual check
 

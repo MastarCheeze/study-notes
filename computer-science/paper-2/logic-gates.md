@@ -17,7 +17,7 @@
 > - Input → apply logic → output
 
 ## NOT
-![NOT gate](images/logic-gate-not.png)
+![NOT gate](../images/logic-gate-not.png)
 
 > $$
 \begin{align*}
@@ -32,7 +32,7 @@
 | 1   | **0** |
 
 ## AND
-![AND gate](images/logic-gate-and.png)
+![AND gate](../images/logic-gate-and.png)
 
 > $$
 \begin{align*}
@@ -49,7 +49,7 @@
 | 1   | 1   | **1** |
 
 ## OR
-![OR gate](images/logic-gate-or.png)
+![OR gate](../images/logic-gate-or.png)
 
 > $$
 \begin{align*}
@@ -66,7 +66,7 @@
 | 1   | 1   | **1** |
 
 ## NAND
-![NAND gate](images/logic-gate-nand.png)
+![NAND gate](../images/logic-gate-nand.png)
 
 > $$
 \begin{align*}
@@ -83,7 +83,7 @@
 | 1   | 1   | **0** |
 
 ## NOR
-![NOR gate](images/logic-gate-nor.png)
+![NOR gate](../images/logic-gate-nor.png)
 
 > $$
 \begin{align*}
@@ -100,7 +100,7 @@
 | 1   | 1   | **0** |
 
 ## XOR
-![XOR gate](images/logic-gate-xor.png)
+![XOR gate](../images/logic-gate-xor.png)
 
 > $$
 \begin{align*}

@@ -56,7 +56,7 @@
 
 ### Packet switching
 
-![Network for packet switching](images/packet-switching.png)
+![Network for packet switching](../images/packet-switching.png)
 
 1. Data split into packets
 2. Router controls route \

@@ -40,7 +40,7 @@ Right shift
 
 ## Negative binary (two's complement)
 
-![Two's complement with value of each bit shown](images/twos-complement.jpg)
+![Two's complement with value of each bit shown](../images/twos-complement.jpg)
 
 <p></p>
 Converting (both ways):

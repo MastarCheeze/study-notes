@@ -90,7 +90,7 @@
 
 ### Fetch
 
-![Fetch cycle](images/fetch.png)
+![Fetch cycle](../images/fetch.png)
 
 1. **[PC](#pc)** stores address of next instruction (to be processed)
    - copied to [MAR](#mar) via [Address bus](#address-bus)

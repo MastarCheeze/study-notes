@@ -27,9 +27,13 @@
 
 `AND` &emsp; `OR`
 
+#### Primary key
+
+> Unique identifier
+
 <br>
 
-![Parts of a SQL table](images/parts-of-a-sql-table.gif)
+![Parts of a SQL table](../images/parts-of-a-sql-table.gif)
 
 ## `SELECT ... FROM`
 

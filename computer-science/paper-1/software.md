@@ -7,7 +7,7 @@
 
 <br>
 
-![Software dependencies (1)](images/software-dependencies-1.png) ![Software dependencies (2)](images/software-dependencies-2.png)
+![Software dependencies (1)](../images/software-dependencies-1.png) ![Software dependencies (2)](../images/software-dependencies-2.png)
 
 <br>
 
