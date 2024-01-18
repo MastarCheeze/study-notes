@@ -73,6 +73,6 @@
 - Functions perform task
 - Returns value
 
-<br>
+<br><br>
 
 [^UPS]: Uninterruptible Power Supply
