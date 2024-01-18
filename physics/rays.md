@@ -29,4 +29,9 @@ see [Speed of Light](./waves.md#speed-of-waves)
 \end{align*}
 > $$
 >
-> When angle of incidence > critical angle, all light is reflected (no refraction).
+> - Angle of incidence > critical angle \
+>   All light is reflected (no refraction)
+> - Angle of incidence = critical angle \
+>   All light is refracted on the boundary (90˚)
+> - Angle of incidence < critical angle \
+>   Some light is reflected and some light is refracted

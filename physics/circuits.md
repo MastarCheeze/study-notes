@@ -32,6 +32,8 @@ $\displaystyle \frac{1}{R}=\frac{1}{R_1}+\frac{1}{R_2}+\dots+\frac{1}{R_n}$
 
 $\displaystyle R=\frac{R_1\cdot R_2}{R_1+R_2}$
 
+<br>
+
 ## Potential divider
 
 ![Potential divider](images/potential-divider.png)
@@ -47,3 +49,7 @@ Delivers only a proportion of voltage from a battery
   R_2 &\propto \frac{1}{V_{\text{out}}}
 \end{align*}
 > $$
+
+## Rectifier
+
+![Rectifier](images/rectifier.png)

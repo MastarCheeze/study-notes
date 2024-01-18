@@ -4,7 +4,7 @@
 
 ![Transverse wave](images/transverse-wave.jpg)
 
-**Oscillations perpendicular to direction of travel**
+**Oscillations <u>perpendicular</u> to direction of travel**
 
 <p></p>
 Examples
@@ -17,7 +17,7 @@ Examples
 
 ![Longitudinal wave](images/longitudinal-wave.jpg)
 
-**Oscillations parallel to direction of travel**
+**Oscillations <u>parallel</u> to direction of travel**
 
 Compressions - part of wave with high pressure \
 Rarefactions - part of wave with low pressure

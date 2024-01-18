@@ -7,6 +7,7 @@
 2. Protostar
    - Gravitational attraction (inward force) = high temperature (outward force)
 3. Star (stable)
+   - [Accretion disc](./solar-system.md#accretion-model)
    - [Nuclear fusion](./fission-and-fusion.md#fusion) of hydrogen → helium
    - Run out of hydrogen
    - Expand

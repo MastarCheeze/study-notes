@@ -59,13 +59,13 @@ Extension proportional to load (obey Hooke's Law) up to this limit
 ### What is power
 Rate of doing work
 
-### What is specific thermal capacity
+### What is specific thermal capacity *
 Energy needed to raise temperature by 1˚C
 
 ### What is internal energy
 Total kinetic and potential energy of all molecules
 
-### What is specific latent heat of fusion/vaporisation
+### What is specific latent heat of fusion/vaporisation *
 - Amount of energy **transferred**
 - To melt or freeze / boil or condense
 
@@ -151,7 +151,7 @@ Fewer excess neutrons in nucleus
 
 ### What can be deduced from CMBR
 - CMBR is microwave radiation at all points in space
-- Prodeuced when universe is formed
+- Produced when universe is formed
 - Radiation expanded and red-shifted into microwave
 - Evidence that universe expanded
 

@@ -126,7 +126,7 @@ For finding direction of **force**
 
 ![Fleming's left hand rule](images/rule-flemings-left-hand.png)
 
-## Fleming's right hand rule
+## Fleming's right hand rule *
 
 For finding direction of **induced current**
 

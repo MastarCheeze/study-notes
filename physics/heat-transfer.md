@@ -28,6 +28,8 @@ Metals are good conductors because:
 
 ### Sea breeze and land breeze
 
+Land - less specific heat capacity
+
 <p></p>
 Sea breeze
 

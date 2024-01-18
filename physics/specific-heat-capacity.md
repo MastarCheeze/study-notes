@@ -9,7 +9,7 @@
 > Unit of c: J/(kg ˚C) \
 > Amount of heat energy required to raise the temperature of 1 kg of mass by 1˚C
 
-# Thermal Capacity
+# Thermal Capacity *
 
 > $$
 \begin{align*}

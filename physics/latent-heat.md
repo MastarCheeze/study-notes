@@ -1,4 +1,4 @@
-# Latent heat
+# Latent heat *
 
 The heat or energy that is absorbed or released during a phase change of a substance (when the temperature doesn't change)
 

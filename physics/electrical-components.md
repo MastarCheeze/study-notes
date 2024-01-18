@@ -46,7 +46,3 @@ $\displaystyle \mathrm{luminous~intensity} \propto \mathrm{\frac{1}{resistance}}
 | Fixed resistor | ![Current-voltage graph of a resistor](images/current-voltage-graph-resistor.png) |
 |      Lamp      |     ![Current-voltage graph of a lamp](images/current-voltage-graph-lamp.png)     |
 |     Diode      |    ![Current-voltage graph of a diode](images/current-voltage-graph-diode.png)    |
-
-## Rectifier
-
-![Rectifier](images/rectifier.png)

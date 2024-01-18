@@ -30,7 +30,7 @@
 >
 > Pressure is inversely proportional to the volume (fixed mass of gas at constant temperature)
 
-## Barometers and Manometers
+## Barometers and Manometers *
 
 > $$
 \begin{align*}
