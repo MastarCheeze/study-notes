@@ -67,7 +67,11 @@
 
 # Paper 2
 
-
+### What happens when a function is called
+- Call statement used
+- Parameters passed (optional)
+- Functions perform task
+- Returns value
 
 <br>
 
