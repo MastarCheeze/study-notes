@@ -12,6 +12,12 @@ Types:
 
 > Identify problem & requirements
 
+### Decomposition
+
+Split a system into sub-systems, sub-systems into smaller sub-systems
+
+### Abstraction
+
 ## 2. Design
 
 > Design algorithm

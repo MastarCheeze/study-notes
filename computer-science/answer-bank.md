@@ -73,6 +73,11 @@
 - Functions perform task
 - Returns value
 
+### Why store data in file
+- Permanent storage
+- Can be transferred between computers
+- Can create copy of data
+
 <br><br>
 
 [^UPS]: Uninterruptible Power Supply
