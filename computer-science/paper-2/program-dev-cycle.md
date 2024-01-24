@@ -14,9 +14,14 @@ Types:
 
 ### Decomposition
 
-Split a system into sub-systems, sub-systems into smaller sub-systems
+Split a system into sub-systems, \
+split sub-systems into smaller sub-systems
 
 ### Abstraction
+
+Simplifying \
+Select important elements \
+Removing unneccesary characteristics from elements
 
 ## 2. Design
 
