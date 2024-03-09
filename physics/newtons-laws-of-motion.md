@@ -9,10 +9,10 @@ A body remains at rest, or in motion at a constant speed in a straight line, unl
 When a body is acted upon by a net force, the body's acceleration multiplied by its mass is equal to the net force.
 
 > $$
-\begin{align*}
-  F &= ma \\
-  \mathrm{force} &= \mathrm{mass \cdot acceleration}
-\end{align*}
+> \begin{align*}
+>   F &= ma \\
+>   \mathrm{force} &= \mathrm{mass \cdot acceleration}
+> \end{align*}
 > $$
 >
 > Unit: N

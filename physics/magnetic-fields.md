@@ -1,8 +1,8 @@
 # Magnetic Fields
 
-- **Region where magnetic pole experiences force**
-- N → S
-- Closer field lines = stronger field
+-   **Region where magnetic pole experiences force**
+-   N → S
+-   Closer field lines = stronger field
 
 ## Magnetic fields of wires
 
@@ -18,48 +18,50 @@
 <p></p>
 To increase strength of electromagnet:
 
-- Increase current
-- Increase number of turns (coil)
-- Increase size of core
+-   Increase current
+-   Increase number of turns (coil)
+-   Increase size of core
 
-## Force on wire
+## <u>Exerted</u> force on wire
 
-> When electrons are in magnetic field \
-> force is exerted \
+> When electrons are in magnetic field, force is exerted \
+> Induced magnetic field of wire interacts with permanent magnetic field of magnet \
 > (see [Fleming's left hand rule](#flemings-left-hand-rule))
 
 <p></p>
 To increase force on wire:
 
-- Increase current
-- Increase number of turns (coil)
-- Stronger magnet
-- Increase area (coil)
+-   Increase current
+-   Increase number of turns (coil)
+-   Stronger magnet
+-   Increase area (coil)
 
-## Induced current in wire
+## <u>Induced</u> current in wire
 
 > When wire **cuts through magnetic field** \
 > e.m.f. is induced, which causes current \
 > (see [Fleming's right hand rule](#flemings-right-hand-rule))
 >
 > #### Faraday's law
+>
 > $$\text{e.m.f. induced in conductor} \propto \text{magnetic field line cutting rate}$$
 >
 > #### Lenz's law
+>
 > Induced current always flows in direction that opposes change
 
 <p></p>
 To increase induced current:
 
-- Stronger magnet
-- Increase movement speed
-- Increase area of wire
+-   Stronger magnet
+-   Increase movement speed
+-   Increase area of wire
 
 <p></p>
 To reverse induced current:
 
-- Movement in opposite direction
-- Reverse poles of magnet
+-   Movement in opposite direction
+-   Reverse poles of magnet
 
 ### Solenoid
 
@@ -79,26 +81,27 @@ To reverse induced current:
 
 ## Electromagnets
 
-- Laminated soft iron core
-    - **Soft** magnetic material (easily magnetised/demagnetised)
+-   Laminated soft iron core
+    -   **Soft** magnetic material (easily magnetised/demagnetised)
 
 ## Electric motors
 
-- Split ring commutator
-    - **Reverses direction of current** every half turn \
-      so coil keeps rotating in one direction
-- Brushes
-    - Carbon
+-   Split ring commutator
+    -   **Reverses direction of current in coil** every half turn \
+        so coil keeps rotating in one direction
+-   Carbon brushes
+    -   Increase contact between split ring commutator and external circuit
+    -   Ensure current is maintained
 
 ## Generators
 
-- Slip ring
-- Brushes
-    - Carbon
+-   Slip ring
+-   Brushes
+    -   Carbon
 
 ## Transformers
 
-- Laminated soft iron core
+-   Laminated soft iron core
 
 $$
 \begin{align*}
@@ -122,12 +125,18 @@ $$
 
 ## Fleming's left hand rule
 
-For finding direction of **force**
+For finding direction of **force** \
+Current causes force
 
 ![Fleming's left hand rule](images/rule-flemings-left-hand.png)
 
-## Fleming's right hand rule *
+## Fleming's right hand rule \*
 
-For finding direction of **induced current**
+For finding direction of **induced current** \
+Force causes current
 
 ![Fleming's right hand rule](images/rule-flemings-right-hand.png)
+
+# Into and out of arrows
+
+![Arrows into and out of the page](images/magnetic-field-into-out-of.png)

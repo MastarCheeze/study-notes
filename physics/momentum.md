@@ -1,10 +1,10 @@
 # Momentum
 
 > $$
-\begin{align*}
-  p &= mv \\
-  \mathrm{momentum} &= \mathrm{mass \cdot velocity}
-\end{align*}
+> \begin{align*}
+>   p &= mv \\
+>   \mathrm{momentum} &= \mathrm{mass \cdot velocity}
+> \end{align*}
 > $$
 >
 > Unit: kg m/s (N s) \
@@ -13,10 +13,10 @@
 ## Impulse
 
 > $$
-\begin{align*}
-  \Delta p &= F\Delta t \\
-  \mathrm{impulse} &= \mathrm{resultant~force \cdot change~in~time}
-\end{align*}
+> \begin{align*}
+>   \Delta p &= F\Delta t \\
+>   \mathrm{impulse} &= \mathrm{resultant~force \cdot change~in~time}
+> \end{align*}
 > $$
 >
 > Unit: N s (kg m/s) \
@@ -25,10 +25,10 @@
 ## Resultant force
 
 > $$
-\begin{align*}
-  F &= \frac{\Delta p}{\Delta t} = \frac{m(v-u)}{\Delta t} \\
-  \mathrm{resultant~force} &= \frac{\mathrm{change~in~momentum~\scriptsize(impulse)}}{\mathrm{change~in~time}}
-\end{align*}
+> \begin{align*}
+>   F &= \frac{\Delta p}{\Delta t} = \frac{m(v-u)}{\Delta t} \\
+>   \mathrm{resultant~force} &= \frac{\mathrm{change~in~momentum~\scriptsize(impulse)}}{\mathrm{change~in~time}}
+> \end{align*}
 > $$
 >
 > Unit: N \

@@ -1,10 +1,10 @@
 # Pressure
 
 > $$
-\begin{align*}
-  p &= \frac{F}{A} \\
-  \mathrm{pressure} &= \mathrm{\frac{force}{area}}
-\end{align*}
+> \begin{align*}
+>   p &= \frac{F}{A} \\
+>   \mathrm{pressure} &= \mathrm{\frac{force}{area}}
+> \end{align*}
 > $$
 >
 > Unit: Pa (N/m<sup>2</sup>) \
@@ -13,30 +13,30 @@
 ## Liquids
 
 > $$
-\begin{align*}
-  p &= \rho gh \\
-  \mathrm{presure} &= \mathrm{density \cdot gravitational~field~strength \cdot depth}
-\end{align*}
+> \begin{align*}
+>   p &= \rho gh \\
+>   \mathrm{presure} &= \mathrm{density \cdot gravitational~field~strength \cdot depth}
+> \end{align*}
 > $$
 
 ## Boyle's Law
 
 > $$
-\begin{align*}
-  p_1V_1 &= p_2V_2 \\
-  \mathrm{pressure_1 \cdot volume_1} &=\mathrm{pressure_2 \cdot volume_2}
-\end{align*}
+> \begin{align*}
+>   p_1V_1 &= p_2V_2 \\
+>   \mathrm{pressure_1 \cdot volume_1} &=\mathrm{pressure_2 \cdot volume_2}
+> \end{align*}
 > $$
 >
 > Pressure is inversely proportional to the volume (fixed mass of gas at constant temperature)
 
-## Barometers and Manometers *
+## Barometers and Manometers \*
 
 > $$
-\begin{align*}
-  p_g &= \rho gh + p_a \\
-  \mathrm{pressure~of~gas} &= \mathrm{pressure~in~liquid + atmospheric~pressure}
-\end{align*}
+> \begin{align*}
+>   p_g &= \rho gh + p_a \\
+>   \mathrm{pressure~of~gas} &= \mathrm{pressure~in~liquid + atmospheric~pressure}
+> \end{align*}
 > $$
 >
 > Unit: Pa or atm or mmHg \

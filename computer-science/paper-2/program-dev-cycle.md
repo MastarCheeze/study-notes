@@ -3,10 +3,10 @@
 <p></p>
 Types:
 
-- Cyclic
-- Spiral
-- Waterfall
-- Rapid development
+-   Cyclic
+-   Spiral
+-   Waterfall
+-   Rapid development
 
 ## 1. Analysis
 

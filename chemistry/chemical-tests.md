@@ -43,7 +43,7 @@ $\ce{\underset{white}{CuSO4} + 5H2O <=> \underset{blue}{CuSO4.5H2O}}$
 Anhydrous cobalt (II) chloride paper turns from blue to pink \
 $\ce{\underset{blue}{CoCl2} + 6H2O <=> \underset{pink}{CoCl2.6H2O}}$
 
-![Anhydrous and hydrated cobalt (II) chloride paper](images/cobalt-ii-chloride.jpeg)
+![Anhydrous and hydrated cobalt (II) chloride paper](images/cobalt-ii-chloride.png)
 
 ## Flame tests
 
@@ -88,6 +88,7 @@ Add dilute nitric acid ($\ce{HNO3}$) first to remove carbonate or sulfate ions.
 Dilute acid → carbon dioxide
 
 ### Nitrate ion $(\ce{NO3^-})$
+
 Sodium hydroxide and aluminium foil, warm → ammonia $\ce{(NH3)}$
 
 ### Sulfate ion $(\ce{SO4^2-})$

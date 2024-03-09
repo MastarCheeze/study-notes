@@ -1,27 +1,26 @@
 # Internet
 
-- [Internet](#internet)
-    - [Internet](#internet-1)
-    - [World wide web](#world-wide-web)
-    - [NIC](#nicnic)
-    - [Router](#router)
-        - [Packet](#packet)
-        - [Packet switching](#packet-switching)
-    - [DNS](#dns)
-    - [Web server](#web-server)
-- [Addresses and Protocols](#addresses-and-protocols)
-    - [MAC address](#mac-address)
-    - [IP address](#ip-address)
-    - [URL](#url)
-    - [Protocols](#protocols)
-        - [HTTP](#http)
-        - [HTTPS](#https)
-- [Web browser](#web-browser)
-    - [Scripting languages](#scripting-languages)
-    - [Cookies](#cookies)
-    - [How web pages are requested](#how-web-pages-are-requested)
-    - [How websites are authorised](#how-websites-are-authorised)
-
+-   [Internet](#internet)
+    -   [Internet](#internet-1)
+    -   [World wide web](#world-wide-web)
+    -   [NIC](#nicnic)
+    -   [Router](#router)
+        -   [Packet](#packet)
+        -   [Packet switching](#packet-switching)
+    -   [DNS](#dns)
+    -   [Web server](#web-server)
+-   [Addresses and Protocols](#addresses-and-protocols)
+    -   [MAC address](#mac-address)
+    -   [IP address](#ip-address)
+    -   [URL](#url)
+    -   [Protocols](#protocols)
+        -   [HTTP](#http)
+        -   [HTTPS](#https)
+-   [Web browser](#web-browser)
+    -   [Scripting languages](#scripting-languages)
+    -   [Cookies](#cookies)
+    -   [How web pages are requested](#how-web-pages-are-requested)
+    -   [How websites are authorised](#how-websites-are-authorised)
 
 ## Internet
 
@@ -42,17 +41,17 @@
 
 > Forwards packets to a specific destination on a network
 
-- Connects local network to the internet
-- Assigns dynamic IP address
+-   Connects local network to the internet
+-   Assigns dynamic IP address
 
 ### Packets
 
-- Header
-    - Destination address (IP address)
-    - Originators address (IP address)
-    - Packet number
-- Payload
-- Trailer
+-   Header
+    -   Destination address (IP address)
+    -   Originators address (IP address)
+    -   Packet number
+-   Payload
+-   Trailer
 
 ### Packet switching
 
@@ -65,14 +64,13 @@
 3. Packets arrive out of order
 4. When all packets arrive, reordered
 
-
 ## DNS[^DNS]
 
 > <p></p>
 > Server with database of
 >
-> - Domain names (URL)
-> - Corresponding IP addresses
+> -   Domain names (URL)
+> -   Corresponding IP addresses
 
 ## Web server
 
@@ -86,13 +84,13 @@
 
 > Unique identifier (for device) \
 > Assigned to NIC by manufacturer \
-> Static \
-> Manufacturer code + serial code
+> Static
 
 `34:4D:EA:89:75:B2`
 
-- 48-bit
-- Hexadecimal
+-   48-bit
+-   Hexadecimal
+-   Manufacturer code + serial code
 
 ## IP address[^IP]
 
@@ -101,12 +99,12 @@
 ### Static
 
 > Assigned by Internet Service Provider (ISP) \
-> Does not change
+> Does not change (static)
 
 ### Dynamic
 
 > Assigned by router \
-> Changes each time device connects to network
+> Changes each time device connects to network (dynamic)
 
 ### Types of IP addresses
 
@@ -137,14 +135,14 @@ $$\large\underbrace{\textsf{https}}_{\text{protocol}}\textsf{://www.}\underbrace
 > Secure version of HTTP \
 > HTTP + SSL = HTTPS
 
-- **SSL** (secure socket layer)
-    - Security protocol
-    - Encrypts data
-    - Digital certificates
-        - Contains public key
-        - Awarded by certificate authority
-- **TLS** (transport layer security)
-    - Newer version of SSL
+-   **SSL** (secure socket layer)
+    -   Security protocol
+    -   Encrypts data
+    -   Digital certificates
+        -   Contains public key
+        -   Awarded by certificate authority
+-   **TLS** (transport layer security)
+    -   Newer version of SSL
 
 <br><br>
 
@@ -153,19 +151,19 @@ $$\large\underbrace{\textsf{https}}_{\text{protocol}}\textsf{://www.}\underbrace
 > <p></p>
 > Displays web pages
 >
-> - Renders HTML
-> - Runs active script
+> -   Renders HTML
+> -   Runs active script
 
-- Requests web pages from **web server**
-- Manages protocols
-    - Authenticates website
-- Cookies
-- Features
-    - Create multiple tabs
-    - History & bookmarks
-    - Nav tools
-    - Address bar
-    - Downloads
+-   Requests web pages from **web server**
+-   Manages protocols
+    -   Authenticates website
+-   Cookies
+-   Features
+    -   Create multiple tabs
+    -   History & bookmarks
+    -   Nav tools
+    -   Address bar
+    -   Downloads
 
 ## Scripting languages
 
@@ -195,11 +193,11 @@ $$\large\underbrace{\textsf{https}}_{\text{protocol}}\textsf{://www.}\underbrace
 <p></p>
 Stores:
 
-- Login details
-- Credit card details
-- Track history (for personalised ads)
-- User preferences
-- Items in shopping cart
+-   Login details
+-   Credit card details
+-   Track history (for personalised ads)
+-   User preferences
+-   Items in shopping cart
 
 ### Session cookies
 
@@ -210,7 +208,6 @@ Stores:
 
 > Stored until expired / deleted by user \
 > Stored in secondary storage
-
 
 ## How web pages are requested
 
@@ -224,8 +221,8 @@ Using HTTP/HTTPS:
    requests web page
 5. Web server sends data to browser (HTML/CSS/JS)
 6. Browser
-   - Renders HTML and CSS
-   - Runs JavaScript
+    - Renders HTML and CSS
+    - Runs JavaScript
 
 ## How websites are authorised
 

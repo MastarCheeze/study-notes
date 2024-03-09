@@ -14,9 +14,9 @@
 
 > Heat energy is released
 >
-> - Combustion
-> - Neutralisation
-> - Oxidisation
+> -   Combustion
+> -   Neutralisation
+> -   Oxidisation
 
 <br>
 
@@ -28,7 +28,7 @@ $\mathrm{\Delta H}$ is -ve
 
 > Heat energy is absorbed
 >
-> - Thermal decomposition
+> -   Thermal decomposition
 
 <br>
 

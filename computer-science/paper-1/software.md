@@ -1,9 +1,9 @@
 # Software
 
-- [System Software](#system-software)
-    - [OS](#os)
-    - [Interrupts](#interrupts)
-- [Application Software](#application-software)
+-   [System Software](#system-software)
+    -   [OS](#os)
+    -   [Interrupts](#interrupts)
+-   [Application Software](#application-software)
 
 <br>
 
@@ -15,8 +15,8 @@
 
 > Services that the computer requires
 
-- OS
-- Utility programs
+-   OS
+-   Utility programs
 
 ## OS[^OS]
 
@@ -44,29 +44,31 @@
 6. Repeat
 
 ### IH[^IH]
-- Receive/manage all interrupts
-- Organises interrupts based on priorities
+
+-   Receive/manage all interrupts
+-   Organises interrupts based on priorities
 
 ### ISR[^ISR]
- - Program
- - Handles the interrupt by performing instructions
+
+-   Program
+-   Handles the interrupt by performing instructions
 
 #### Types of interrupts
 
-- **Software**
-    - Division by 0
-    - Two processes attempting to access same memory location
-    - Input requested
-    - Output required
-    - Data required from memory
-- **Hardware**
-    - Data input \
-      (Keypress, mouse click)
-    - Error from hardware \
-      (Printer out of paper)
-    - Hardware failure
-    - New hardware device connected
-    - Hard drive signal that it has read data
+-   **Software**
+    -   Division by 0
+    -   Two processes attempting to access same memory location
+    -   Input requested
+    -   Output required
+    -   Data required from memory
+-   **Hardware**
+    -   Data input \
+        (Keypress, mouse click)
+    -   Error from hardware \
+        (Printer out of paper)
+    -   Hardware failure
+    -   New hardware device connected
+    -   Hard drive signal that it has read data
 
 <br>
 
@@ -74,12 +76,11 @@
 
 > Services that the user requires
 
-- Word processor / spreadsheet
-- Database
-- Web browser
+-   Word processor / spreadsheet
+-   Database
+-   Web browser
 
 <br>
-
 
 [^OS]: Operating system
 [^GUI]: Graphical User Interface

@@ -16,10 +16,10 @@
 > Time taken for half the nuclei to decay
 >
 > $$
-\begin{align*}
-  N &= \frac{N_0}{2^{\frac{t}{h}}} \\
-  \mathrm{amount~of~substance} &= \mathrm{\frac{initial~amoun t}{2^{\frac{time}{\text{half-life}}}}} \\
-\end{align*}
+> \begin{align*}
+>   N &= \frac{N_0}{2^{\frac{t}{h}}} \\
+>   \mathrm{amount~of~substance} &= \mathrm{\frac{initial~amoun t}{2^{\frac{time}{\text{half-life}}}}} \\
+> \end{align*}
 > $$
 
 ## Alpha decay
@@ -34,6 +34,7 @@ $$\ce{^{226}_{88}Ra -> ^{222}_{86}Rn + ^{4}_{2}\alpha}$$
 
 $$\ce{^{131}_{53}I -> ^{131}_{54}Xe + ^{~0}_{-1}\beta}$$
 
+<br>
 
 [^1]: Unit: Elementary charge $(e)$, equal to charge of a proton.
 [^2]: Unit: Atomic mass unit $(u)$, equal to 1/12 of a carbon-12 atom.

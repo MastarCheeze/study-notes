@@ -7,6 +7,7 @@
 3. Cancel out ions that remain the same on both sides
 
 Examples:
+
 $$
 \begin{align*}
   \ce{\underset{(aq)}{Pb(NO3)2} + \underset{(aq)}{2KCl} &-> \underset{(aq)}{2KNO3} + \underset{(s)}{PbCl2}} \\

@@ -13,14 +13,14 @@ $$
 
 $$d = b^2-4ac$$
 
-- $d = \text{perfect square}$
-    - the expression can be factorised
-- $d > 0$
-    - 2 answers
-- $d = 0$
-    - 1 answer
-- $d < 0$
-    - 0 answers
+-   $d = \text{perfect square}$
+    -   the expression can be factorised
+-   $d > 0$
+    -   2 answers
+-   $d = 0$
+    -   1 answer
+-   $d < 0$
+    -   0 answers
 
 ## Factorisation
 
@@ -49,13 +49,13 @@ $$
 <p></p>
 Steps:
 
-- $x$ must be +ve
-- RHS = 0
-- Draw number line
-  |                                                                                            |          |
-  | :----------------------------------------------------------------------------------------- | :------: |
-  | ![Solutions for greater than to quadratic equations](images/quad-numline-gt.png)           | ${\gt0}$ |
-  | ![Solutions for greater than or equal to quadratic equations](images/quad-numline-geq.png) | $\geq0$  |
-  | ![Solutions for less than to quadratic equations](images/quad-numline-lt.png)              |  $\lt0$  |
-  | ![Solutions for less than or equal to quadratic equations](images/quad-numline-leq.png)    | $\leq 0$ |
-- Form 1-2 equations from number line
+-   $x$ must be +ve
+-   RHS = 0
+-   Draw number line
+    | | |
+    | :----------------------------------------------------------------------------------------- | :------: |
+    | ![Solutions for greater than to quadratic equations](images/quad-numline-gt.png) | ${\gt0}$ |
+    | ![Solutions for greater than or equal to quadratic equations](images/quad-numline-geq.png) | $\geq0$ |
+    | ![Solutions for less than to quadratic equations](images/quad-numline-lt.png) | $\lt0$ |
+    | ![Solutions for less than or equal to quadratic equations](images/quad-numline-leq.png) | $\leq 0$ |
+-   Form 1-2 equations from number line

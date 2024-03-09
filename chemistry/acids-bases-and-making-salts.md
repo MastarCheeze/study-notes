@@ -2,12 +2,13 @@
 
 ## Acid
 
-- pH < 7
-- proton donor
-- Examples:
-    - hydrogen ions - proton ($\ce{H+}$)
+-   pH < 7
+-   proton donor
+-   Examples:
+    -   hydrogen ions - proton ($\ce{H+}$)
 
 ### Strong vs weak acid
+
 Strong acid: H+ ions **completely dissociated**
 $$\ce{HCl ->[\text{100\% disassociated}] H+ + Cl-}$$
 
@@ -16,17 +17,17 @@ $$\ce{CH3COOH <=>[\text{<100\% disassociated}] H+ + CH3COO-}$$
 
 ## Base
 
-- pH > 7
-- proton acceptor
-- Examples:
-    - hydroxide ions ($\ce{OH-}$)
-    - metal oxide
-    - ammonia
+-   pH > 7
+-   proton acceptor
+-   Examples:
+    -   hydroxide ions ($\ce{OH-}$)
+    -   metal oxide
+    -   ammonia
 
 ## Amphoteric oxides
 
-- Both behave acidic and basic
-- Can react with acid and alkali
+-   Both behave acidic and basic
+-   Can react with acid and alkali
 
 |                               |
 | ----------------------------- |
@@ -59,21 +60,29 @@ $$
 
 # Making Salts
 
-- Universally soluble ions ($\ce{AmNaK}$):
-    - Ammonium $(\ce{NH4+})$
-    - Sodium $(\ce{Na+})$
-    - Potassium $(\ce{K+})$
-    - Nitrate $(\ce{NO3-})$
-    - All Group I ions*
+-   Universally _soluble_ ions $(\ce{AmNaK})$:
 
-- All **halides** (chloride, bromide, iodide) are soluble, except:
-    - Lead $(\ce{Pb^2+})$
-    - Silver $(\ce{Ag+})$
+    -   Ammonium $(\ce{NH4+})$
+    -   Sodium $(\ce{Na+})$
+    -   Potassium $(\ce{K+})$
+    -   Nitrate $(\ce{NO3-})$
+    -   All Group I ions\*
 
-- All **sulfates** $(\ce{SO4{2-}})$ are soluble, except (Persatuan Bahasa Cina):
-    - Lead $(\ce{Pb^2+})$
-    - Barium $(\ce{Ba^2+})$
-    - Calcium $(\ce{Ca^2+})$
+-   **Halides** (chlorides, bromides, iodides) that are _insoluble_:
+
+    -   Lead $(\ce{Pb^2+})$
+    -   Silver $(\ce{Ag+})$
+
+-   **Sulfates** $(\ce{SO4^2-})$ that are _insoluble_ (Persatuan Bahasa Cina):
+
+    -   Lead $(\ce{Pb^2+})$
+    -   Barium $(\ce{Ba^2+})$
+    -   Calcium $(\ce{Ca^2+})$
+
+-   **Hydroxides $(\ce{OH-})$** that are _soluble_ $(\ce{CaNaK})$:
+    -   Calcium $(\ce{Ca^2+})$
+    -   Sodium $(\ce{Na+})$
+    -   Potassium $(\ce{K+})$
 
 ## Soluble salt
 

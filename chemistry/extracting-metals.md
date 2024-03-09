@@ -1,6 +1,7 @@
 # Extracting Iron <small><sub><sup>(reduction)</sup></sub></small>
 
 ### Charge contains
+
 |                     |                   |              |
 | ------------------- | ----------------- | ------------ |
 | Iron ore (hematite) | Iron (III) oxide  | $\ce{Fe2O3}$ |
@@ -8,6 +9,7 @@
 | Coke                | Carbon            | $\ce{C}$     |
 
 ## Process
+
 1. Coke burns \
    carbon + oxygen → carbon dioxide \
    $\ce{C + O2 -> CO2}$
@@ -25,7 +27,6 @@
        calcium oxide + silicon (IV) oxide → calcium silicate \
        $\ce{CaO + SiO2 -> CaSiO3}$
 
-
 Slag - building roads \
 Waste gases - carbon dioxide, nitrogen
 
@@ -40,9 +41,9 @@ Waste gases - carbon dioxide, nitrogen
 
 ### Uses of cryolite
 
-- As solvent for aluminium oxide
-- Reduce melting point
-- Increase electrical conductivity
+-   As solvent for aluminium oxide
+-   Reduce melting point
+-   Increase electrical conductivity
 
 ## Process
 

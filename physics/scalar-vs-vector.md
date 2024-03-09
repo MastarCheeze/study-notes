@@ -2,10 +2,10 @@
 
 ## Scalar
 
-- Has magnitude
-- No direction
+-   Has magnitude
+-   No direction
 
 ## Vector
 
-- Has magnitude
-- Has direction
+-   Has magnitude
+-   Has direction

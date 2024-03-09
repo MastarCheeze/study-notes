@@ -26,12 +26,12 @@
 <p></p>
 Features
 
-- Mechanical structure
-- Electrical components
-    - Sensors
-    - Microprocessor
-    - Actuators
-- Programmable
+-   Mechanical structure
+-   Electrical components
+    -   Sensors
+    -   Microprocessor
+    -   Actuators
+-   Programmable
 
 <br>
 

@@ -4,25 +4,25 @@
 
 ### Parity check
 
-- Extra parity bit added
-- **Odd parity**
-    - Number of on bits = odd
-- **Even parity**
-    - Number of on bits = even
+-   Extra parity bit added
+-   **Odd parity**
+    -   Number of on bits = odd
+-   **Even parity**
+    -   Number of on bits = even
 
 ### Checksum
 
-- Calculate value
-    - Before and after transmission
-    - If equal, no error
-- Example:
-    - Modulus 11
+-   Calculate value
+    -   Before and after transmission
+    -   If equal, no error
+-   Example:
+    -   Modulus 11
 
 ### Echo sum
 
-- Transmit data to receiver
-- Receiver transmit back data
-- If same, no error
+-   Transmit data to receiver
+-   Receiver transmit back data
+-   If same, no error
 
 <br>
 
@@ -50,5 +50,5 @@
 <p></p>
 Example usage:
 
-- ISBN
-- Barcodes
+-   ISBN
+-   Barcodes

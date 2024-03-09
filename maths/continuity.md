@@ -28,21 +28,23 @@ $$\lim_{x\rightarrow b^-} = f(b)$$
 
 ## Types of discontinuity
 
-* Removable discontinuity (hole) \
-  ![Removable discontinuity](images/removable-discontinuity-1.png)
-  ![Removable discontinuity](images/removable-discontinuity-2.png)
+-   Removable discontinuity (hole) \
+    ![Removable discontinuity](images/removable-discontinuity-1.png)
+    ![Removable discontinuity](images/removable-discontinuity-2.png)
 
-* Infinite discontinuity \
-  ![Infinite discontinuity](images/infinite-discontinuity.png)
+-   Infinite discontinuity \
+    ![Infinite discontinuity](images/infinite-discontinuity.png)
 
-* Jump discontinuity \
-  ![Jump discontinuity](images/jump-discontinuity.png)
+-   Jump discontinuity \
+    ![Jump discontinuity](images/jump-discontinuity.png)
 
 ## Intermediate value theorem
 
 If
-* function $f$ is **continuous** between the interval $[a,b]$
-* $L$ is **between $f(a)$ and $f(b)$**
+
+-   function $f$ is **continuous** between the interval $[a,b]$
+-   $L$ is **between $f(a)$ and $f(b)$**
 
 Then
-* there is a value $c$ **between $a$ and $b$ where $f(c)=L$**
+
+-   there is a value $c$ **between $a$ and $b$ where $f(c)=L$**

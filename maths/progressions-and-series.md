@@ -13,7 +13,6 @@ Series → sum of a pattern of numbers
 
 $$T_n = a+d(n-1)$$
 
-
 ### Series
 
 $$
@@ -51,9 +50,9 @@ $$\mathrm{ave} = \pm\sqrt{T_a\cdot T_b}$$
 
 ## Proofs
 
-- Arithmetic series \
-  [Khan Academy](https://youtu.be/Uy_L8tnihDM)
-- Geometric series \
-  [Khan academy](https://youtu.be/Cf0-6ngH2gs)
-- Infinite geometric series \
-  $\displaystyle S_\infty = \lim_{n\rightarrow\infty}\frac{a(1-r^n)}{1-r};~~-1<r<1$
+-   Arithmetic series \
+    [Khan Academy](https://youtu.be/Uy_L8tnihDM)
+-   Geometric series \
+    [Khan academy](https://youtu.be/Cf0-6ngH2gs)
+-   Infinite geometric series \
+    $\displaystyle S_\infty = \lim_{n\rightarrow\infty}\frac{a(1-r^n)}{1-r};~~-1<r<1$

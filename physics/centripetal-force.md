@@ -11,8 +11,9 @@ $$
 $$
 
 ## Orbit
-- Weight = centripetal force
-- Far from center
-    - High gravitational potential energy (GPE)
-- Close to center
-    - High kinetic energy (KE)
+
+-   Weight = centripetal force
+-   Far from center
+    -   High gravitational potential energy (GPE)
+-   Close to center
+    -   High kinetic energy (KE)

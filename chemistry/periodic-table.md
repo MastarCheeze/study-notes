@@ -2,7 +2,7 @@
 
 ![The periodic table](images/periodic-table.png)
 
-![Element in a periodic table](images/periodic-table-element.jpg)
+![Element in a periodic table](images/periodic-table-element.png)
 
 Period = row = number of shells \
 Group = column = number of valence electrons
@@ -10,12 +10,12 @@ Group = column = number of valence electrons
 <p></p>
 Left to right
 
-- metallic character ⬇
+-   metallic character ⬇
 
 <p></p>
 Top to bottom
 
-- density ⬆
+-   density ⬆
 
 ## Alkali metals (Group I)
 
@@ -24,8 +24,8 @@ Top to bottom
 <p></p>
 Top to bottom
 
-- reactivity ⬆
-- melting point ⬇
+-   reactivity ⬆
+-   melting point ⬇
 
 <br>
 
@@ -41,8 +41,8 @@ Top to bottom
 <p></p>
 Top to bottom
 
-- reactivity ⬇
-- boiling point ⬆
+-   reactivity ⬇
+-   boiling point ⬆
 
 <br>
 
@@ -68,6 +68,6 @@ Top to bottom
 
 ![Noble gases on the periodic table](images/periodic-table-noble-gases.png)
 
-- Full outer shell
-- Unreactive
-- Monoatomic
+-   Full outer shell
+-   Unreactive
+-   Monoatomic

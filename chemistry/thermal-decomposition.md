@@ -3,22 +3,26 @@
 Breakdown of compounds when heated (to sufficiently high temperatures)
 
 ## Metal hydroxide
+
 $$
 \begin{align*}
   \ce{metal hydroxide &-> metal oxide + water} \\
   \ce{Zn(OH)2 &-> ZnO + H2O}
 \end{align*}
 $$
+
 Group I hydroxides (except lithium) do not decompose \
 because high thermal stability
 
 ## Metal carbonate
+
 $$
 \begin{align*}
   \ce{metal carbonate &-> metal oxide + carbon dioxide} \\
   \ce{CaCO3 &-> CaO + CO2}
 \end{align*}
 $$
+
 Group I carbonates (except lithium) do not decompose \
 because high thermal stability
 

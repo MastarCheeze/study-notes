@@ -5,7 +5,7 @@
 
 ## Advantages
 
-- Can be processed by computers
+-   Can be processed by computers
 
 ## Operations
 
@@ -27,16 +27,16 @@ Overflow error: calculated number is larger than storage space
 <p></p>
 Left shift
 
-- Moves bits to the left
-- Most significant bits (MSB) lost
-- Multiplies number by 2
+-   Moves bits to the left
+-   Most significant bits (MSB) lost
+-   Multiplies number by 2
 
 <p></p>
 Right shift
 
-- Moves bits to the right
-- Least significant bits (LSB) lost
-- Divides number by 2
+-   Moves bits to the right
+-   Least significant bits (LSB) lost
+-   Divides number by 2
 
 ## Negative binary (two's complement)
 
@@ -57,19 +57,19 @@ Converting (both ways):
 
 ## Advantages
 
-- Takes up less **screen** space
-- Easier to read, write and understand
-- Easier to debug
+-   Takes up less **screen** space
+-   Easier to read, write and understand
+-   Easier to debug
 
 ## Uses
 
-- Colour codes
-- ASCII / Unicode
-- Error codes
-- Memory dumps (debugging)
-- MAC address
-- IP address
-- URL
-- Memory address
-- Assembly
-- Machine code
+-   Colour codes
+-   ASCII / Unicode
+-   Error codes
+-   Memory dumps (debugging)
+-   MAC address
+-   IP address
+-   URL
+-   Memory address
+-   Assembly
+-   Machine code

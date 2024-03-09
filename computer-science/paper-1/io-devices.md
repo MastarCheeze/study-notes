@@ -1,51 +1,51 @@
 # Contents
-- [Input devices](#input-devices)
-    - Mouse
-        - [Trackball](#trackball-mouse)
-        - [Optical](#optical-mouse)
-    - [Keyboard](#keyboard)
-    - [Microphone](#microphone)
-    - [Digital camera](#digital-camera)
-    - Code scanner
-        - [Barcode](#barcode-scanner)
-        - [QR code](#qr-code-scanner)
-    - Touch screen
-        - [Resistive](#resistive-touch-screen)
-        - [Capacitive](#capacitive-touch-screen)
-        - [Infrared (heat)](#infrared-touch-screen-heat)
-        - [Infrared (optical)](#infrared-touch-screen-optical)
-    - Scanner
-        - [2D](#2d-scanner)
-        - [3D](#3d-scanner)
-    - [Sensors](#sensors)
-        - Acoustic
-        - Accelerometer
-        - Flow
-        - Gas
-        - Humidity
-        - Infrared
-        - Level
-        - Light
-        - Magnetic field
-        - Moisture
-        - pH
-        - Pressure
-        - Proximity
-        - Temperature
-- [Output devices](#output-devices)
-    - Screen
-        - [LED](#led-screen)
-        - [LCD](#lcd-screen)
-    - [Speaker](#speaker)
-    - Projector
-        - [LCD](#lcd-projector)
-        - [DLP](#dlp-projector)
-    - Printer
-        - [Inkjet](#inkjet-printer)
-        - [Laser](#laser-printer)
-    - [3D printer](#3d-printer)
-    - [Actuator](#actuator)
 
+-   [Input devices](#input-devices)
+    -   Mouse
+        -   [Trackball](#trackball-mouse)
+        -   [Optical](#optical-mouse)
+    -   [Keyboard](#keyboard)
+    -   [Microphone](#microphone)
+    -   [Digital camera](#digital-camera)
+    -   Code scanner
+        -   [Barcode](#barcode-scanner)
+        -   [QR code](#qr-code-scanner)
+    -   Touch screen
+        -   [Resistive](#resistive-touch-screen)
+        -   [Capacitive](#capacitive-touch-screen)
+        -   [Infrared (heat)](#infrared-touch-screen-heat)
+        -   [Infrared (optical)](#infrared-touch-screen-optical)
+    -   Scanner
+        -   [2D](#2d-scanner)
+        -   [3D](#3d-scanner)
+    -   [Sensors](#sensors)
+        -   Acoustic
+        -   Accelerometer
+        -   Flow
+        -   Gas
+        -   Humidity
+        -   Infrared
+        -   Level
+        -   Light
+        -   Magnetic field
+        -   Moisture
+        -   pH
+        -   Pressure
+        -   Proximity
+        -   Temperature
+-   [Output devices](#output-devices)
+    -   Screen
+        -   [LED](#led-screen)
+        -   [LCD](#lcd-screen)
+    -   [Speaker](#speaker)
+    -   Projector
+        -   [LCD](#lcd-projector)
+        -   [DLP](#dlp-projector)
+    -   Printer
+        -   [Inkjet](#inkjet-printer)
+        -   [Laser](#laser-printer)
+    -   [3D printer](#3d-printer)
+    -   [Actuator](#actuator)
 
 <br><br>
 
@@ -53,11 +53,11 @@
 
 ### Trackball mouse
 
-- Mechanical ball
+-   Mechanical ball
 
 ### Optical mouse
 
-- Red LED
+-   Red LED
 
 ### Keyboard
 
@@ -75,8 +75,8 @@
 ### Digital camera
 
 1. Microprocessor adjusts
-   - Shutter speed
-   - Focus
+    - Shutter speed
+    - Focus
 2. Light pass through lens \
    onto light sensitive cell
 
@@ -85,9 +85,9 @@
 > <p></p>
 > Barcode
 >
-> - Parallel dark/light lines
-> - 0-9 represented by unique series of lines
-> - Left/right separate using guard bars
+> -   Parallel dark/light lines
+> -   0-9 represented by unique series of lines
+> -   Left/right separate using guard bars
 
 1. Red laser
 2. Light reflected
@@ -101,15 +101,15 @@
 > <p></p>
 > QR code
 >
-> - Matrix of dark squares on light background
-> - More storage than barcode
-> - Can store URL
+> -   Matrix of dark squares on light background
+> -   More storage than barcode
+> -   Can store URL
 
 ### Resistive touch screen
 
-> - Cheap
-> - Upper layer polyester
-> - Bottom layer glass
+> -   Cheap
+> -   Upper layer polyester
+> -   Bottom layer glass
 
 1. When touched, top connects with bottom \
    Circuit complete
@@ -117,10 +117,10 @@
 
 ### Capacitive touch screen
 
-> - Medium price
-> - Layers of glass
-> - Electric fields between glass layers \
->   Spread across screen
+> -   Medium price
+> -   Layers of glass
+> -   Electric fields between glass layers \
+>     Spread across screen
 
 1. When touched, electric field changes \
    Affected by conductivity of finger
@@ -129,23 +129,23 @@
 
 ### Infrared touch screen (heat)
 
-> - Expensive
-> - Glass screen
+> -   Expensive
+> -   Glass screen
 
-- Needs warm object as input
+-   Needs warm object as input
 
 ### Infrared touch screen (optical)
 
-> - Expensive
-> - Glass screen
-> - Grid of sensors
+> -   Expensive
+> -   Glass screen
+> -   Grid of sensors
 
-- Processor calculates coordinate \
-  based on which grid coordinate is touched
+-   Processor calculates coordinate \
+    based on which grid coordinate is touched
 
 ### 2D scanner
 
-- Scan hard-copy documents
+-   Scan hard-copy documents
 
 1. Document placed on glass panel
 2. Light illuminates document
@@ -156,19 +156,19 @@
 
 ### 3D scanner
 
-- Scan 3D objects
-- Take images at several points
-- Using
-    - Lasers
-    - Magnetic
-    - White light
-- Scanned images used in
-    - CAD (computer aided design)
-    - 3D printing
+-   Scan 3D objects
+-   Take images at several points
+-   Using
+    -   Lasers
+    -   Magnetic
+    -   White light
+-   Scanned images used in
+    -   CAD (computer aided design)
+    -   3D printing
 
 ### Sensors
 
-> - ADC (analogue-to-digital converter)
+> -   ADC (analogue-to-digital converter)
 
 | Sensor         | Measures                                 |
 | -------------- | ---------------------------------------- |
@@ -195,19 +195,19 @@
 
 ### LCD screen[^LCD]
 
-- Front layer LCD
-- LED backlight
-    - Reach max brightness immediately
-    - Higher resolution
-    - Better colour
-    - Thin screen
-    - Less power
+-   Front layer LCD
+-   LED backlight
+    -   Reach max brightness immediately
+    -   Higher resolution
+    -   Better colour
+    -   Thin screen
+    -   Less power
 
 <!---->
 
-- CCFL[^CCFL] backlight (old)
-    - Two fluorescent tubes
-    - Yellow tint
+-   CCFL[^CCFL] backlight (old)
+    -   Two fluorescent tubes
+    -   Yellow tint
 
 ### Speaker
 
@@ -240,6 +240,19 @@
     - Tilt towards light = on \
       Tilt away from light = off
 
+<br>
+
+| LCD                           | DLP                            |
+| ----------------------------- | ------------------------------ |
+| ✅ Less expensive             | ❌ More expensive              |
+| ✅ Less power                 | ❌ More power                  |
+| ✅ High saturation (brighter) | ❌ Low saturation (dimmer)     |
+| ✅ No rainbow effect          | ❌ Rainbow effect              |
+| ✅ Quiet                      | ❌ Noisy                       |
+| ❌ Bigger, heavier            | ✅ Smaller, lighter (portable) |
+| ❌ Low contrast (dull)        | ✅ High contrast (vivid)       |
+| ❌ Choppy video               | ✅ Smooth video                |
+
 ### Inkjet printer
 
 > Print one-off documents
@@ -248,11 +261,11 @@
 2. **Nozzle** spray ink on paper
 3. **Print head** move across paper
 
-- **Piezoelectric** technology
+-   **Piezoelectric** technology
     1. Electrical current applied to crystal
     2. Vibrates
     3. Forces droplet of ink through nozzle
-- **Thermal bubble** technology
+-   **Thermal bubble** technology
     1. Ink heated
     2. Expands into bubble
     3. Bubble pushed through nozzle
@@ -276,24 +289,28 @@
 
 <br>
 
-|                | Advantages                                                                                               | Disadvantages                                       |
-| -------------- | -------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| Inkjet printer | <ul><li>Higher quality</li><li>Larger paper size</li><li>Various media</li><li>No warm-up time</li></ul> | <ul><li>Slower</li><li>Ink can be smudged</li></ul> |
-| Laser printer  | <ul><li>Fast</li><li>Can print in large volumes</li></ul>                                                | <ul><li>Long warm-up time</li></ul>                 |
+| Inkjet printer            | Laser printer             |
+| ------------------------- | ------------------------- |
+| ✅ High quality           | ❌ Low quality            |
+| ✅ No warm-up time        | ❌ Long warm-up time      |
+| ✅ Various printing media | ❌ Limited printing media |
+| ❌ Slow                   | ✅ Fast                   |
+| ❌ Small volume printing  | ✅ Large volume printing  |
+| ❌ Ink can be smudged     | ✅ No ink                 |
 
 ### 3D printer
 
-- Materials
-    - Plastic
-    - Resin
-    - Ceramic
-- Built layer by layer
-- Designed using CAD (computer aided design)
+-   Materials
+    -   Plastic
+    -   Resin
+    -   Ceramic
+-   Built layer by layer
+-   Designed using CAD (computer aided design)
 
 ### Actuator
 
-- Used control applications \
-  involving sensors and devices (ADC and DAC)
+-   Used control applications \
+    involving sensors and devices (ADC and DAC)
 
 <br>
 

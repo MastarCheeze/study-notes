@@ -9,8 +9,8 @@
 <p></p>
 Metals are good conductors because:
 
-- mobile electrons gain kinetic energy
-- move randomly and collide, transfer kinetic energy
+-   mobile electrons gain kinetic energy
+-   move randomly and collide, transfer kinetic energy
 
 ## Convection
 
@@ -33,18 +33,18 @@ Land - less specific heat capacity
 <p></p>
 Sea breeze
 
-- Daytime
-- Lands heats up more quickly than the sea
-- Warm air from the land rises
-- Displaced by cooler air from the sea
+-   Daytime
+-   Lands heats up more quickly than the sea
+-   Warm air from the land rises
+-   Displaced by cooler air from the sea
 
 <p></p>
 Land breeze
 
-- Nighttime
-- Land cools off more quickly than the sea
-- Warm air from the sea rises
-- Displaced by cooler air from the land
+-   Nighttime
+-   Land cools off more quickly than the sea
+-   Warm air from the sea rises
+-   Displaced by cooler air from the land
 
 ## Radiation
 

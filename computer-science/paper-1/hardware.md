@@ -4,49 +4,50 @@
 
 ## Stored program concept
 
-- **Instructions** & **data** stored in memory
-- Instructions **fetched → decoded → executed** one by one
+-   **Instructions** & **data** stored in memory
+-   Instructions **fetched → decoded → executed** one by one
 
 ## Components
-- [**CPU**](#cpu)
-    - [CU](#cu) (control unit)
-    - [ALU](#alu) (arithmetic logic unit)
-    - Registers
-        - [PC](#pc) (program counter)
-        - [MAR](#mar) (memory address register)
-        - [MDR](#mdr) (memory data register / buffer)
-        - [CIR](#cir) (current instruction register) - inside CU
-        - [ACC](#acc) (accumulator) - inside ALU
-    - Buses
-        - [Data bus](#data-bus)
-        - [Address bus](#address-bus)
-        - [Control bus](#control-bus)
-    - [*Core*](#core)
-    - [*Cache*](#cache)
-    - [*Clock*](#clock)
-- [**Storage**](#storage)
-    - Primary
-        - [RAM](#primary) (random access memory)
-        - [ROM](#primary) (read only memory)
-    - Secondary
-        - [Magnetic](#secondary)
-        - [Optical](#secondary)
-        - [Solid-state](#secondary)
+
+-   [**CPU**](#cpu)
+    -   [CU](#cu) (control unit)
+    -   [ALU](#alu) (arithmetic logic unit)
+    -   Registers
+        -   [PC](#pc) (program counter)
+        -   [MAR](#mar) (memory address register)
+        -   [MDR](#mdr) (memory data register / buffer)
+        -   [CIR](#cir) (current instruction register) - inside CU
+        -   [ACC](#acc) (accumulator) - inside ALU
+    -   Buses
+        -   [Data bus](#data-bus)
+        -   [Address bus](#address-bus)
+        -   [Control bus](#control-bus)
+    -   [_Core_](#core)
+    -   [_Cache_](#cache)
+    -   [_Clock_](#clock)
+-   [**Storage**](#storage)
+    -   Primary
+        -   [RAM](#primary) (random access memory)
+        -   [ROM](#primary) (read only memory)
+    -   Secondary
+        -   [Magnetic](#secondary)
+        -   [Optical](#secondary)
+        -   [Solid-state](#secondary)
 
 #### CU
 
-- Coordinates transfer of data & instructions in CPU
-    - Transmits control signals to all components
-        - Using [control bus](#control-bus)
-- Decodes instruction into machine code
-    - Using **instruction set** \
-      (set of commands that are understood by CPU)
+-   Coordinates transfer of data & instructions in CPU
+    -   Transmits control signals to all components
+        -   Using [control bus](#control-bus)
+-   Decodes instruction into machine code
+    -   Using **instruction set** \
+        (set of commands that are understood by CPU)
 
 #### ALU
 
-- Math calculations
-- Logic operations
-- Stored interim values in [ACC](#acc)
+-   Math calculations
+-   Logic operations
+-   Stored interim values in [ACC](#acc)
 
 #### PC
 
@@ -58,19 +59,19 @@
 
 #### ACC
 
-- Store interim values calculated by [ALU](#alu)
+-   Store interim values calculated by [ALU](#alu)
 
 #### Data bus
 
-- Bi-directional
+-   Bi-directional
 
 #### Address bus
 
-- Uni-directional
+-   Uni-directional
 
 #### Control bus
 
-- Bi-directional
+-   Bi-directional
 
 #### Core
 
@@ -93,13 +94,13 @@
 ![Fetch cycle](../images/fetch.png)
 
 1. **[PC](#pc)** stores address of next instruction (to be processed)
-   - copied to [MAR](#mar) via [Address bus](#address-bus)
+    - copied to [MAR](#mar) via [Address bus](#address-bus)
 2. **[MAR](#mar)** temporarily holds address of data/instruction (to be located in [RAM](#primary))
-   - send to [RAM](#primary) via [Address bus](#address-bus)
+    - send to [RAM](#primary) via [Address bus](#address-bus)
 3. [RAM](#primary) retrieves data/instruction
-   - copied to [MDR](#mdr) via [Data bus](#data-bus)
+    - copied to [MDR](#mdr) via [Data bus](#data-bus)
 4. **[MDR](#mdr)** temporarily holds address of data/instruction (fetched from [RAM](#primary))
-   - send to [CIR](#cir) via [Data bus](#data-bus)
+    - send to [CIR](#cir) via [Data bus](#data-bus)
 5. **[CIR](#cir)** stores current instruction (being processed)
 
 ### Decode
@@ -114,14 +115,14 @@
 
 ## Performance
 
-- More cores
-    - **[Core](#core)** - contains all components used for FDE cycle
-    - Perform multiple FDE cycles at once
-- Higher clock speed
-    - **[Clock](#clock)** - synchronise components, controls speed of FDE cycle
-- More cache
-    - **[Cache](#cache)** - fast data storage inside CPU
-    - Less time spent fetching data from [RAM](#primary)
+-   More cores
+    -   **[Core](#core)** - contains all components used for FDE cycle
+    -   Perform multiple FDE cycles at once
+-   Higher clock speed
+    -   **[Clock](#clock)** - synchronise components, controls speed of FDE cycle
+-   More cache
+    -   **[Cache](#cache)** - fast data storage inside CPU
+    -   Less time spent fetching data from [RAM](#primary)
 
 ## Virtual memory
 
@@ -136,19 +137,20 @@ If <a href="#primary">RAM</a> is full
 When page is needed
 
 2. Space made available in [RAM](#primary)
-   - Send another page to CPU to process
-   - Send another page to virtual memory
+    - Send another page to CPU to process
+    - Send another page to virtual memory
 3. Page needed is sent back to [RAM](#primary)
 
 <br>
 
 # Microprocessor
+
 > <p></p>
 > Integrated circuit on a single chip
 >
-> - Limited instructions
-> - Used in **embedded systems**
->   - Performs a dedicated function only
+> -   Limited instructions
+> -   Used in **embedded systems**
+>     -   Performs a dedicated function only
 
 <br>
 
@@ -168,10 +170,11 @@ When page is needed
 ## Secondary
 
 > **Permanent** data storage (**non-volatile**)
+>
 > <p></p>
 > <b>Cannot be directly accessed by CPU</b>
 >
-> - Has to be sent to primary storage first
+> -   Has to be sent to primary storage first
 
 |                                            | Description                                                                                                                                                                                                               | Examples                                                                                            |
 | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -179,11 +182,15 @@ When page is needed
 | Optical                                    | <ul><li>Read/write arm with<br>**lasers** + **sensors**</li><ul><li>Burn pits</li><li>Read pits/lands<br>using reflections</li></ul></ul>                                                                                 | <ul><li>CD[^CD]</li><li>DVD[^DVD]</li><li>Blu-ray</li></ul>                                         |
 | <nobr>Solid-state</nobr><br>(flash memory) | <ul><li>Data flashed onto silicon chips</li><li>Uses **transistors**<ul><li>NAND/NOR<br>(flip-flop)</li><li>Control gates <br> floating gates</li><li>Control electron flow</li></ul></li><li>EEPROM technology</li></ul> | <ul><li><nobr>Solid-state</nobr> drive (SSD)</li><li>USB flash drive</li><li>SD card[^SD]</li></ul> |
 
-|             | Advantages                                                                                                                                                                 | Disadvantages |
-| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Magnetic    | <ul><li>Cheaper per storage unit</li><li>Longetivity</li></ul>                                                                                                             |
-| Solid-state | <ul><li>Faster read/write speed</li><li>Low power consumption</li><li>Runs cooler</li><li>Portable (no moving parts)<br>Lighter<br>Smaller size per storage unit</li></ul> |
-
+| Magnetic           | Solid-state                   |
+| ------------------ | ----------------------------- |
+| ✅ Cheap           | ❌ Expensive                  |
+| ✅ Long life       | ❌ Short life                 |
+| ❌ Slow read/write | ✅ Fast read/write            |
+| ❌ High power      | ✅ Low power                  |
+| ❌ Runs hot        | ✅ Runs cool                  |
+| ❌ Moving parts    | ✅ No moving parts (portable) |
+| ❌ Larger size     | ✅ Smaller size               |
 
 | Optical Storage | Differences                                                                                                 |
 | --------------- | ----------------------------------------------------------------------------------------------------------- |
@@ -199,8 +206,8 @@ When page is needed
 
 # Videos
 
-- FDE cycle \
-  [Craig'n'Dave](https://youtu.be/KBmoqwVt4Qg?si=3MH5FiUI4wUsV4zV&t=353)
+-   FDE cycle \
+    [Craig'n'Dave](https://youtu.be/KBmoqwVt4Qg?si=3MH5FiUI4wUsV4zV&t=353)
 
 <br>
 

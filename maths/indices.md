@@ -30,41 +30,44 @@ $$
 ## Example Questions
 
 1. Same base
-   $$
-   \begin{align*}
-     3^x &= 27 \\
-     3^x &= 3^3 \\
-     x &= 3
-   \end{align*}
-   $$
+
+    $$
+    \begin{align*}
+      3^x &= 27 \\
+      3^x &= 3^3 \\
+      x &= 3
+    \end{align*}
+    $$
 
 2. Different base
-   $$
-   \begin{align*}
-     3^x &= 2 \\
-     x &= \log_32
-   \end{align*}
-   $$
+
+    $$
+    \begin{align*}
+      3^x &= 2 \\
+      x &= \log_32
+    \end{align*}
+    $$
 
 3. Single term (linear)
-   $$
-   \begin{align*}
-     5^{x+1}-5^x &= 8 \\
-     5(5^x)-5^x &= 8 \\
-     4(5^x) &= 8 \\
-     5^x &= 2 \\
-     x &= \log_52
-   \end{align*}
-   $$
+
+    $$
+    \begin{align*}
+      5^{x+1}-5^x &= 8 \\
+      5(5^x)-5^x &= 8 \\
+      4(5^x) &= 8 \\
+      5^x &= 2 \\
+      x &= \log_52
+    \end{align*}
+    $$
 
 4. Single term (quadratic)
-   $$
-   \begin{align*}
-     9^x-3^{x+1} &= 4 \\
-     (3^{x})^2-3(3^x) -4 &= 0 \\
-     (3^x-4)(3^x+1) &= 0 \\
-     \text{(1)} \quad 3^x &= 4 \\
-     x &= \log_34 \\
-     \text{(2)} \quad 3^x &= -1 \quad \text{(no solution)} \\
-   \end{align*}
-   $$
+    $$
+    \begin{align*}
+      9^x-3^{x+1} &= 4 \\
+      (3^{x})^2-3(3^x) -4 &= 0 \\
+      (3^x-4)(3^x+1) &= 0 \\
+      \text{(1)} \quad 3^x &= 4 \\
+      x &= \log_34 \\
+      \text{(2)} \quad 3^x &= -1 \quad \text{(no solution)} \\
+    \end{align*}
+    $$

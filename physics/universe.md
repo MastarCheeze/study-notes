@@ -9,12 +9,12 @@ $$
 
 ## Big Bang theory
 
-- Beginning of the universe
-   - Burst of energy
-   - Creation of matter
-- Galaxies moving apart
-- Cosmic microwave background radiation (CMBR)
-    - Remnants of radiation from Big Bang
+-   Beginning of the universe
+    -   Burst of energy
+    -   Creation of matter
+-   Galaxies moving apart
+-   Cosmic microwave background radiation (CMBR)
+    -   Remnants of radiation from Big Bang
 
 ## Redshift
 

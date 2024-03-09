@@ -6,10 +6,10 @@
 **Electron flow direction**: electrons travel from - to +.
 
 > $$
-\begin{align*}
-  Q &= It \\
-  \mathrm{charge} &= \mathrm{current \cdot time}
-\end{align*}
+> \begin{align*}
+>   Q &= It \\
+>   \mathrm{charge} &= \mathrm{current \cdot time}
+> \end{align*}
 > $$
 >
 > Unit: Coulomb (C) \
@@ -17,16 +17,16 @@
 
 ## Electric field
 
-- **Region where charges experience force**
-- +ve → -ve
+-   **Region where charges experience force**
+-   +ve → -ve
 
 ## Electrostatic charges
 
 <p></p>
 Ways to charge an object:
 
-- Friction
-- Conduction \
-  (objects touching, electrons transferring)
-- Induction \
-  (objects not touching, electrons transferring via another object or earthing)
+-   Friction
+-   Conduction \
+    (objects touching, electrons transferring)
+-   Induction \
+    (objects not touching, electrons transferring via another object or earthing)

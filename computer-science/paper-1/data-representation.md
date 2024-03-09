@@ -1,20 +1,20 @@
 # Data Representation
 
-- [Text](#text)
-    - [Character set](#character-set)
-    - [ASCII](#ascii)
-    - [Unicode](#unicode)
-- [Images](#images)
-    - [JPEG](#jpeg)
-- [Sound](#sound)
-    - [MIDI](#midi)
-    - [MP3](#mp3)
-- [Video](#video)
-    - [MP4](#mp4)
-- [Units](#units)
-- [Compression](#compression)
-    - [Lossy](#lossy)
-    - [Lossless](#lossless)
+-   [Text](#text)
+    -   [Character set](#character-set)
+    -   [ASCII](#ascii)
+    -   [Unicode](#unicode)
+-   [Images](#images)
+    -   [JPEG](#jpeg)
+-   [Sound](#sound)
+    -   [MIDI](#midi)
+    -   [MP3](#mp3)
+-   [Video](#video)
+    -   [MP4](#mp4)
+-   [Units](#units)
+-   [Compression](#compression)
+    -   [Lossy](#lossy)
+    -   [Lossless](#lossless)
 
 ## Text
 
@@ -25,47 +25,47 @@
 
 ### ASCII
 
-- 8-bit binary
-- 256 characters
+-   8-bit binary
+-   256 characters
 
 ### Unicode
 
-- 16-bit binary
-- 65536 characters
+-   16-bit binary
+-   65536 characters
 
 ## Images
 
-- Resolution
-    - Dimensions of image
-- Colour depth
-    - Number of bits used to represent each colour
+-   Resolution
+    -   Dimensions of image
+-   Colour depth
+    -   Number of bits used to represent each colour
 
 ### JPEG[^JPEG]
 
 > Lossy compression
 
-- Reduce resolution
+-   Reduce resolution
 
 ## Sound
 
-- Sample rate
-    - Number of samples taken per second
-- Sample resolution
-    - Number of bits used to represent each sample
+-   Sample rate
+    -   Number of samples taken per second
+-   Sample resolution
+    -   Number of bits used to represent each sample
 
 ### MIDI[^MIDI]
 
-- Protocol \
-  Electronic musical instruments to interact with each other
-- Stored as series of demands (no music notes)
-- 8-bit serial transmission
+-   Protocol \
+    Electronic musical instruments to interact with each other
+-   Stored as series of demands (no music notes)
+-   8-bit serial transmission
 
 ### MP3
 
 > Lossy compression
 
-- Perceptual music shaping
-    - Removes sounds that cannot be heard by the human ear
+-   Perceptual music shaping
+    -   Removes sounds that cannot be heard by the human ear
 
 ## Video
 
@@ -91,10 +91,10 @@
 
 > Algorithm
 
-- Less storage
-- Faster transmission
-- Faster upload/download time
-- Less bandwith required
+-   Less storage
+-   Faster transmission
+-   Faster upload/download time
+-   Less bandwith required
 
 ### Lossy
 
@@ -113,14 +113,14 @@
 <p></p>
 Example
 
-- Run length encoding (RLE)
+-   Run length encoding (RLE)
 
 <br>
 
-|          | Advantages                          | Disadvantages                      |
-| -------- | ----------------------------------- | ---------------------------------- |
-| Lossy    | <ul><li>More compression</li></ul>  | <ul><li>Quality lost</li></ul>     |
-| Lossless | <ul><li>Quality preserved</li></ul> | <ul><li>Less compression</li></ul> |
+| Lossy               | Lossless             |
+| ------------------- | -------------------- |
+| ✅ More compression | ❌ Less compression  |
+| ❌ Quality lost     | ✅ Quality preserved |
 
 <br>
 

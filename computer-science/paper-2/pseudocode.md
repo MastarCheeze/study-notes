@@ -41,11 +41,11 @@
 
 ## Naming convention
 
-- PascalCase
-- Only contain `a-z`, `A-Z`, `0-9`
-- Start with letter
-- No special characters (including `_`)
-- Case sensitive
+-   PascalCase
+-   Only contain `a-z`, `A-Z`, `0-9`
+-   Start with letter
+-   No special characters (including `_`)
+-   Case sensitive
 
 ## Declarations & assignments
 
@@ -128,6 +128,7 @@ ENDCASE
 ```
 
 ### For
+
 ```
 FOR i <- start TO end
     <statements>
@@ -139,6 +140,7 @@ NEXT i
 ```
 
 ### While
+
 ```
 WHILE <condition> DO
     <statements>
@@ -146,6 +148,7 @@ ENDWHILE
 ```
 
 ### Repeat until
+
 ```
 REPEAT
     <statements>

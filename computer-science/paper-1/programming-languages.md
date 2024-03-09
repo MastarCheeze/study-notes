@@ -4,25 +4,29 @@
 
 > Closer to machine language
 
-- Machine code
-- Assembly
-    - Uses mnemonics
-    - Assembler to translate into machine code
+-   Machine code
+-   Assembly
+    -   Uses mnemonics
+    -   Assembler to translate into machine code
 
 ## High-level
 
 > English-like statements
 
-- Python
-- Java
-- VB.NET
+-   Python
+-   Java
+-   VB.NET
 
 <br>
 
-|                         | Advantages                                                                                                                        | Disadvantages                                                                                                                       |
-| ----------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
-| <nobr>Low-level</nobr>  | <ul><li>Does not need translating <br> (Assembly translates fast)</li><li>Can directly manipulate memory</li></ul>                | <ul><li>Hard to read/write</li><li>Hard to debug</li><li>Not portable, machine dependent</li><li>More instructions needed</li></ul> |
-| <nobr>High-level</nobr> | <ul><li>Easy to read/write</li><li>Easy to debug</li><li>Portable, machine independent</li><li>Less instructions needed</li></ul> | <ul><li>Needs translating</li><li>Cannot directly manipulate memory</li></ul>                                                       |
+| Low-level                                                    | High-level                           |
+| ------------------------------------------------------------ | ------------------------------------ |
+| ✅ Does not need translating <br> (assembly translates fast) | ❌ Needs translating                 |
+| ✅ Can directly manipulate memory                            | ❌ Cannot directly manipulate memory |
+| ❌ Hard to read/write                                        | ✅ Easy to read/write                |
+| ❌ Hard to debug                                             | ✅ Easy to debug                     |
+| ❌ Machine dependent (not portable)                          | ✅ Machine independent (portable)    |
+| ❌ More code needed                                          | ✅ Less code needed                  |
 
 <br>
 
@@ -45,14 +49,22 @@
 
 <br>
 
-| Compiler                                              | Interpreter                                   |
-| ----------------------------------------------------- | --------------------------------------------- |
-| Useful for **distributing** finished program          | Useful when **writing** program               |
-| Produces executable file                              | Does not produce executable file              |
-| No other software required to run                     | Interpreter software required to run          |
-| Source code not required to run                       | Source code required to run                   |
-| Code does not need re-translating each time it is run | Code needs re-translating each time it is run |
-| Creates **error report** with **all** errors          | Stops when error is found                     |
+**Writing program**
+
+| Compiler                          | Interpreter                                 |
+| --------------------------------- | ------------------------------------------- |
+| ❌ Code has to be complete to run | ✅ Code does not have to be complete to run |
+| ❌ Harder to debug                | ✅ Easier to debug                          |
+| ❌ Reports error all at once      | ✅ Reports error one at a time              |
+
+**Distributing program**
+
+| Compiler                                                  | Interpreter                                       |
+| --------------------------------------------------------- | ------------------------------------------------- |
+| ✅ Produces executable file                               | ❌ Does not produce executable file               |
+| ✅ Does not need translator to run                        | ❌ Needs interpreter to run                       |
+| ✅ Does not need source code to run                       | ❌ Needs source code to run                       |
+| ✅ Does not need to re-translate code each time it is run | ❌ Needs to re-translate code each time it is run |
 
 <br>
 
@@ -61,13 +73,13 @@
 > Software \
 > Provides useful tools for writing a program
 
-- Code editors
-- Run-time environment
-- Translators
-- Error diagnostics
-- Auto-completion
-- Auto-correction
-- Prettyprint
+-   Code editors
+-   Run-time environment
+-   Translators
+-   Error diagnostics
+-   Auto-completion
+-   Auto-correction
+-   Prettyprint
 
 <br>
 

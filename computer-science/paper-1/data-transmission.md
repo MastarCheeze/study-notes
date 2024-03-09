@@ -1,13 +1,13 @@
 # Data transmission
 
-- [Transmission](#transmission)
-    - [Serial](#serial)
-    - [Parallel](#parallel)
-- [Direction](#direction)
-    - [Simplex](#simplex)
-    - [Half-duplex](#half-duplex)
-    - [Full-duplex](#full-duplex)
-- [Universal serial bus (USB)](#universal-serial-bus-usb)
+-   [Transmission](#transmission)
+    -   [Serial](#serial)
+    -   [Parallel](#parallel)
+-   [Direction](#direction)
+    -   [Simplex](#simplex)
+    -   [Half-duplex](#half-duplex)
+    -   [Full-duplex](#full-duplex)
+-   [Universal serial bus (USB)](#universal-serial-bus-usb)
 
 <br>
 
@@ -15,13 +15,13 @@
 
 ## Serial
 
-- Single wire
-- One bit at a time
+-   Single wire
+-   One bit at a time
 
 ## Parallel
 
-- Multiple wires
-- Multiple bits simultaneously
+-   Multiple wires
+-   Multiple bits simultaneously
 
 <br>
 
@@ -34,25 +34,25 @@
 
 ## Simplex
 
-- Transmission in one direction only
+-   Transmission in one direction only
 
 ## Half-duplex
 
-- Transmission in both directions
-- But only one at a time
+-   Transmission in both directions
+-   But only one at a time
 
 ## Full-duplex
 
-- Transmission in both directions
-- At the same time
+-   Transmission in both directions
+-   At the same time
 
 <br>
 
 # Universal serial bus (USB)
 
-- Industry standard used to transmit data
-- Serial
-- High-speed
+-   Industry standard used to transmit data
+-   Serial
+-   High-speed
 
 <br>
 

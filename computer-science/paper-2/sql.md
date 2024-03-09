@@ -11,7 +11,6 @@
 | Real      |
 | Date/time |
 
-
 #### Comparison
 
 |      |                          |

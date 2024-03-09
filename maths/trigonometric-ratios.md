@@ -4,31 +4,31 @@
 
 ### Normal
 
-- $\sin\theta = \frac{O}{H}$
-- $\cos\theta = \frac{A}{H}$
-- $\tan\theta = \frac{O}{A}$
+-   $\sin\theta = \frac{O}{H}$
+-   $\cos\theta = \frac{A}{H}$
+-   $\tan\theta = \frac{O}{A}$
 
 ### Reciprocal
 
-- $\csc\theta = \frac{1}{\sin\theta} = \frac{H}{O}$
-- $\sec\theta = \frac{1}{\cos\theta} = \frac{H}{A}$
-- $\cot\theta = \frac{1}{\tan\theta} = \frac{A}{O}$
+-   $\csc\theta = \frac{1}{\sin\theta} = \frac{H}{O}$
+-   $\sec\theta = \frac{1}{\cos\theta} = \frac{H}{A}$
+-   $\cot\theta = \frac{1}{\tan\theta} = \frac{A}{O}$
 
 ## Periodicity relations
 
-- $\sin\theta = \sin(\theta+2k\pi)$
-- $\cos\theta = \cos(\theta+2k\pi)$
-- $\tan\theta = \tan(\theta+k\pi)$
-- $\csc\theta = \csc(\theta+2k\pi)$
-- $\sec\theta = \sec(\theta+2k\pi)$
-- $\cot\theta = \cot(\theta+k\pi)$
-<br><br>
-- $\sin\theta = -\sin(\theta-\pi)$
-- $\cos\theta = -\cos(\theta-\pi)$
-- $\tan\theta = -\tan(\theta-\frac{\pi}{2})$
-- $\csc\theta = -\csc(\theta-\pi)$
-- $\sec\theta = -\sec(\theta-\pi)$
-- $\cot\theta = -\cot(\theta-\frac{\pi}{2})$
+-   $\sin\theta = \sin(\theta+2k\pi)$
+-   $\cos\theta = \cos(\theta+2k\pi)$
+-   $\tan\theta = \tan(\theta+k\pi)$
+-   $\csc\theta = \csc(\theta+2k\pi)$
+-   $\sec\theta = \sec(\theta+2k\pi)$
+-   $\cot\theta = \cot(\theta+k\pi)$
+    <br><br>
+-   $\sin\theta = -\sin(\theta-\pi)$
+-   $\cos\theta = -\cos(\theta-\pi)$
+-   $\tan\theta = -\tan(\theta-\frac{\pi}{2})$
+-   $\csc\theta = -\csc(\theta-\pi)$
+-   $\sec\theta = -\sec(\theta-\pi)$
+-   $\cot\theta = -\cot(\theta-\frac{\pi}{2})$
 
 **A**ll **S**tudents **T**ake **C**ocaine
 
@@ -36,9 +36,9 @@
 
 ## Pythagorean identites
 
-- $\sin^2\theta+\cos^2\theta=1$
-- $\tan^2\theta+1=\sec^2\theta$
-- $1+\cot^2\theta=\csc^2\theta$
+-   $\sin^2\theta+\cos^2\theta=1$
+-   $\tan^2\theta+1=\sec^2\theta$
+-   $1+\cot^2\theta=\csc^2\theta$
 
 ## Double angle identities
 
@@ -54,8 +54,8 @@
 
 ## Quotient identities
 
-- $\tan\theta = \frac{\sin\theta}{\cos\theta}$
-- $\cot\theta = \frac{\cos\theta}{\sin\theta}$
+-   $\tan\theta = \frac{\sin\theta}{\cos\theta}$
+-   $\cot\theta = \frac{\cos\theta}{\sin\theta}$
 
 ## Scalene triangle
 
@@ -134,22 +134,22 @@ https://www.desmos.com/calculator/w8aphz7kkk
 
 ### Memorisation trick
 
-- $\sin0\degree = \sqrt{\frac{0}{4}}$
-- $\sin30\degree = \sqrt{\frac{1}{4}}$
-- $\sin45\degree = \sqrt{\frac{2}{4}}$
-- $\sin60\degree = \sqrt{\frac{3}{4}}$
-- $\sin90\degree = \sqrt{\frac{4}{4}}$
+-   $\sin0\degree = \sqrt{\frac{0}{4}}$
+-   $\sin30\degree = \sqrt{\frac{1}{4}}$
+-   $\sin45\degree = \sqrt{\frac{2}{4}}$
+-   $\sin60\degree = \sqrt{\frac{3}{4}}$
+-   $\sin90\degree = \sqrt{\frac{4}{4}}$
 
 ## Proofs
 
-- Pythagorean identities \
-  [Steve Stein](https://youtu.be/l4aov-PXp_w)
-- Compound angle identities
-  - $\sin(a+b)$ \
-    [Eddie Woo](https://youtu.be/zpyPTBgUqkQ)
-  - $\sin(a-b)$ \
-    [Eddie Woo](https://youtu.be/vnc6vleQQlw)
-  - $\cos$ and $\tan$
-    [Eddie Woo](https://youtu.be/Af7Jyrzxfy4)
-- Quotient identities \
-  see [Unit circle](#unit-circle)
+-   Pythagorean identities \
+    [Steve Stein](https://youtu.be/l4aov-PXp_w)
+-   Compound angle identities
+    -   $\sin(a+b)$ \
+        [Eddie Woo](https://youtu.be/zpyPTBgUqkQ)
+    -   $\sin(a-b)$ \
+        [Eddie Woo](https://youtu.be/vnc6vleQQlw)
+    -   $\cos$ and $\tan$
+        [Eddie Woo](https://youtu.be/Af7Jyrzxfy4)
+-   Quotient identities \
+    see [Unit circle](#unit-circle)
