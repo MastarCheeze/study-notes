@@ -101,7 +101,7 @@ $$\underset{\text{glucose}}{\ce{C6H12O6}} \xrightarrow[\text{yeast enzymes}]{\te
 
 ### Oxidising agent (chemical)
 
-**Oxidising agent:** Potassium manganate (VII) $\ce{(KMnO4)}$
+**Oxidising agent:** Acidified potassium manganate (VII) $\ce{(KMnO4)}$
 
 $$\text{alcohol} + \text{[O]} \xrightarrow[]{} \text{carboxylic acid} + \text{water}$$
 
@@ -118,4 +118,4 @@ $$\text{alcohol} + \text{oxygen} \xrightarrow[\text{bacteria}]{} \text{carboxyli
 
 $$\text{alcohol} + \text{carboxylic acid} \xrightleftharpoons[\text{conc. sulfuric acid}]{} \text{ester} + \text{water}$$
 
-<!-- ![Esterification](images/esterification.png) -->
+![Esterification](images/esterification.png)
