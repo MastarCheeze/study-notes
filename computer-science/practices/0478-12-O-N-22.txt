@@ -1,0 +1,74 @@
+0478/12/O/N/22
+https://bestexamhelp.com/exam/cambridge-igcse/computer-science-0478/2022/0478_w22_qp_12.pdf
+
+1) (a) keyboard, barcode scanner ✓
+  (b) speaker ✓
+  (c)(i) A layer of polyester and a layer of glass are laid over each other ✓ on the touchscreen with space in between. When the user applies pressure on the screen, the two layers touch each other ✓ and a circuit is completed ✓. The processor then -determines- +calculates+ the coordinates ✓ of the touch using the completed circuit.
+         (ans) electricity flows
+     (ii) Cheap cost ✓ per unit area of touchscreen
+          Uses less power ✓
+          (ans) can still be used when wearing gloves
+                waterproof
+                does not shatter easily
+     (iii) Not as sensitive to touch ✓ +lower response time+
+           Shorter use life ✓
+           (ans) poor screen visibility in sunlight
+                 lower resolution
+                 prone to scratches
+     (iv) Capacitive touch screen ✓ +infrared+
+  (d) Every program is stored as instructions in secondary memory. When the computer runs the program, it fetches the instructions from secondary memory to primary memory and decodes the instructions one by one. If the program is used often, it is stored in the cache for easy access.
+      (alt) Instructions and data are stored in +the same+ memory. ✓ When they are needed, they are fetched from memory then decoded and executed one by one. ✓
+  (e) Manage files ✓ / Manage multitasking ✓ / Manage user accounts ✓ / Handle interrupts ✓
+      (alt) Manage memory ✓ / Manage peripheral & drivers ✓ +input & output control+ / Platform for apps / Provides security system ✓
+  (f)(i) 0000 0110 0100 ✓
+         0000 1110 1011 ✓
+         0001 0010 1101 ✓
+     (ii) 22 / 119 / 857 ✓✓✓
+     (iii) 095 / AD1 ✓✓
+
+2)(a) A *proximity* sensor is used ✓ to detect if a hand is under the tap. It sends a signal to the microprocessor ✓. ADC converts the signal from analogue to digital ✓. The microprocessor compares the signal with a stored value ✓. If the value -matches- +inside the range of+ the input data, the microprocessor sends a signal to a valve to open ✓. If the value -doesn’t match- +outside the range of+ the input data, the microprocessor sends a signal for the valve to close ✓. +Actuator is used to turn the tap on/off.+ The whole process is continuous until stopped ✓.
+  (b) Humidity sensor ✓
+      Light sensor ✓
+      pH sensor ✓
+
+3) RAM ✓ SSD ✗
+   RAM ✓ SSD ✗
+   SSD ✓ USB ✓
+   +RAM+ ✗ SSD ✓ USB ✓
+   +SSD+ ✗ USB ✓
+
+4) Store backups regularly ✓. This way if a file is accidentally deleted you can still *recover* it from backup ✓.
+   Enable permanent delete confirmation ✓. This way you can double check if you really want to delete a file and prevent accidental deletion ✓.
+   (ans) Access rights, unable to delete any files
+
+5) Byte number: Byte 4 ✓
+   Bit number: Bit 5 ✓
+   Explanation: The data uses even parity ✓, so all bytes must have even number of on bits ✓. All columns of bits must have even parity too. The row and the column where the number of on bits are odd ✓ is where the error is at.
+
+6)(a) Check if the domain is https:// ✓
+      Check if there is a padlock icon beside address bar ✓
+      (ans) check digital cert of website
+  (b) TLS ✓ +transport layer security+
+  (c) Proxy server can prevent DDoS attacks ✓. When large amount of requests is incoming, proxy server can -limit- +filter+ requests ✓. This ensures the main server can work properly and users still have access to data. Proxy server can also use caching to block multiple requests from the same ip address.
+      (ans) intermediary between request and web server
+            filter traffic
+            stop malicious traffic
+            cache frequently viewed web pages
+            allow fater response time
+            reduce number of requests of web server
+            prevent DDoS
+            stop web server from overloading
+            redirecting DDoS away from web server
+            act as firewall
+  (d)(i) Spyware ✓
+     (ii) Antimalware ✓. Searches the computer for malware  using a database of known malware and puts them into quarantine so they cannot do harm ✓.
+          Biometrics ✓. Fingerprint and face recognition is harder to obtain by spyware ✓ and also harder to replicate by the perpetrator
+          Only require user to type in random parts of password ✓. This way the hacker does not know the full password ✓ if spyware records the keystrokes.
+          (ans) Virtual keyboard
+  (e) URL ✓, IP address ✓, web server ✓, web pages ✓, HTML ✓, browser ✓
+
+7)(a) OR ✓
+      NAND ✓ OR ✓ XOR ✓
+      OR ✓ XOR ✓
+      XOR ✓
+  (b) AND ✓, 0 0 0 1 ✓

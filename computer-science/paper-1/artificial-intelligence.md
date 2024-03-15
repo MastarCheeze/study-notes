@@ -5,10 +5,10 @@
 <p></p>
 Features
 
--   Collection of data
--   Set of rules
--   Ability to reason (logic)
--   Ability to learn[^1]
+-   Collection of **data**
+-   Set of **rules**
+-   Ability to **reason** (logic)
+-   Ability to **learn**[^1]
 
 ## Machine learning
 

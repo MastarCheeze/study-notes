@@ -107,7 +107,6 @@
 
 ### Resistive touch screen
 
-> -   Cheap
 > -   Upper layer polyester
 > -   Bottom layer glass
 
@@ -117,7 +116,6 @@
 
 ### Capacitive touch screen
 
-> -   Medium price
 > -   Layers of glass
 > -   Electric fields between glass layers \
 >     Spread across screen
@@ -129,7 +127,6 @@
 
 ### Infrared touch screen (heat)
 
-> -   Expensive
 > -   Glass screen
 
 -   Needs warm object as input
@@ -142,6 +139,15 @@
 
 -   Processor calculates coordinate \
     based on which grid coordinate is touched
+
+| Resistive                         | Capacitive                              | Infrared                           |
+| --------------------------------- | --------------------------------------- | ---------------------------------- |
+| ✅ Cheap                          | ❌ Expensive                            | ❌ Expensive                       |
+| ✅ Waterproof                     |                                         |                                    |
+| ✅ Can be activated with anything | ❌ Must be activated with finger/stylus |
+| ❌ Not durable                    | ✅ Durable                              | ✅ Durable                         |
+| ❌ Not sensitive                  | ✅ Sensitive                            | ✅ Sensitive <br> ❌ Too sensitive |
+| ❌ Poor image quality             | ✅ Good image quality                   | ✅ Good image quality              |
 
 ### 2D scanner
 
