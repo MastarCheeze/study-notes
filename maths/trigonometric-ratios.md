@@ -71,7 +71,7 @@ $$A = \frac{1}{2}ab\sin\gamma$$
 
 ### Sine rule
 
-$$\frac{\sin c}{\gamma} = \frac{\sin a}{\theta}$$
+$$\frac{\sin\gamma}{c} = \frac{\sin\theta}{a}$$
 
 ## Graphs
 
