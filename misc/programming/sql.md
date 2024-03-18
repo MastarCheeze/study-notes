@@ -27,7 +27,7 @@ DESC [name];
 
 ```
 INSERT INTO [name] VALUES (…);
-UPDATE [name] SET … WHERE …; 
+UPDATE [name] SET … WHERE …;
 DELETE FROM [name] WHERE …;
 ```
 

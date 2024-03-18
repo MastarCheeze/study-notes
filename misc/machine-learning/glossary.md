@@ -24,4 +24,4 @@ Training set
 
 ### Instance
 
-Input 
+Input

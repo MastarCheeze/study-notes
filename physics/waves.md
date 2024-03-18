@@ -9,9 +9,9 @@
 <p></p>
 Examples
 
-- [Electromagnetic waves](#electromagnetic-waves)
-- [Water waves](#water-waves-effects)
-- S wave (seismic wave)
+-   [Electromagnetic waves](#electromagnetic-waves)
+-   [Water waves](#water-waves-effects)
+-   S wave (seismic wave)
 
 ### Longitudinal waves
 
@@ -25,29 +25,29 @@ Rarefactions - part of wave with low pressure
 <p></p>
 Examples
 
-- [Sound waves](#sound-waves)
-- P waves (seismic wave)
+-   [Sound waves](#sound-waves)
+-   P waves (seismic wave)
 
 ## Properties of waves
 
 ![Properties of a wave](images/properties-of-a-wave.jpg)
 
-- Wavelength \
-  Length of one complete oscillation
-- Period \
-  Time for one complete oscillation
-- Amplitude \
-  Maximum distance a point moves from its rest position
-- Frequency (Hz) \
-  Number of waves passing any point per second
+-   Wavelength \
+    Length of one complete oscillation
+-   Period \
+    Time for one complete oscillation
+-   Amplitude \
+    Maximum distance a point moves from its rest position
+-   Frequency (Hz) \
+    Number of waves passing any point per second
 
 ## Wave equation
 
 > $$
-\begin{align*}
-  v &= f\lambda \\
-  \mathrm{speed} &= \mathrm{frequency \cdot wavelength}
-\end{align*}
+> \begin{align*}
+>   v &= f\lambda \\
+>   \mathrm{speed} &= \mathrm{frequency \cdot wavelength}
+> \end{align*}
 > $$
 >
 > $\small\text{speed} \propto \text{wavelength}$
@@ -55,13 +55,14 @@ Examples
 ## Frequency equation
 
 > $$
-\begin{align*}
-  f &= \frac{1}{T} \\
-  \mathrm{frequency} &= \mathrm{\frac{1}{period}}
-\end{align*}
+> \begin{align*}
+>   f &= \frac{1}{T} \\
+>   \mathrm{frequency} &= \mathrm{\frac{1}{period}}
+> \end{align*}
 > $$
 
 ## Speed of waves
+
 | Wave                         | Medium | Speed                   |
 | ---------------------------- | ------ | ----------------------- |
 | Light (Electromagnetic wave) | Vacuum | $3\cdot10^8~\text{m/s}$ |
@@ -78,22 +79,22 @@ Examples
 
 ![Wave refraction](images/wave-refraction.png)
 
-- Shallower
-    - Slower
-    - Shorter wavelength
-    - Refracted towards normal
-- Deeper
-    - Faster
-    - Longer wavelength
-    - Refracted away from the normal
+-   Shallower
+    -   Slower
+    -   Shorter wavelength
+    -   Refracted towards normal
+-   Deeper
+    -   Faster
+    -   Longer wavelength
+    -   Refracted away from the normal
 
 ### Diffraction
 
 ![Wave diffraction](images/wave-diffraction.png)
 
-- More diffraction if
-    - Gap smaller
-    - Wavelength longer
+-   More diffraction if
+    -   Gap smaller
+    -   Wavelength longer
 
 ## Electromagnetic waves
 
@@ -163,6 +164,6 @@ Cannot be heard by humans
 <p></p>
 Uses
 
-- Medical scanning
-- Metal testing (non-destructive)
-- Sonar
+-   Medical scanning
+-   Metal testing (non-destructive)
+-   Sonar

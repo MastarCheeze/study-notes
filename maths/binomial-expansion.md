@@ -34,7 +34,7 @@ $$
 
 ## Proofs
 
-- Combinations \
-  [Khan Academy](https://youtu.be/_hrN4rVCOfI)
-- Pascal's Triangle \
-  [Khan Academy](https://youtu.be/x-N76NrMDNE)
+-   Combinations \
+    [Khan Academy](https://youtu.be/_hrN4rVCOfI)
+-   Pascal's Triangle \
+    [Khan Academy](https://youtu.be/x-N76NrMDNE)

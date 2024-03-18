@@ -40,7 +40,7 @@ A set of linearly independent vectors that spans a vector space is the basis for
 
 ### Examples
 
-- î and ĵ are basis vectors of the xy coordinate system
+-   î and ĵ are basis vectors of the xy coordinate system
 
 ## Subspace
 
@@ -54,9 +54,9 @@ Must satisfy 3 conditions:
 
 ## Linear transformations
 
-- Grid lines must be kept parallel and evenly spaced
+-   Grid lines must be kept parallel and evenly spaced
     Transformed lines must be kept straight and not curved
-- The origin must remain fixed in place
+-   The origin must remain fixed in place
 
 ## Determinant
 
@@ -104,5 +104,5 @@ The determinant of a \(square\) matrix is how much the matrix transformation cha
 
 # Intuition
 
-- [https://youtu.be/k7RM\-ot2NWY](https://youtu.be/k7RM-ot2NWY)
+-   [https://youtu.be/k7RM\-ot2NWY](https://youtu.be/k7RM-ot2NWY)
     Linear combinations, span, linear independence and basis vectors
