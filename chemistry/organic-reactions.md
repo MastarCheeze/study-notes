@@ -10,11 +10,11 @@
 Release more energy
 
 $$
-\begin{aligned}
+\begin{align*}
   \text{alkane + oxygen} &\rightarrow \text{carbon dioxide + water} \\
   \text{alkene + oxygen} &\rightarrow \text{carbon dioxide + water} \\
   \text{alcohol + oxygen} &\rightarrow \text{carbon dioxide + water} \\
-\end{aligned}
+\end{align*}
 $$
 
 ### Incomplete combustion
@@ -23,11 +23,11 @@ $$
 Release less energy
 
 $$
-\begin{aligned}
+\begin{align*}
     \text{alkane + oxygen} &\rightarrow \text{carbon monoxide + water} \\
     \text{alkene + oxygen} &\rightarrow \text{carbon monoxide + water} \\
     \text{alcohol + oxygen} &\rightarrow \text{carbon monoxide + water} \\
-\end{aligned}
+\end{align*}
 $$
 
 ## Cracking <sup><sub><small>alkane</small></sub></sup>

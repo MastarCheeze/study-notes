@@ -15,20 +15,20 @@ Weak acid - does not fully disassociate into $\ce{H+}$ ions
 ### Acid reactions
 
 $$
-\begin{aligned}
+\begin{align*}
     \ce{\text{carboxylic acid} + \text{alkali} &-> \text{carboxylate salt} + \text{water} \\}
     \ce{\text{carboxylic acid} + \text{metal} &-> \text{carboxylate salt} + \text{hydrogen} \\}
     \ce{\text{carboxylic acid} + \text{metal oxide} &-> \text{carboxylate salt} + \text{water} \\}
     \ce{\text{carboxylic acid} + \text{metal carbonate} &-> \text{carboxylate salt} + \text{water} + \text{carbon dioxide}}
-\end{aligned}
+\end{align*}
 $$
 
 ### Esterification
 
 $$
-\begin{aligned}
+\begin{align*}
     \ce{\text{alcohol} + \text{carboxylic acid} -> \text{ester} + \text{water}}
-\end{aligned}
+\end{align*}
 $$
 
 ![Esterification](images/esterification.png)
