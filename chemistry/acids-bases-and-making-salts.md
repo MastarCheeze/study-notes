@@ -33,6 +33,7 @@ $$\ce{CH3COOH <=>[\text{<100\% disassociated}] H+ + CH3COO-}$$
 | ----------------------------- |
 | zinc oxide $\ce{(ZnO)}$       |
 | aluminum oxide $\ce{(Al2O3)}$ |
+| lead oxide $\ce{(PbO)}$       |
 
 ## Indicators
 
@@ -60,6 +61,8 @@ $$
 
 # Making Salts
 
+## Solubility rules
+
 -   Universally _soluble_ ions $(\ce{AmNaK})$:
 
     -   Ammonium $(\ce{NH4+})$
@@ -67,6 +70,12 @@ $$
     -   Potassium $(\ce{K+})$
     -   Nitrate $(\ce{NO3-})$
     -   All Group I ions\*
+
+-   **Hydroxides $(\ce{OH-})$** that are _soluble_ $(\ce{CaNaK})$:
+
+    -   Calcium $(\ce{Ca^2+})$
+    -   Sodium $(\ce{Na+})$
+    -   Potassium $(\ce{K+})$
 
 -   **Halides** (chlorides, bromides, iodides) that are _insoluble_:
 
@@ -78,11 +87,6 @@ $$
     -   Lead $(\ce{Pb^2+})$
     -   Barium $(\ce{Ba^2+})$
     -   Calcium $(\ce{Ca^2+})$
-
--   **Hydroxides $(\ce{OH-})$** that are _soluble_ $(\ce{CaNaK})$:
-    -   Calcium $(\ce{Ca^2+})$
-    -   Sodium $(\ce{Na+})$
-    -   Potassium $(\ce{K+})$
 
 ## Soluble salt
 

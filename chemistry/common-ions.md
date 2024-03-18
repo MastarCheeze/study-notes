@@ -19,7 +19,7 @@
 
 |           |              |
 | --------- | ------------ |
-| Zinc      | $\ce{Zn^2+}$ |
-| Lead      | $\ce{Pb^2+}$ |
 | Silver    | $\ce{Ag+}$   |
+| Lead      | $\ce{Pb^2+}$ |
+| Zinc      | $\ce{Zn^2+}$ |
 | Aluminium | $\ce{Al^3+}$ |

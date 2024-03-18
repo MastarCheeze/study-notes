@@ -7,6 +7,13 @@
 > Overall energy change of reaction
 >
 > $$\mathrm{\Delta H} = \underset{\text{(energy in)}}{\text{energy to break bonds}} - \underset{\text{(energy out)}}{\text{energy released making bonds}}$$
+>
+> $$
+> \begin{align*}
+>   \mathrm{\Delta H} &< 0 \enspace \text{\small exothermic} \\
+>   \mathrm{\Delta H} &> 0 \enspace \text{\small endothermic}
+> \end{align*}
+> $$
 
 <br>
 
@@ -22,7 +29,7 @@
 
 ![Exothermic reaction](images/reaction-exothermic.png)
 
-$\mathrm{\Delta H}$ is -ve
+$\mathrm{\Delta H} < 0$
 
 # Endothermic
 
@@ -34,4 +41,4 @@ $\mathrm{\Delta H}$ is -ve
 
 ![Endothermic reaction](images/reaction-endothermic.png)
 
-$\mathrm{\Delta H}$ is +ve
+$\mathrm{\Delta H} > 0$
