@@ -53,7 +53,7 @@ Converting (both ways):
 # Hexadecimal
 
 > Base 16 number system \
-> 1-9 and A-F
+> 0-9 and A-F
 
 ## Advantages
 
@@ -73,3 +73,8 @@ Converting (both ways):
 -   Memory address
 -   Assembly
 -   Machine code
+
+# Denary
+
+> Base 10 number system \
+> 0-9

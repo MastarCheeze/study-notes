@@ -13,10 +13,10 @@
 > | x   | product                   |
 > | ÷   | per unit <br> rate (time) |
 >
-> | Example              |                                                 |
-> | -------------------- | ----------------------------------------------- |
-> | $\rho = \frac{m}{v}$ | Density is themass of an object per unit volume |
-> | $I = \frac{Q}{t}$    | Current is the rate of flow of electric charge  |
+> | Example              |                                                  |
+> | -------------------- | ------------------------------------------------ |
+> | $\rho = \frac{m}{v}$ | Density is the mass of an object per unit volume |
+> | $I = \frac{Q}{t}$    | Current is the rate of flow of electric charge   |
 >
 > ### Drawing
 >
