@@ -1,0 +1,53 @@
+0625/42/O/N/19
+file:///Users/zehuanchay/Documents/School/0625/0625_w19_qp_42.pdf
+
+1)(a) 264/44/20 = 0.3m ✓
+  (b) ρ=m/v=2.7_10^5/264 = 1022.7 kg/m³ ✓
+  (c) p=ρgh=1022.7_9.8*0.3 = 3006.7 Pa ✓
+  (d) measuring tape ✓
+
+2)(a) no resultant moment ✓, no resultant force ✓
+  (b)(ii) (1.2_0.4-0.5_0.1)/0.9 = 0.478 Nm ✓
+     (iii) F=0.5+1.2 = 1.7N
+
+3)(a) Gas molecules in the piston move around randomly and collide with the walls ✓ of the cylinder. The momentum of the molecules change over time, which exerts a resultant outwards force ✓ on the cylinder. Pressure created when is force is spread across an area ✓.
+  (b) p1v1=p2v2 20000*330/820 = 8048.8 Pa ✓
+
+4)(a) E=VIt=12*3*(23*60) = 49680 J ✓
+      c=E/∆t=49680/(70-20) = 993.6 J/°C ✓
+  (b) 1. The bigger metal sphere ✓ radiates more energy because it has more surface area ✓.
+      2. The rate of emission is higher ✓ because the initial temperature is higher
+
+5)(a)(i) compression - part of the wave where pressure is highest (ans) closer
+         rarefaction - part of wave where pressure is lowest (ans) further apart
+     (ii) longitudinal - waves oscillates in direction parallel to motion ✓
+          transverse - waves oscillates in direction perpendicular to motion ✓
+  (b)(i) λ=v/f=3500/120 = 29.17 m ✓
+     (ii) Yes. Human hearing range is 20-20000Hz ✓
+
+6)(a)(i) Light rays travelling from the coin gets refracted ✓ because it travels from a higher density medium to a lower density and it bends +away from normal+ around the edge of the container.
+     (ii) Refraction ✓
+     (iii) It cannot be projected onto a screen ✓, real rays do not intersect
+  (b) 3*10^8 ✓
+  (c) v=3*10^8/1.3 = 2.31*10^8 m/s ✓
+
+7)(a)(i) The needle deflects ✓ in one direction because the magnetic field lines of the magnet cut through the coils of wire ✓
+     (ii) The needle deflects more ✓ in the same direction. The trolley has more time to accelerate thus the speed when it passes through the coil is -faster- +higher+ ✓
+  (b) 1. Can cause electrocution ✓. Wire is exposed to water and can conduct electricity easily
+      2. Cable can overload and catch on fire ✓. The power used by the heater is greater than what the wire can handle ✓.
+      3. Can be easily damaged. Wire is left in the open, can be easily stepped on.
+      (ans) can trip on wire
+
+8)(a) 0.14*(3/2)/(0.9/0.4) = 0.0933 Ω ✓
+  (b)(i) 0 1 1 0 ??
+     (ii) OR -> NOR ✓
+
+9)(a) Region where a force acts on an electric charge ✓
+      (ans) region where electric charge experiences force
+  (b) 5 lines from left to right ✓
+  (c)(i) Q=It=0.21*10*3600 = 7560 C ✓
+     (ii) E=VQ=1.2*7560 = 9072 J ✓
+     (iii) Chemical energy ✓
+
+10)(a) 0 0 0 4m 2e ✓✓✓✓✓
+   (b) Reduce exposure time v, use tongs ✓ to handle radioactive material, wear protective lead clothing ✓, store in a lead container ✓
