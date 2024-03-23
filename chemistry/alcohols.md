@@ -13,13 +13,13 @@
 ### Addition (hydration) with steam
 
 $$
-\ce{C2H4 + \underset{\text{steam}}{H2O}} \xrightleftharpoons[\text{phosphoric acid}]{300\degree\text{C + 60 atm}} \ce{C2H5OH}
+\ce{C2H4 + \underset{\text{steam}}{H2O} <=>[{300\degree\text{C + 60 atm}}][phosphoric acid] C2H5OH}
 $$
 
 ### Fermentation from glucose
 
 $$
-\underset{\text{glucose}}{\ce{C6H12O6}} \xrightarrow[\text{enzymes in yeast}]{\text{30\degree C}} \ce{2C2H5OH + 2CO2}
+\ce{\underset{glucose}{C6H12O6} ->[30\degree C][enzymes in yeast] 2C2H5OH + 2CO2}
 $$
 
 ### Comparison

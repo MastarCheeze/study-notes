@@ -42,9 +42,9 @@ Breaks down large molecules into smaller ones
 
 $$
 \begin{align*}
-    \text{alkane} &\xrightarrow[\text{zeolite \scriptscriptstyle(catalyst)}]{540\degree \text{C}} \text{alkane + alkenes \scriptsize(one or more)} \\
-    \ce{C10H22} &\xrightarrow{~~~~~~~~~~~~~~~~~~~~~~~~} \ce{C5H12 + C3H6 + C2H4} \\
-    \ce{C2H6} &\xrightarrow{~~~~~~~~~~~~~~~~~~~~~~~~} \ce{H2 + C2H4}
+    \ce{alkane &->[540\degree \text{C}][zeolite \scriptscriptstyle(catalyst)] alkane + alkenes \scriptsize(one or more)} \\
+    \ce{C10H22 &->[~~~~~~~~~~~~~~~~~~~~~~~~] C5H12 + C3H6 + C2H4} \\
+    \ce{C2H6 &->[~~~~~~~~~~~~~~~~~~~~~~~~] H2 + C2H4}
 \end{align*}
 $$
 
@@ -55,7 +55,7 @@ Requirement: ultraviolet radiation
 
 $$
 \begin{align*}
-    \text{alkane + halogen} &\xrightarrow{\text{UV light}} \text{haloalkane + hydrogen halide} \\
-    \ce{C2H6 + Br2} &\xrightarrow{~~~~~~~~~~~~~~~} \ce{C2H5Br + HBrs}
+    \ce{alkane + halogen &->[UV light] haloalkane + hydrogen halide} \\
+    \ce{C2H6 + Br2 &->[~~~~~~~~~~~~~~~] C2H5Br + HBr}
 \end{align*}
 $$

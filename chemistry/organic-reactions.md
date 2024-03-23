@@ -11,9 +11,9 @@ Release more energy
 
 $$
 \begin{align*}
-  \text{alkane + oxygen} &\rightarrow \text{carbon dioxide + water} \\
-  \text{alkene + oxygen} &\rightarrow \text{carbon dioxide + water} \\
-  \text{alcohol + oxygen} &\rightarrow \text{carbon dioxide + water} \\
+  \ce{alkane + oxygen &-> carbon dioxide + water} \\
+  \ce{alkene + oxygen &-> carbon dioxide + water} \\
+  \ce{alcohol + oxygen &-> carbon dioxide + water} \\
 \end{align*}
 $$
 
@@ -24,9 +24,9 @@ Release less energy
 
 $$
 \begin{align*}
-    \text{alkane + oxygen} &\rightarrow \text{carbon monoxide + water} \\
-    \text{alkene + oxygen} &\rightarrow \text{carbon monoxide + water} \\
-    \text{alcohol + oxygen} &\rightarrow \text{carbon monoxide + water} \\
+    \ce{alkane + oxygen &-> carbon monoxide + water} \\
+    \ce{alkene + oxygen &-> carbon monoxide + water} \\
+    \ce{alcohol + oxygen &-> carbon monoxide + water} \\
 \end{align*}
 $$
 
@@ -37,7 +37,7 @@ Breaks down large molecules into smaller ones
 **Conditions:** 540˚C \
 **Catalyst:** zeolite
 
-$$\text{alkane} \xrightarrow[\text{zeolite}]{540\degree \text{C}} \text{smaller alkane \scriptsize(or hydrogen)} + \text{alkenes \scriptsize(one or more)}$$
+$$\ce{alkane ->[540\degree \text{C}][\text{zeolite}] smaller alkane \scriptsize(or hydrogen)} + \text{alkenes \scriptsize(one or more)}$$
 
 ## Substitution <sup><sub><small>alkane</small></sub></sup>
 
@@ -48,7 +48,7 @@ Hydrogen atom swapped with another atom
 
 UV light = activation energy $E_a$
 
-$$\text{alkane + halogen} \xrightarrow{\text{UV light}} \text{haloalkane + hydrogen halide}$$
+$$\ce{alkane + halogen ->[UV light] haloalkane + hydrogen halide}$$
 
 <div style="text-align: center;"><img src="images/substitution-1.png" alt="Substitution reaction 1"></div>
 <div style="text-align: center;"><img src="images/substitution-2.png" alt="Substitution reaction 2"></div>
@@ -62,7 +62,7 @@ Forms only one product
 **Conditions:** heat + pressure \
 **Catalyst:** nickel
 
-$$\text{alkene + hydrogen} \xrightarrow[\text{nickel \scriptscriptstyle}]{\text{heat + pressure}} \text{alkane} \\$$
+$$\ce{alkene + hydrogen ->[heat + pressure][nickel \scriptscriptstyle] alkane} \\$$
 
 <div style="text-align: center;"><img src="images/addition-hydrogenation.png" alt="Addition reaction (hydrogenation)"></div>
 
@@ -70,7 +70,7 @@ $$\text{alkene + hydrogen} \xrightarrow[\text{nickel \scriptscriptstyle}]{\text{
 
 **Conditions:** -
 
-$$\text{alkene + halogen} \xrightarrow{} \text{haloalkane}$$
+$$\ce{alkene + halogen -> haloalkane}$$
 
 <div style="text-align: center;"><img src="images/addition-halogenation.png" alt="Addition reaction (halogenation)"></div>
 
@@ -79,7 +79,7 @@ $$\text{alkene + halogen} \xrightarrow{} \text{haloalkane}$$
 **Conditions:** 300˚C + 60 atm \
 **Catalyst:** phosphoric acid $\ce{(H3PO4)}$
 
-$$\text{alkene} + \underset{\text{steam}}{\text{water}} \xrightarrow[\text{phosphoric acid}]{300\degree \text{C + 60 atm}} \text{alcohol}$$
+$$\ce{alkene + \underset{steam}{water} ->[300\degree \text{C + 60 atm}][phosphoric acid] alcohol}$$
 
 ## Dehydration <sup><sub><small>alcohol</small></sub></sup>
 
@@ -88,14 +88,14 @@ Reverse of hydration
 **Conditions:** heat \
 **Catalyst:** alumina (aluminium oxide) $\ce{(Al2O3)}$
 
-$$\text{alcohol} \xrightarrow[\text{alumina}]{\text{heat}} \text{alkene + water}$$
+$$\ce{alcohol ->[heat][alumina] alkene + water}$$
 
 ## Fermentation <sup><sub><small>glucose</small></sub></sup>
 
 **Conditions:** 30˚C + no oxygen \
 **Catalyst:** yeast enzymes
 
-$$\underset{\text{glucose}}{\ce{C6H12O6}} \xrightarrow[\text{yeast enzymes}]{\text{30\degree C}} \ce{\underset{\text{ethanol}}{2C2H5OH} + 2CO2}$$
+$$\ce{\underset{glucose}{C6H12O6} ->[\text{30\degree C}][yeast enzymes] \underset{ethanol}{2C2H5OH} + 2CO2}$$
 
 ## Oxidation <sup><sub><small>alcohol</small></sub></sup>
 
@@ -103,19 +103,19 @@ $$\underset{\text{glucose}}{\ce{C6H12O6}} \xrightarrow[\text{yeast enzymes}]{\te
 
 **Oxidising agent:** Acidified potassium manganate (VII) $\ce{(KMnO4)}$
 
-$$\text{alcohol} + \text{[O]} \xrightarrow[]{} \text{carboxylic acid} + \text{water}$$
+$$\ce{alcohol + [O] -> carboxylic acid + water}$$
 
 ### Fermentation (biological)
 
 Bacteria
 
-$$\text{alcohol} + \text{oxygen} \xrightarrow[\text{bacteria}]{} \text{carboxylic acid} + \text{water}$$
+$$\ce{alcohol + oxygen ->[][bacteria] carboxylic acid + water}$$
 
 ## Esterification
 
 **Conditions:** - \
 **Catalyst:** concentrated sulfuric acid $\ce{(H2SO4)}$
 
-$$\text{alcohol} + \text{carboxylic acid} \xrightleftharpoons[\text{conc. sulfuric acid}]{} \text{ester} + \text{water}$$
+$$\ce{alcohol + carboxylic acid <=>[][conc. sulfuric acid] ester + water}$$
 
 ![Esterification](images/esterification.png)
