@@ -1,5 +1,14 @@
 # Lenses
 
+**Principal axis** \
+Line passing through the centre of a lens perpendicular to its surface
+
+**Principal focus** \
+Point where light rays parallel to principal axis converge
+
+**Focal length** \
+Distance between centre of lens and principal focus
+
 | Keywords  |                     |
 | --------- | ------------------- |
 | Real      | Virtual             |

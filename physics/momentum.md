@@ -14,7 +14,7 @@
 
 > $$
 > \begin{align*}
->   \Delta p &= F\Delta t \\
+>   \Delta p &= Ft \\
 >   \mathrm{impulse} &= \mathrm{resultant~force \cdot change~in~time}
 > \end{align*}
 > $$

@@ -13,7 +13,7 @@ Turning effect of a force about a pivot
 
 Note: \
 Moment of force: perpendicular distance \
-Work: Parallel distance
+Work: parallel distance
 
 ## Principle of moments
 

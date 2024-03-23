@@ -2,15 +2,13 @@
 
 ## Conduction
 
-**Heat transfer in solids and liquids**
+**Heat transfer in solids and liquids** \
+Molecules collide, transfer <u>heat</u> energy
 
-### Metals
-
-<p></p>
-Metals are good conductors because:
-
--   mobile electrons gain kinetic energy
--   move randomly and collide, transfer kinetic energy
+|                         | Molecules vibrate in fixed position <br> (collide with <u>neighbouring</u> atoms) | Electrons move freely |
+| ----------------------- | --------------------------------------------------------------------------------- | --------------------- |
+| Metals                  | ✅                                                                                | ✅                    |
+| <nobr>Non-metals</nobr> | ✅                                                                                | ❌                    |
 
 ## Convection
 

@@ -36,5 +36,17 @@ $$\ce{^{131}_{53}I -> ^{131}_{54}Xe + ^{~0}_{-1}\beta}$$
 
 <br>
 
+---
+
+<br>
+
+## Irradiation vs Contamination
+
+| Irradiation                          | Contamination                         |
+| ------------------------------------ | ------------------------------------- |
+| Object exposed to ionising radiation | Radioactive material is inside object |
+
+<br>
+
 [^1]: Unit: Elementary charge $(e)$, equal to charge of a proton.
 [^2]: Unit: Atomic mass unit $(u)$, equal to 1/12 of a carbon-12 atom.

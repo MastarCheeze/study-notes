@@ -34,7 +34,7 @@ To increase force on wire:
 -   Increase current
 -   Increase number of turns (coil)
 -   Stronger magnet
--   Increase area (coil)
+-   Increase surface area (coil)
 
 ## <u>Induced</u> current in wire
 
@@ -55,7 +55,7 @@ To increase induced current:
 
 -   Stronger magnet
 -   Increase movement speed
--   Increase area of wire
+-   Increase surface area of wire
 
 <p></p>
 To reverse induced current:
@@ -70,7 +70,7 @@ To reverse induced current:
 
 ![Lenz's law on induced poles of solenoid](images/lenzs-law.png)
 
-### Eddy current
+### Eddy current \*
 
 > Created when metals cut through magnetic fields lines \
 > Produces motion that opposes change

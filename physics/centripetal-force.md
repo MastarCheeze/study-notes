@@ -1,6 +1,7 @@
 # Centripetal Force
 
-Inward force that makes object move in circle
+Force towards centre of circle \
+Makes object move in circle
 
 $$
 \begin{align*}

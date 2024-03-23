@@ -93,8 +93,8 @@ Examples
 ![Wave diffraction](images/wave-diffraction.png)
 
 -   More diffraction if
-    -   Gap smaller
     -   Wavelength longer
+    -   Gap equal to wavelength
 
 ## Electromagnetic waves
 

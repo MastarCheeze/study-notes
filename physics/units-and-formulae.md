@@ -56,8 +56,8 @@ $$
 \begin{align*}
   \tag*{\scriptsize (Newton's 2nd law)} F &= ma \\
   p &= mv \\
-  \Delta p &= F\Delta t \\
-  F &= \frac{\Delta p}{\Delta t} = \frac{m(v-u)}{\Delta t} \\
+  \Delta p &= Ft \\
+  F &= \frac{\Delta p}{t} = \frac{m(v-u)}{t} \\
   \tag*{\scriptsize ~~~~~~~~~~~~~~~~~~~(weight)} F &= mg \\
   \tag*{\scriptsize ~~~(moment of force)} M &= Fd \\
 \end{align*}
@@ -91,8 +91,8 @@ $$
   p &= \rho gh \\
   \tag*{\scriptsize (Boyle's law)} p_1V_1 &= p_2V_2 \\
   E &= mc\Delta\theta \\
-  E &= C\Delta\theta \\
-  E &= mL \\
+  E &= C\Delta\theta \text{ *} \\
+  E &= mL \text{ *} \\
 \end{align*}
 $$
 
@@ -105,7 +105,8 @@ $$
   V &= IR \\
   R &= \rho \cdot \frac{l}{A} \\
   P &= VI \\
-  E &= VIt
+  E &= VIt \\
+  \text{efficiency} &= \frac{\text{useful output}}{\text{total input}} \cdot 100\%
 \end{align*}
 $$
 
@@ -191,7 +192,7 @@ $$
   c &= 3\cdot10^8 \text{ m/s} \\
   \text{sound \scriptsize(air)} &= 340 \text{ m/s} \\
   \text{sound \scriptsize(water)} &= 1500 \text{ m/s} \\
-  H_0 &= 2.3 \cdot 10^{-18} \text{ s}^{-1} \\
+  \tag*{\scriptsize (Hubble constant)} H_0 &= 2.3 \cdot 10^{-18} \text{ s}^{-1} \\
   \text{light year} &= 9.5 \cdot 10^{15} \text{ m}
 \end{align*}
 $$
