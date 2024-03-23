@@ -26,6 +26,7 @@
     2. Reacts with sand to form slag \
        calcium oxide + silicon (IV) oxide → calcium silicate \
        $\ce{CaO + SiO2 -> CaSiO3}$
+5. Oxygen blown into molten iron to reduce carbon content*
 
 Slag - building roads \
 Waste gases - carbon dioxide, nitrogen

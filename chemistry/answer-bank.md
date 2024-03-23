@@ -1,5 +1,9 @@
 # Paper 4
 
+### What is redox
+
+Reduction and oxidation both occur
+
 ### Why it is redox reaction
 
 _particle_ lose electrons, _particle_ gain electron
@@ -43,6 +47,11 @@ Same number of outer shell (valence) electrons
 
 -   More particles in smaller volume
 -   Collide more
+
+### Why rate of reaction decrease over time
+
+-   Concentration decrease
+-   Lower rate of collision of particles
 
 ### What is saturated solution
 
