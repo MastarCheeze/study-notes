@@ -1,0 +1,72 @@
+file:///Users/zehuanchay/Documents/School/0620/0620_w23_qp_42.pdf
+0620/42/O/N/23
+
+1)(a) B ✓
+  (b) F ✓
+  (c) D ✓
+  (d) A and E ✓
+  (e) G ✓
+  (f) C ✓
+  (g) A ✗ B
+  (h) F ✓
+
+2)(a)(i) 27 29 ✓ / 32 36 ✓ / 27 27 ✓
+     (ii) 63*0.7+65*0.3 = 63.6u ✓
+  (b) Higher density ✓
+      High melting point ✓
+  (c)(i) Water that bonds to compounds that turn it hydrated ✗
+         (ans) Water molecules present in hydrated crystals
+     (ii) Pink ✓ CoCl2 ✗ CoCl2•6H2O
+     (iii) white to blue ✓✓
+     (iv) heat ✓
+
+3)(a) Oxygen ✓
+  (b)(i) Hematite ✓
+     (ii) 3 3 2 ✓
+     (iii) 3+ 0 ✓
+     (iv) oxidation number decreased ✓
+  (c) CaCO3 -> CaO + CO2 thermal decomposition ✓✓
+      CaO + SiO2 -> CaSiO3 ✓ addition ✗ acid-base reaction
+  (d)(i) Alloy ✓
+     (ii) Chromium ✓
+  (e) Iron oxide ✗ Hydrated iron (III) oxide
+  (f)(i) galvanising ✓
+     (ii) painting ✓
+     (iii) Zinc is more reactive than -steel- +iron+ ✓ so oxygen will -react with- oxidise+ zinc instead of -steel- +iron+. ✓
+
+4)(a)(i) lead nitrate ✓, sodium chloride ✓
+     (ii) Pb2+ (aq) + 2Cl- (aq) -> PbCl2 (s) ✓
+     (iii) Filter ✓, wash with distilled water ✓, dry and heat in oven ✓
+  (b)(i) so that the ions are mobile ✓
+     (ii) 2Cl- -> 2e + Cl2 ✓
+     (iii) damp blue litmus ✓, turns red then bleaches white ✓
+     (iv) grey solid formed ✓
+
+5)(a) enthalpy change ✓
+  (b)(i) Rate of forward reaction increase ✓. Higher concentration of CCl4 +(more particles per unit volume)+ ✓, particles collide with H2O more frequently ✓ and react more often
+     (ii) Equilibrium shifts to the left ✓. Less moles of molecules on left ✓.
+     (iii) CCl4 + 2H2O on the left level ✓
+           CO2 + 4HCl on the right level ✓
+           arrow up from left level to peak Ea ✓
+           arrow down from left level to right level ∆H ✓
+     (iv) initial energy required to break the bonds of molecules to start a reaction
+          minimum energy ✓ required for colliding particles to react ✓ chemically
+     (v) Use a catalyst ✓
+  (c) 340*4+460*4 = 3200kJ ✓
+      805*2 = 1610kJ ✓
+      (intermediate steps please)
+      (3200-1610+130)/4 = 430kJ ✓
+
+6)(a) General formula ✓
+      Functional group ✓
+  (b) By one fixed unit ✗ -CH2- unit
+  (c)(i) alkenes ✓
+         alkanes ✓
+         carboxylic acids ✓
+     (ii) propanoic acid ✓
+          CH3CH2COOH
+  (d)(i) 4+12*2+16*2+14 = 74
+         103-74 = 29 ✓
+         29-12-12=5
+         C2H5 ✓
+     (ii) proteins ✓

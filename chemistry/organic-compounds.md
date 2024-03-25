@@ -16,7 +16,7 @@
 -   Same functional group
 -   Similar chemical properties
 -   Trends in physical properties
--   Next member increase by one unit
+-   Next member increase by one unit $\ce{(-CH2-)}$
 
 ### General properties
 

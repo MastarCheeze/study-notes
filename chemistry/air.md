@@ -23,6 +23,11 @@ Transition metal catalyst
 
 $$\ce{2CO + 2NO ->[transition metal] 2CO2 + N2}$$
 
+### Flue gas desulfurisation
+
+1. Flue gas react with water to form acid
+2. Neutralised with calcium oxide (acid-base reaction)
+
 ## Greenhouse gases
 
 |                | Sources                                                           |

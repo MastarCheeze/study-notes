@@ -21,6 +21,14 @@ _number_ more/less electrons than protons
 
 Same number of outer shell (valence) electrons
 
+### What is water of crystallisation
+
+Water molecules present in hydrated crystals
+
+### Chemical name of rust
+
+Hydrated iron (III) oxide
+
 ### What is equilibrium
 
 -   Rate of forwards/backwards reaction is equal

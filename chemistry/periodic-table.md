@@ -60,9 +60,9 @@ Top to bottom
 
 #### Properties (compared with non-transition metals)
 
-| Chemical properties                                                                           | Physical properties                                                            |
-| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| <ul><li>Variable oxidation number</li><li>Forms coloured compounds</li><li>Catalyst</li></ul> | <ul><li>Higher melting point</li><li>Higher density</li><li>Stronger</li></ul> |
+| Chemical properties                                                                           | Physical properties                                                                     |
+| --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| <ul><li>Variable oxidation number</li><li>Forms coloured compounds</li><li>Catalyst</li></ul> | <ul><li>Higher melting point</li><li>Higher density</li><li>Stronger & harder</li></ul> |
 
 ## Noble gases
 
