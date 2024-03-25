@@ -22,7 +22,7 @@ Definition: **Force of gravity acting on object**
 
 > $$
 > \begin{align*}
->   F &= mg \\
+>   W &= mg \\
 >   \mathrm{weight} &= \mathrm{mass \cdot gravitational~field~strength}
 > \end{align*}
 > $$

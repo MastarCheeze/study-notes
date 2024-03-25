@@ -20,7 +20,16 @@
 >
 > ### Drawing
 >
-> Always draw 3+
+> Always draw 3+ items
+>
+> ### Calculations
+>
+> Always at least 3 significant figures
+>
+> ### Theory questions
+>
+> Always be specific \
+> Refer back to values in the question
 
 ### What is deceleration
 

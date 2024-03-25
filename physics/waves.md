@@ -118,7 +118,7 @@ Examples
 | Ultraviolet   | <ul><li>Fluorescent materials<ul><li>Bank note markings</li><li>Security marker pens</li></ul></li><li>Sterilising water</li></ul>                                                                                   |
 | Visible light | <ul><li>Photography</li><li>Optical fibres</li></ul>                                                                                                                                                                 |
 | Infrared      | <ul><li>Short range communication (remote controls)</li><li>Optical fibres</li><li>Thermal imaging<ul><li>Intruder alarms</li></ul></li><li>Heating<ul><li>Radiant heater</li><li>Electric grill</li></ul></li></ul> |
-| Microwaves    | <ul><li>Satellite TV</li><li>WiFi</li><li>Microwave ovens</li></ul>                                                                                                                                                  |
+| Microwaves    | <ul><li>Satellite TV</li><li>Mobile phones (WiFi)</li><li>Microwave ovens</li></ul>                                                                                                                                  |
 | Radio waves   | <ul><li>Radio and TV</li><li>Bluetooth</li><li>Radio frequency identification (RFID)</li><li>Astronomy</li></ul>                                                                                                     |
 
 ## Reasons of application

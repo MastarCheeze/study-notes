@@ -1,5 +1,7 @@
 # Heat Transfer
 
+> From high temperature → low temperature
+
 ## Conduction
 
 **Heat transfer in solids and liquids** \
@@ -55,5 +57,7 @@ $$
 \end{align*}
 $$
 
-Dark & dull = good absorber / emitter \
-White & shiny = bad absorber / emitter (good reflectors)
+| Dark & dull           | White & shiny        |
+| --------------------- | -------------------- |
+| Good absorber/emitter | Bad absorber/emitter |
+|                       | Good reflector       |

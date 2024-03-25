@@ -10,7 +10,7 @@
 | Penetrating power   | Low                                                                                                | Medium                                                               | High                                                                   |
 | Stopped by          | Paper                                                                                              | Aluminium <nobr>(1 cm)</nobr>                                        | Lead <nobr>(10 cm)</nobr>                                              |
 
-# Radioactive Decay
+## Radioactive Decay
 
 > **Half-life** \
 > Time taken for half the nuclei to decay
@@ -22,17 +22,32 @@
 > \end{align*}
 > $$
 
-## Alpha decay
+### Alpha decay
 
 Loses 2 proton 2 neutron
 
 $$\ce{^{226}_{88}Ra -> ^{222}_{86}Rn + ^{4}_{2}\alpha}$$
 
-## Beta decay
+### Beta decay
 
 1 neutron turns into 1 proton and 1 electron, loses electron
 
 $$\ce{^{131}_{53}I -> ^{131}_{54}Xe + ^{~0}_{-1}\beta}$$
+
+## Deflection
+
+### Electric field
+
+![Deflection of radiation in an electric field](images/particle-deflection-electric-field.png)
+
+Beta deflect more than alpha because small mass
+
+### Magnetic field
+
+![Deflection of radiation in an magnetic field](images/particle-deflection-magnetic-field.png)
+
+Use [Fleming's left hand rule](./magnetic-fields.md#flemings-left-hand-rule) \
+Direction of conventional current is opposite to electron flow (beta)
 
 <br>
 
