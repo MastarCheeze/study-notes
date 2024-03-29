@@ -27,7 +27,7 @@
 -   Low melting & boiling point
 -   Poor electrical conductor
 
-## Giant covalent structure
+### Giant covalent structure
 
 > Many atoms covalently bonded in a huge network
 
@@ -35,3 +35,17 @@
 | ------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
 | ![Structure of diamond](images/bond-ionic-diamond.png)                                            | ![Structure of graphite](images/bond-covalent-graphite.png)                                                  | ![Structure of silicon (IV) oxide](images/bond-covalent-silicon-iv-oxide.png)                     |
 | <ul><li>High melting & boiling point</li><li>Poor conductor of electricity</li><li>Hard</li></ul> | <ul><li>High melting & boiling point</li><li>Good conductor of electricity</li><li>Soft & slippery</li></ul> | <ul><li>High melting & boiling point</li><li>Poor conductor of electricity</li><li>Hard</li></ul> |
+
+## Metallic bond
+
+![Metallic bonding](images/bond-metallic.png)
+
+> Positive ions in lattice \
+> Sea of delocalised electrons
+
+#### Properties
+
+-   High melting & boiling point
+-   Good electrical conductor
+-   Malleable
+-   Ductile (drawn into wires)

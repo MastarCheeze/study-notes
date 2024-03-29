@@ -1,17 +1,10 @@
 # States of Matter
 
-### Solid
-
--   Lattice
--   Vibrate in fixed position
-
-### Liquid
-
--   Slide past each other
-
-### Gas
-
--   Move quickly and randomly
+|             | Solid                     | Liquid                | Gas              |
+| ----------- | ------------------------- | --------------------- | ---------------- |
+| Separation  | Touching                  | Packed closely        | Spread far apart |
+| Arrangement | Regular (lattice)         | Irregular             | Irregular        |
+| Movement    | Vibrate in fixed position | Slide past each other | Move randomly    |
 
 ## Heating/Cooling Curve
 

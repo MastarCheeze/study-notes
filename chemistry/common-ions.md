@@ -1,7 +1,6 @@
 # Common Ions
 
-**Cation** → (+) positively charged ion (attracted to cathode)
-
+**Cation** → (+) positively charged ion (attracted to cathode) \
 **Anion** → (-) negatively charged ion (attracted to anode)
 
 ## Polyatomic ions

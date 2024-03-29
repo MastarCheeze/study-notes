@@ -7,4 +7,6 @@
 
 ![Mole formula triangle](images/avogadro.png)
 
+![Conversion between number of particles, moles and grams](images/mole-conversions.png)
+
 Note: 1 dm<sup>3</sup> = 1000 cm<sup>3</sup>

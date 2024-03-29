@@ -101,7 +101,7 @@ $$\ce{\underset{glucose}{C6H12O6} ->[\text{30\degree C}][yeast enzymes] \underse
 
 ### Oxidising agent (chemical)
 
-**Oxidising agent:** Acidified potassium manganate (VII) $\ce{(KMnO4)}$
+**Oxidising agent:** Acidified aqueous potassium manganate (VII) $\ce{(KMnO4)}$
 
 $$\ce{alcohol + [O] -> carboxylic acid + water}$$
 
