@@ -47,9 +47,9 @@ See [Pseudocode](./pseudocode.md)
 
 > Detect/fix errors
 
-| Test data |                                                                     |
-| --------- | ------------------------------------------------------------------- |
-| Normal    | Accepted by program                                                 |
-| Abnormal  | Rejected by program                                                 |
-| Extreme   | On the edge of what is allowed, accepted by program                 |
-| Boundary  | On the edge of what is allowed, both accepted & rejected by program |
+| Test data |                                                                             |
+| --------- | --------------------------------------------------------------------------- |
+| Normal    | **Accepted** by program                                                     |
+| Abnormal  | **Rejected** by program                                                     |
+| Extreme   | On the edge of what is allowed, **accepted** by program                     |
+| Boundary  | On the edge of what is allowed, both **accepted** & **rejected** by program |

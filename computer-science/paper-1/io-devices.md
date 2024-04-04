@@ -74,11 +74,15 @@
 
 ### Digital camera
 
-1. Microprocessor adjusts
-    - Shutter speed
-    - Focus
-2. Light pass through lens \
+1. Light pass through lens \
    onto light sensitive cell
+2. Split into pixels \
+   Measure light intensity of each pixel
+3. Convert to binary
+
+-   Microprocessor adjusts
+    -   Shutter speed
+    -   Focus
 
 ### Barcode scanner
 
@@ -93,8 +97,8 @@
 2. Light reflected
     - Dark - reflect less
     - Light - reflect more
-3. Photoelectric cells read reflected light
-4. Pattern converted to digital
+3. Sensors read reflected light
+4. Reflections converted to binary
 
 ### QR code scanner[^QR]
 
@@ -104,6 +108,14 @@
 > -   Matrix of dark squares on light background
 > -   More storage than barcode
 > -   Can store URL
+
+1. Laser
+2. Corners used to determine orientation
+3. Light reflected
+    - Dark - reflect less
+    - Light - reflect more
+4. Sensors read reflected light
+5. Reflections converted to binary
 
 ### Resistive touch screen
 
@@ -144,10 +156,14 @@
 | --------------------------------- | --------------------------------------- | ---------------------------------- |
 | ✅ Cheap                          | ❌ Expensive                            | ❌ Expensive                       |
 | ✅ Waterproof                     |                                         |                                    |
-| ✅ Can be activated with anything | ❌ Must be activated with finger/stylus |
-| ❌ Not durable                    | ✅ Durable                              | ✅ Durable                         |
+| ✅ Can be activated with anything | ❌ Must be activated with finger/stylus | ✅ Can be activated with anything  |
+| ✅ Harder to shatter              | ❌ Easier to shatter                    | ❌ Easier to shatter               |
+| ✅ Low power usage                |                                         |                                    |
+| ❌ Short use life                 | ✅ Long use life                        | ✅ Long use life                   |
 | ❌ Not sensitive                  | ✅ Sensitive                            | ✅ Sensitive <br> ❌ Too sensitive |
+|                                   | ✅ Multitouch                           | ✅ Multitouch                      |
 | ❌ Poor image quality             | ✅ Good image quality                   | ✅ Good image quality              |
+| ❌ Poor visibility in sunlight    | ✅ Good visibility in sunlight          | ✅ Good visibility in sunlight     |
 
 ### 2D scanner
 
@@ -199,9 +215,17 @@
 
 ### LED screen[^LED]
 
+-   Display made of pixels arranged in matrix
+-   LEDs behind the screen
+-   Light shone at pixels
+-   Diffuser distributes light evenly
+-   RGB filters
+    -   mix to create different colours
+
 ### LCD screen[^LCD]
 
 -   Front layer LCD
+    -   Millions of liquid crystals arranged in matrix
 -   LED backlight
     -   Reach max brightness immediately
     -   Higher resolution
@@ -218,7 +242,7 @@
 ### Speaker
 
 1. DAC (digital-to-analogue converter)
-2. Amplifier
+2. Current amplifier
 3. Cone vibrates at different frequencies
     - Caused by voltage differences
 

@@ -23,6 +23,11 @@
 -   Transistors
 -   Can only store 0 and 1
 
+### What are registers
+
+-   Memory
+-   Store data and instructions
+
 ### What is off-line storage
 
 -   Non-volatile
@@ -37,6 +42,14 @@
 -   Extend RAM capacity
 -   Process more data
 -   Prevent _application_ from freezing
+
+### How are interrupts processed
+
+1.  Interrupt sent to CPU
+2.  CPU stops current task
+    To service interrupt
+3.  CPU calls interrupt service routine (ISR)
+4.  Action is produced
 
 ### How is data accidentally lost
 
@@ -73,6 +86,8 @@
 <br><br>
 
 # Paper 2
+
+> ALWAYS WRITE OUTPUT
 
 ### What happens when a function is called
 

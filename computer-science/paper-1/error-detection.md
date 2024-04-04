@@ -35,7 +35,7 @@
 >       If no error, sends acknowledgement
 >     - **Negative acknowledgement** \
 >       If has error, sends acknowledgement
-> 4. If timeout, continue or send packet again
+> 4. If timeout, continue or send packet again (until reach resend limit)
 
 <br>
 

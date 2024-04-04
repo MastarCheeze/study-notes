@@ -25,10 +25,16 @@
 
 <br>
 
-|          | Advantages                                                                                                             | Disadvantages                                                                                                                        |
-| -------- | ---------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| Serial   | <ul><li>Less error</li><li>Less skew (arrive in order)</li><li>Less interference (single wire)</li><li>Cheap</li></ul> | <ul><li>Slow</li><li>Additional data (start/stop bit)</li></ul>                                                                      |
-| Parallel | <ul><li>Fast</li></ul>                                                                                                 | <ul><li>More error</li><li>More skew (do not arrive in order)</li><li>More interference (multiple wires)</li><li>Expensive</li></ul> |
+| Serial                                          | Parallel                                |
+| ----------------------------------------------- | --------------------------------------- |
+| ✅ Less error                                   | ❌ More error                           |
+| ✅ Less skew <br> (arrive in order)             | ❌ More skew <br> (arrive in order)     |
+| ✅ Less interference <br> (single wire)         | ❌ More interference <br> (single wire) |
+| ✅ Cheap                                        | ❌ Expensive                            |
+| ❌ Slow                                         | ✅ Fast                                 |
+| ❌ Additional data needed <br> (start/stop bit) |                                         |
+
+<br>
 
 # Direction
 
@@ -51,11 +57,19 @@
 # Universal serial bus (USB)
 
 -   Industry standard used to transmit data
--   Serial
 -   High-speed
+-   Serial
+    -   Single wire
+    -   One bit at a time
 
-<br>
-
-|     | Advantages                                                                                                                                                                                                            | Disadvantages                                                                     |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| USB | <ul><li>Universal standard</li><li>Supports different transmission speeds</li><li>Can only fit one way</li><li>Backwards compatible</li><li>Automatically detect/download drivers</li><li>Can charge device</li></ul> | <ul><li>Limited transmission rate (500Mb/s)</li><li>Limited length (5m)</li></ul> |
+|                                           |
+| ----------------------------------------- |
+| ✅ Universal standard                     |
+| ✅ Fast                                   |
+| ✅ Supports different transmission speeds |
+| ✅ Can only fit one way                   |
+| ✅ Backwards compatible                   |
+| ✅ Automatically detect/download drivers  |
+| ✅ Can charge device                      |
+| ❌ Limited transmission rate (500Mb/s)    |
+| ❌ Limited length (5m)                    |

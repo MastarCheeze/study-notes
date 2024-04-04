@@ -1,0 +1,72 @@
+0478/13/O/N/22
+https://bestexamhelp.com/exam/cambridge-igcse/computer-science-0478/2022/0478_w22_qp_13.pdf
+
+1) Output ✓ Storage ✓ Input ✓ Input ✓ Storage ✓
+
+2)(a) 0100 1000 ✓
+      1111 0101 ✓
+      0000 1111 ✓
+  (b) 09AE ✓
+
+3) 16*100*100=160000 bits=20000 bytes
+   5*2^20/20000=262 ✓
+
+4)(a) capacitive touch screen ✓
+      uses less power, longer battery life of phone ✗
+      longer lasting and more durable, quality assurance ✓
+      more sensitive to touch, no need to press down hard ✓
+      good image quality, high resolution clear images ✓
+  (b) Primary storage ✓
+      Can be directly accessed by CPU ✓
+  (c)(i) Data sent one bit at a time in both directions but only one direction at a time
+      Data sent follows a universally recognised protocol ✗
+         (ans) Serial transmission
+               One bit at a time
+               Single wire
+     (ii) Mobile phone will be charging ✓
+          Backwards compatible with older devices ✓
+          Supports different transmission speeds ✓
+          Universal standard ✓
+          Auto detect/download drivers ✗
+          (ans) Fast transmission speed
+  (d) Each FDE cycle, the interrupt handler checks the interrupt queue to see if there are any interrupts. It stores the current process in memory ✓ then runs the interrupt service routine ✓. The routine handles the interrupt by performing some actions such as emitting a ringtone and vibrating the phone ✓. After that, the stored process is loaded back into memory and another FDE cycle starts.
+
+6)(a) A QR code scanner uses light to scan the QR code ✓. More light is reflected back on the white surface of the code than the black surface ✓. Light sensors ✓ in the scanner reads the amount of light ✓ reflected back and sends the data signal to the processor. The processor looks up the video corresponding to the data of the QR code and sends a signal to the display to show the video.
+      (ans) Corners of code used to determine orientation
+            Light reflections converted to binary
+            Link/URL of video stored in QR code
+  (b) MP4 ✓
+  (c) More file compression can be achieved ✗
+      Details that are not visible/audible are removed ✗
+      or
+      Less bandwidth is needed to load ✓
+      Faster transmission speed ✓
+      (ans) reduce file size
+            take up less storage space
+            less buffering
+  (d) The LED display is made up of many pixels ✓ in a -grid- matrix ✓. Each pixel has red green and blue led. A color is produced by combining different brightness of red green and blue light. Processor receives data and sends signal to the leds to output light of varying brightness.
+
+7) fetched ✓ MDR ✓ data bus ✓ decoded ✓ ALU ✓ calculations ✓ execute ✓
+
+8)(a) Unique identifiers ✓
+      MAC and IPv6 both use hexadecimal ✓
+      Both have separators ✗
+      (ans) unique address
+            identify device on network
+            assigned to hardware
+  (b) MAC identify NIC, IP identify device on a network ✗
+      MAC is static, IP can be dynamic ✓
+      MAC is 48bit, IP is 32/128bit ✓
+      (ans) MAC is hex, IP can be denary
+            MAC 6 groups of digits, IP 4/8 groups of digits
+      MAC assigned by manufacturer, IP assigned by router/ISP
+
+9) When data is sent, parity bit is appended to the data ✓ to make the number of bits odd or even ✓. This is called odd or even parity. The receiving device already agrees on using odd or even parity ✓. The packet is then transmitted. The receiving device checks the data if it has the correct parity ✓. If positive acknowledgement is used, signal is sent to sending device if data has correct parity ✓. The sending device will then send the next packet when acknowledgement is received. If doesn’t receive any signals for a set amount of time, times out and resends the current packet ✓. If negative acknowledgement is used, signal is sent when data has incorrect parity ✓. The sending device resends the current packet if acknowledgement is received ✓. If no signal received for set amount of time, times out and send next packet. This is repeated until all data packets are sent successfully or will be terminated if the same data packet is sent too many times. ✓
+
+10)(a)(i) HTTPS stands for HyperText Transfer Protocol Secure ✓. Is a -protocol- +set of rules+ used by websites ✓ that encrypts all that transmitted ✓ using it. Makes sure connection is secure and data cannot be stolen.
+          (ans) Combines HTTP with SSL/TLS
+      (ii) Check padlock beside link ✓
+           Check +digital+ certificate ✓
+   (b) Virus corrupts file ✓
+       Device is hacked and files are deleted ✓
+       Ransomware locks file and demands payment ✓

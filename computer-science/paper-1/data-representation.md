@@ -91,10 +91,11 @@
 
 > Algorithm
 
--   Less storage
+-   Less storage needed
 -   Faster transmission
 -   Faster upload/download time
 -   Less bandwith required
+-   Less buffering (video)
 
 ### Lossy
 

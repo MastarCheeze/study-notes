@@ -82,7 +82,8 @@
 
 ## MAC address[^MAC]
 
-> Unique identifier (for device) \
+> Unique address
+> Identify device on network \
 > Assigned to NIC by manufacturer \
 > Static
 
@@ -94,7 +95,8 @@
 
 ## IP address[^IP]
 
-> Unique address (for device)
+> Unique address \
+> Identify device on network
 
 ### Static
 

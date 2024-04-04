@@ -11,6 +11,12 @@
 
 <br>
 
+# Firmware
+
+> Software embedded into hardware devices (ROM)
+
+-   Loaded when computer starts
+
 # System Software
 
 > Services that the computer requires

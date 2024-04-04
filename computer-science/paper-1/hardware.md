@@ -102,6 +102,7 @@
 4. **[MDR](#mdr)** temporarily holds address of data/instruction (fetched from [RAM](#primary))
     - send to [CIR](#cir) via [Data bus](#data-bus)
 5. **[CIR](#cir)** stores current instruction (being processed)
+    - send to [CU](#cu) via [Data bus](#data-bus)
 
 ### Decode
 
