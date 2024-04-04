@@ -27,10 +27,11 @@
 
 | Serial                                          | Parallel                                |
 | ----------------------------------------------- | --------------------------------------- |
+| ✅ Longer wire                                  | ❌ Shorter wire                         |
+| ✅ Cheap                                        | ❌ Expensive                            |
 | ✅ Less error                                   | ❌ More error                           |
 | ✅ Less skew <br> (arrive in order)             | ❌ More skew <br> (arrive in order)     |
 | ✅ Less interference <br> (single wire)         | ❌ More interference <br> (single wire) |
-| ✅ Cheap                                        | ❌ Expensive                            |
 | ❌ Slow                                         | ✅ Fast                                 |
 | ❌ Additional data needed <br> (start/stop bit) |                                         |
 

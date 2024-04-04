@@ -1,0 +1,90 @@
+0478/12/F/M/23
+https://bestexamhelp.com/exam/cambridge-igcse/computer-science-0478/2023/0478_m23_qp_12.pdf
+
+1)(a) D ✓
+  (b) Virus ✓ - Replicates itself on the system ✓, corrupts data and files, fills up storage space and clogs memory ✓
+      Ransomware ✓ - Prevents access to the system ✓ by encrypting all data ✓ until a ransom is paid ✓
+      Adware ✓ - Unwillingly shows advertisement ✓ pop-ups
+      Worm ✓ - Replicates itself +on a network+ ✓ and uses up the system’s bandwith ✓
+  (c) Similarity 1 - Both monitor incoming data ✓ and compare them with a criteria
+      Similarity 2 - Both block ✓ incoming data if malicious data is detected
+      Difference - Proxy server is used for web-servers ✓ and firewalls are used for personal computers ✓
+      (ans) Similarity
+            - Stores whitelist/blacklist
+            - Keep log of traffic
+            - Both can be hardware or software
+            Differences
+            - Proxy is to divert attack, firewall is to stop unauthorised access
+
+2)(a) High-level
+      - Easy to read, write ✓
+      - Easy to debug ✓
+      - Less lines of code required
+      - Memory management is safe and automatic ✓
+      - Machine independent +(portable)+ ✓
+      Low-level
+      - Fast and memory efficient ✓
+      - Can directly manipulate memory ✓
+      - Takes up less storage space
+      - Runs smoothly ✓
+      (ans) Huraian!!!
+  (b) Compiler - Translates code into machine code all at once before the code can be run ✓. Error report is created with all the errors in the code ✓.
+                 (ans) produces executable file
+      Interpreter - Translates code line by line when it is running ✓. Programs stops and outputs error if an error has occured ✓.
+
+3)(a) 16 ✓ 0.5 ✓ 4096 ✓ 1024 ✓
+  (b) 1. current -program- application software ✓
+      2. frequently accessed data
+      3. current executing instructions ✓
+  (c) Non-volatile storage ✓ that can store large amounts of data permanently.
+      (ans) Store data not currently required by CPU
+            Store data to transfer to other computers
+
+4)(a) pixel - a tiny squares of colour ✓ that make up an image when arranged in a matrix
+      resolution - the width and the height of an image in pixels ✓
+  (b) 1000*1000*2 = 2 000 000 bytes ✓
+  (c) non-volatile ✓ transistors ✓ grid ✓ electrons ✓
+  (d) To reduce storage space ✓
+      Faster transmission ✓
+      Reduce file size ✓
+      Less bandwidth used ✓
+
+5)(a)(i) Originator’s address ✓
+         Destination address ✓
+         Packet number ✓
+     (ii) Payload ✓
+          Trailer ✓
+  (b)(i) Serial
+         - Long transmission wire can be used ✓
+         - Less error ✓
+         - Less skew, data always arrive in order ✓
+         - Less interference, less number of wires are used ✓
+         - Cheaper
+         Parallel
+         - Fast transmission of data ✓
+     (ii) Data can be transmitted in both directions ✓ at the same time ✓.
+  (c)(i) 0 0 ✓
+     (ii) Can detect specific bit that contains error ✓
+          -Can detect if more than one bit has an error- +Can detect even numbers of errors+ ✓
+     (iii) Bit 6 ✓ Byte 4 ✓
+  (d)(i) Store bookmarks/favourites ✓
+         Store history ✓
+         Provide encryption ✗ +Manage HTTP/HTTPS protocol+
+         Request web pages from web server ✓
+         (ans) Provide navigation tools
+               Allow multiple tabs
+               Provides address bar
+               Runs javascript
+               Allows file downloading
+     (ii) Store login details ✓ so that user does not have to reenter
+          Save items to shopping cart ✓
+          Save user preferences ✓
+
+6)(a) 1F ✓ 10001100 ✓ 90 ✓ 01111000 ✓
+  (b) A field of making programmable machines that replicates human actions
+      (ans) Design/construction/operation of robots to perform tasks
+  (c) +Proximity+ Sensor detects data +continuously+ from surroundings and sends signal to microprocessor. ADC converts signal from analogue to digital. Microprocessor processes the data. Compares values with stored value +of 10cm+. If matches or within range ✓, signal is sent to actuator motor ✓. Actuator carries out actions and rotates the robot 90° ✓. If value out of range ✓, signal is sent to actuator to keep moving forward ✓. Whole process is continuous until stopped ✓.
+  (d)(i) Has data ✓ and rules ✓. Has ability to reason ✓ and ability to learn ✓.
+     (ii) The robot moves through the maze randomly at first. All the paths are recorded in memory ✓. If it meets a dead end or cannot cross an obstacle, it is penalised ✓ and it learns to avoid that path ✓. If it can continue moving or can cross an obstacle, it is awarded ✓ and learns to follow that path ✓. It learns from its past mistakes and also its past successes and combines the knowledge logically to reach the end of the puzzle.
+         (ans) Uses machine learning algorithms
+               Identify patterns so it knows what works and what doesn’t

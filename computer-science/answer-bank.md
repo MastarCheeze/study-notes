@@ -4,17 +4,23 @@
 >
 > ### Application of sensors
 >
-> 1. _Sensor_ measures _quantity_
+> 1. [_Sensor_] measures [_quantity_] continuously
 > 2. Data sent to microprocessor
 > 3. Convert from analogue to digital \
 >    using **ADC**
-> 4. Value **compared** with **stored value**
+> 4. Value **compared** with **stored value** of [_concrete value_]
 > 5. If value **_matches / within range / outside range_**
-> 6. _Scenario 1_, **signal** sent to cause _action_ \
->    _Scenario 2_, **signal** sent to cause _action_ \
->    _Scenario 3_, no action
-> 7. **Actuator** operates _device_
+> 6. [_Scenario 1_], **signal** sent to cause [_action_] \
+>    [_Scenario 2_], **signal** sent to cause [_action_] \
+>    [_Scenario 3_], no action
+> 7. **Actuator** operates [_device_]
 > 8. **Whole** process is **continuous until stopped** (depends)
+>
+> ### Advantages/Disadvantages
+>
+> For advantages, can say that disadvantage does not affect use case
+>
+> **Example:** Parallel data transmission not needed because only transmit for short distance
 
 <br>
 
@@ -41,7 +47,7 @@
 
 -   Extend RAM capacity
 -   Process more data
--   Prevent _application_ from freezing
+-   Prevent [_application_] from freezing
 
 ### How are interrupts processed
 

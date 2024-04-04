@@ -49,22 +49,20 @@
 
 <br>
 
-**Writing program**
+| Writing program: Interpreter ✅          |
+| ---------------------------------------- |
+| Code does not have to be complete to run |
+| Easier to debug                          |
+| Reports error one at a time              |
 
-| Compiler                          | Interpreter                                 |
-| --------------------------------- | ------------------------------------------- |
-| ❌ Code has to be complete to run | ✅ Code does not have to be complete to run |
-| ❌ Harder to debug                | ✅ Easier to debug                          |
-| ❌ Reports error all at once      | ✅ Reports error one at a time              |
+<br>
 
-**Distributing program**
-
-| Compiler                                                  | Interpreter                                       |
-| --------------------------------------------------------- | ------------------------------------------------- |
-| ✅ Produces executable file                               | ❌ Does not produce executable file               |
-| ✅ Does not need translator to run                        | ❌ Needs interpreter to run                       |
-| ✅ Does not need source code to run                       | ❌ Needs source code to run                       |
-| ✅ Does not need to re-translate code each time it is run | ❌ Needs to re-translate code each time it is run |
+| Distributing program: Compiler ✅                      |
+| ------------------------------------------------------ |
+| Produces executable file                               |
+| Does not need translator to run                        |
+| Does not need source code to run                       |
+| Does not need to re-translate code each time it is run |
 
 <br>
 

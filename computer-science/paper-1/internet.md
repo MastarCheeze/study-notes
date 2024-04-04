@@ -5,7 +5,7 @@
     -   [World wide web](#world-wide-web)
     -   [NIC](#nicnic)
     -   [Router](#router)
-        -   [Packet](#packet)
+        -   [Packets](#packets)
         -   [Packet switching](#packet-switching)
     -   [DNS](#dns)
     -   [Web server](#web-server)
@@ -50,6 +50,7 @@
     -   Destination address (IP address)
     -   Originators address (IP address)
     -   Packet number
+    -   Error detection method
 -   Payload
 -   Trailer
 

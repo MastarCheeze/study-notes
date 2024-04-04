@@ -161,16 +161,22 @@ When page is needed
 
 > **Directly accessed by CPU**
 
-| RAM                                                                                                   | ROM                                                                                                                 |
-| ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| Stores data currently in use                                                                          | <p></p>Stores startup instructions<ul><li>Bootstrap</li><li>BIOS</li><li>Firmware</li></ul>                         |
-| <p></p>Volatile<ul><li>Temporary storage</li><li>Contents are lost when power is turned off</li></ul> | <p></p>Non-volatile<ul><li>Permanent storage</li><li>Contents are preserved even when power is turned off</li></ul> |
-| Can be written to<br>Contents constantly changing                                                     | Cannot be written to<br>Contents fixed                                                                              |
-| Can increase amount of RAM                                                                            | Cannot increase amount of ROM                                                                                       |
+| RAM                                                                                                                                            | ROM                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| Stores current running...<ul><li>Instructions</li><li>Data</li><li>Application software</li><li>Utility software</li><li>Parts of OS</li></ul> | Stores startup instructions<ul><li>Bootstrap</li><li>BIOS</li><li>Firmware</li></ul>                         |
+| Volatile<ul><li>Temporary storage</li><li>Contents are lost when power is turned off</li></ul>                                                 | Non-volatile<ul><li>Permanent storage</li><li>Contents are preserved even when power is turned off</li></ul> |
+| Can be written to<br>Contents constantly changing                                                                                              | Cannot be written to<br>Contents fixed                                                                       |
+| Can increase amount of RAM                                                                                                                     | Cannot increase amount of ROM                                                                                |
 
 ## Secondary
 
 > **Permanent** data storage (**non-volatile**)
+>
+> <p></p>
+> Stores...
+>
+> -   data currently not required by CPU
+> -   data to transfer to other devices
 >
 > <p></p>
 > <b>Cannot be directly accessed by CPU</b>

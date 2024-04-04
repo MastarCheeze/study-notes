@@ -10,6 +10,13 @@
 -   **Even parity**
     -   Number of on bits = even
 
+### Parity blocks
+
+![Parity block](../images/parity-block.png)
+
+-   Can pinpoint specific bit that has error
+-   Can detect errors even when even number of errors
+
 ### Checksum
 
 -   Calculate value
@@ -44,7 +51,7 @@
 ### Check digit
 
 1. Before entry, check digit is calculated (by computer)
-2. During entry, check digit stored together with data
+2. During entry, check digit entered by human together with data
 3. Check digit recalculated - if equal, no error
 
 <p></p>

@@ -5,14 +5,24 @@
 <p></p>
 Features
 
--   Collection of **data**
--   Set of **rules**
+-   Collects **data**
+-   Stores **rules**
 -   Ability to **reason** (logic)
 -   Ability to **learn**[^1]
 
 ## Machine learning
 
-> Program can adapt its own processes
+> Improves by training
+
+<p></p>
+Can
+
+-   Adapt its own processes
+-   Learn from its mistakes
+-   Change its own data and rules
+
+<p></p>
+Types
 
 -   [Supervised](../misc/machine-learning/types.md#supervised-learning)
 -   [Unsupervised](../misc/machine-learning/types.md#unsupervised-learning)
