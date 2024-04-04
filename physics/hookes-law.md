@@ -26,6 +26,6 @@ Also
 
 Hooke's law is obeyed up until this point
 
-## Elastic limit
+## Elastic limit \*
 
 Material is permanently stretched beyond this point

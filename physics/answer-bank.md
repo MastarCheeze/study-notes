@@ -15,7 +15,7 @@
 >
 > | Example              |                                                  |
 > | -------------------- | ------------------------------------------------ |
-> | $\rho = \frac{m}{v}$ | Density is the mass of an object per unit volume |
+> | $\rho = \frac{m}{V}$ | Density is the mass of an object per unit volume |
 > | $I = \frac{Q}{t}$    | Current is the rate of flow of electric charge   |
 >
 > ### Drawing
@@ -31,10 +31,21 @@
 > Always be specific \
 > Refer back to values in the question
 
+### What is acceleration
+
+-   Rate of change of **increase** of **velocity**
+
 ### What is deceleration
 
 -   Negative acceleration
 -   Negative rate of change of velocity
+
+### Effects of force
+
+-   Change **speed**
+-   Change **direction**
+-   Change **rotational force** (torque)
+-   Change **shape**
 
 ### What is mass
 
@@ -89,7 +100,7 @@ Force of gravity acting on an object
 ### Evaporation vs boiling
 
 -   Boiling occurs throughout liquid, evaporation only occurs on surface of liquid
--   Boiling only occurs at constant temperature (boiling point), evaporation occurs at any temperature
+-   Boiling occurs at specific temperature (boiling point), evaporation occurs at range of temperatures
 
 ### How is energy lost (friction)
 
@@ -208,6 +219,14 @@ Work done (J) to push 1C of electric charge through the <u>complete circuit</u>
 -   **<u>Changing</u> magnetic field cuts secondary coil**
 -   E.m.f. **induced**
 
+### Why high voltage is used for electricity transmission
+
+1.  Current low
+2.  Power loss low $\mathrm{(P=I^2R)}$ \
+    Less heat energy lost
+3.  Diameter of wire can be reduced \
+    Cheaper cost
+
 ### How to demagnetise a magnet
 
 Place magnet in coil with AC, slowly reduce current to 0
@@ -234,6 +253,10 @@ Place magnet in coil with AC, slowly reduce current to 0
 
 -   Replaced easily
 -   Never runs out
+
+### Disadvantage of solar/wind
+
+-   Intermittent power supply (not consistent)
 
 ### Why is isotope stable
 

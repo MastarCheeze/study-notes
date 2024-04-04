@@ -19,8 +19,8 @@ Examples
 
 **Oscillations <u>parallel</u> to direction of travel**
 
-Compressions - part of wave with high pressure \
-Rarefactions - part of wave with low pressure
+Compressions - part of wave with high **pressure** \
+Rarefactions - part of wave with low **pressure**
 
 <p></p>
 Examples

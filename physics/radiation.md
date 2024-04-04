@@ -1,14 +1,15 @@
 # Radiation
 
-|                     | Alpha                                                                                              | Beta                                                                 | Gamma                                                                  |
-| ------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| Particle            | ![Alpha particle](images/radiation-alpha-particle.png) <br> 2 protons, 2 neutrons (helium nucleus) | ![Beta particle](images/radiation-beta-particle.png) <br> 1 electron | ![Gamma ray](images/radiation-gamma-ray.png) <br> electromagnetic wave |
-| Symbol              | $\mathrm{^{4}_{2}\alpha}$                                                                          | $\mathrm{^{~~~0}_{-1}\beta}$                                         | $\gamma$                                                               |
-| Relative charge[^1] | +2                                                                                                 | -1                                                                   | 0                                                                      |
-| Mass[^2]            | 4                                                                                                  | 1/1840                                                               | 0                                                                      |
-| Ionising power      | High                                                                                               | Medium                                                               | Low                                                                    |
-| Penetrating power   | Low                                                                                                | Medium                                                               | High                                                                   |
-| Stopped by          | Paper                                                                                              | Aluminium <nobr>(1 cm)</nobr>                                        | Lead <nobr>(10 cm)</nobr>                                              |
+|                     | Alpha                                                                                              | Beta                                                                                  | Gamma                                                                               |
+| ------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Particle            | ![Alpha particle](images/radiation-alpha-particle.png) <br> 2 protons, 2 neutrons (helium nucleus) | ![Beta particle](images/radiation-beta-particle.png) <br> 1 electron <br><br><br><br> | ![Gamma ray](images/radiation-gamma-ray.png) <br> electromagnetic wave <br><br><br> |
+| Symbol              | $\mathrm{^{4}_{2}\alpha}$                                                                          | $\mathrm{^{~~~0}_{-1}\beta}$                                                          | $\gamma$                                                                            |
+| Relative charge[^1] | +2                                                                                                 | -1                                                                                    | 0                                                                                   |
+| Mass[^2]            | 4                                                                                                  | 1/1840                                                                                | 0                                                                                   |
+| Ionising power      | High                                                                                               | Medium                                                                                | Low                                                                                 |
+| Penetrating power   | Low                                                                                                | Medium                                                                                | High                                                                                |
+| Stopped by          | Paper                                                                                              | Aluminium <nobr>(1 cm)</nobr>                                                         | Lead <nobr>(10 cm)</nobr>                                                           |
+| Range in air        | Several cm                                                                                         | Several m                                                                             | Several km                                                                          |
 
 ## Radioactive Decay
 
@@ -55,7 +56,7 @@ Direction of conventional current is opposite to electron flow (beta)
 
 <br>
 
-## Irradiation vs Contamination
+## Irradiation vs Contamination \*
 
 | Irradiation                          | Contamination                         |
 | ------------------------------------ | ------------------------------------- |

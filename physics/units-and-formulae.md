@@ -40,6 +40,14 @@
 
 # Formulae
 
+## Idk where to put these
+
+$$
+\begin{align*}
+    \tag*{\scriptsize (density)} \rho = \frac{m}{V} \\
+\end{align*}
+$$
+
 ## Kinematics
 
 $$

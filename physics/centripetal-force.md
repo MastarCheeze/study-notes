@@ -1,6 +1,6 @@
 # Centripetal Force
 
-Force towards centre of circle \
+Force towards centre of **circle** \
 Makes object move in circle
 
 $$

@@ -31,10 +31,10 @@ To increase strength of electromagnet:
 <p></p>
 To increase force on wire:
 
--   Increase current
+-   Increase current (electromagnet)
 -   Increase number of turns (coil)
 -   Stronger magnet
--   Increase surface area (coil)
+-   Increase length of wire within magnetic field
 
 ## <u>Induced</u> current in wire
 
@@ -55,7 +55,7 @@ To increase induced current:
 
 -   Stronger magnet
 -   Increase movement speed
--   Increase surface area of wire
+-   Increase length of wire within magnetic field
 
 <p></p>
 To reverse induced current:
