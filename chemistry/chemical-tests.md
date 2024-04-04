@@ -93,7 +93,9 @@ Sodium hydroxide and aluminium foil, warm → ammonia $\ce{(NH3)}$
 
 ### Sulfate ion $(\ce{SO4^2-})$
 
-Barium chloride $\ce{(BaCl)}$ → white precipitate - barium sulfate $\ce{(BaSO4)}$
+Add dilute nitric acid ($\ce{HNO3}$) first to remove carbonate ions.
+
+Barium nitrate $\ce{(Ba(NO3)2)}$ or Barium chloride $\ce{(BaCl)}$ → white precipitate - barium sulfate $\ce{(BaSO4)}$
 
 ### Sulfite ion $(\ce{SO3^2-})$
 
