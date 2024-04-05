@@ -70,7 +70,7 @@
 
 1. Sound causes diaphragm vibrate \
    Produces electric signal
-2. Sound card converts to digital
+2. ADC (sound card)
 
 ### Digital camera
 
@@ -173,7 +173,7 @@
 2. Light illuminates document
 3. Scan head moves across whole document
 4. Light captured using mirrors/lenses
-5. CCD (charged couple device) detects light
+5. Light sensors detects light
 6. Software produces digital image
 
 ### 3D scanner
@@ -241,7 +241,7 @@
 
 ### Speaker
 
-1. DAC (digital-to-analogue converter)
+1. DAC (sound card)
 2. Current amplifier
 3. Cone vibrates at different frequencies
     - Caused by voltage differences

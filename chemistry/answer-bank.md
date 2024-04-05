@@ -25,6 +25,10 @@ Same number of outer shell (valence) electrons
 
 Water molecules present in hydrated crystals
 
+### Why crystals form in crystallisation
+
+Solubility ⬇ as temperature ⬇
+
 ### Chemical name of rust
 
 Hydrated iron (III) oxide
