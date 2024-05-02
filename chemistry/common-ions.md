@@ -16,9 +16,8 @@
 
 ## Metal ions
 
-|           |              |
-| --------- | ------------ |
-| Silver    | $\ce{Ag+}$   |
-| Lead      | $\ce{Pb^2+}$ |
-| Zinc      | $\ce{Zn^2+}$ |
-| Aluminium | $\ce{Al^3+}$ |
+|        |              |
+| ------ | ------------ |
+| Silver | $\ce{Ag+}$   |
+| Lead   | $\ce{Pb^2+}$ |
+| Zinc   | $\ce{Zn^2+}$ |

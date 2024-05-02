@@ -2,7 +2,7 @@
 
 Breakdown of compounds when heated (to sufficiently high temperatures)
 
-## Metal hydroxide
+## Metal hydroxide \*
 
 $$
 \begin{align*}
@@ -26,7 +26,7 @@ $$
 Group I carbonates (except lithium) do not decompose \
 because high thermal stability
 
-## Metal nitrate
+## Metal nitrate \*
 
 ### Non-group I metal nitrates
 

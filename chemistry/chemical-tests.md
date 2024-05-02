@@ -52,11 +52,11 @@ $\ce{\underset{blue}{CoCl2} + 6H2O <=> \underset{pink}{CoCl2.6H2O}}$
 | Cation       | Flame colour |
 | ------------ | ------------ |
 | $\ce{Li+}$   | red          |
-| $\ce{Na+}$   | yellow       |
-| $\ce{K+}$    | lilac        |
 | $\ce{Ca^2+}$ | orange-red   |
+| $\ce{Na+}$   | yellow       |
 | $\ce{Ba^2+}$ | light green  |
 | $\ce{Cu^2+}$ | blue-green   |
+| $\ce{K+}$    | lilac        |
 
 ## Cation tests
 
@@ -75,7 +75,7 @@ $\ce{\underset{blue}{CoCl2} + 6H2O <=> \underset{pink}{CoCl2.6H2O}}$
 
 ### Halide ions
 
-Add dilute nitric acid ($\ce{HNO3}$) first to remove carbonate or sulfate ions.
+Add dilute nitric acid ($\ce{HNO3}$) first to remove carbonate ions.
 
 | Anion      | Result after adding silver nitrate $\ce{AgNO3}$ |
 | ---------- | ----------------------------------------------- |
@@ -95,7 +95,8 @@ Sodium hydroxide and aluminium foil, warm → ammonia $\ce{(NH3)}$
 
 Add dilute nitric acid ($\ce{HNO3}$) first to remove carbonate ions.
 
-Barium nitrate $\ce{(Ba(NO3)2)}$ or Barium chloride $\ce{(BaCl)}$ → white precipitate - barium sulfate $\ce{(BaSO4)}$
+Barium nitrate $\ce{(Ba(NO3)2)}$ → white precipitate - barium sulfate $\ce{(BaSO4)}$ \
+Barium chloride $\ce{(BaCl)}$ → white precipitate - barium sulfate $\ce{(BaSO4)}$
 
 ### Sulfite ion $(\ce{SO3^2-})$
 

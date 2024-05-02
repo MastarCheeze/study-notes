@@ -79,7 +79,7 @@ $$\ce{alkene + halogen -> haloalkane}$$
 **Conditions:** 300˚C + 60 atm \
 **Catalyst:** phosphoric acid $\ce{(H3PO4)}$
 
-$$\ce{alkene + \underset{steam}{water} ->[300\degree \text{C + 60 atm}][phosphoric acid] alcohol}$$
+$$\ce{alkene + \underset{steam}{water} <=>[300\degree \text{C + 60 atm}][phosphoric acid] alcohol}$$
 
 ## Dehydration <sup><sub><small>alcohol</small></sub></sup>
 
@@ -92,7 +92,7 @@ $$\ce{alcohol ->[heat][alumina] alkene + water}$$
 
 ## Fermentation <sup><sub><small>glucose</small></sub></sup>
 
-**Conditions:** 30˚C + no oxygen \
+**Conditions:** 30˚C + anaerobic (no oxygen) + aqueous glucose\
 **Catalyst:** yeast enzymes
 
 $$\ce{\underset{glucose}{C6H12O6} ->[\text{30\degree C}][yeast enzymes] \underset{ethanol}{2C2H5OH} + 2CO2}$$

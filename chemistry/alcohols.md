@@ -31,3 +31,8 @@ $$
 | ✅ Continuous process, efficient | ❌ Batch process, inefficient  |
 | ✅ Pure ethanol produced         | ❌ Impure ethanol produced     |
 | ❌ High temperature/pressure     | ✅ Normal temperature/pressure |
+
+### Uses of ethanol
+
+-   Solvent
+-   Fuel

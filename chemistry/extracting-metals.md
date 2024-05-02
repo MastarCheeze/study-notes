@@ -2,7 +2,7 @@
 
 ### Charge contains
 
-|                     |                   |              |
+|                     | Chemical name     | Formula      |
 | ------------------- | ----------------- | ------------ |
 | Iron ore (hematite) | Iron (III) oxide  | $\ce{Fe2O3}$ |
 | Limestone           | Calcium carbonate | $\ce{CaCO3}$ |
@@ -25,7 +25,7 @@
        $\ce{CaCO3 ->[heat] CaO + CO2}$
     2. Reacts with sand to form slag \
        Acid-base reaction \
-       calcium oxide + silicon (IV) oxide → calcium silicate \
+       calcium oxide + silicon dioxide → calcium silicate \
        $\ce{CaO + SiO2 -> CaSiO3}$
 5. Oxygen blown into molten iron to reduce carbon content\*
 

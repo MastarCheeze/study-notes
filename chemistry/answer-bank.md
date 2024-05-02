@@ -1,5 +1,26 @@
 # Paper 4
 
+### Why is a chemical reaction
+
+-   New substance made
+-   Cannot be reversed by physical process
+
+### What is boiling/melting/condensation/freezing point
+
+-   Constant temperature
+-   _state change_ <small>(liquid → gas)</small>
+-   heat absorbed/released
+
+### Evaporation vs boiling
+
+-   Boiling occurs throughout liquid, evaporation only occurs on surface of liquid
+-   Boiling only occurs at specific temperature (boiling point), evaporation occurs at range of temperatures
+-   Boiling has bubbles, evaporation doesn't
+
+### Why substance cannot be identified in chromatogram
+
+Similar $\mathrm{R_f}$ values
+
 ### What is redox
 
 Reduction and oxidation both occur
@@ -38,6 +59,10 @@ Hydrated iron (III) oxide
 -   Rate of forwards/backwards reaction is equal
 -   Concentration of reactant/product constant
 -   Closed system
+
+### What is closed system
+
+No substance can enter or leave during a reaction
 
 ### What is activation energy
 
@@ -80,8 +105,8 @@ Proton acceptor
 
 ### What is electrolysis
 
--   Breakdown using electricity
--   Molten / aqueous ionic compound (electrolyte)
+-   Breakdown using electricity of
+-   molten / aqueous ionic compound (electrolyte)
 
 ### What is electrolyte
 
@@ -124,7 +149,7 @@ Mobile ions
 
 -   Positive ions arranged in lattice
 -   Sea of delocalised electrons
--   Electrostatic force between positive ion and electron
+-   Electrostatic attraction force between positive ion and electron
 
 ### What are chemical properties of transition elements
 
@@ -136,7 +161,7 @@ Mobile ions
 
 -   Higher melting point
 -   Higher density
--   Stronger
+-   Harder
 
 ### What is catalyst
 
@@ -147,13 +172,33 @@ Mobile ions
 
 Oxidation layer on surface
 
+### Why copper used for wires
+
+Unreactive
+
+### Why aluminium used for overhead cables
+
+-   Low density
+-   Good conductor of electricity
+
 ### Uses of ammonium nitrate / ammonium phosphate
 
 Synthetic fertiliser
 
+### Uses of sulfur dioxide
+
+Bleach wood pulp
+
 <br><br>
 
 # Paper 6
+
+> ### Question 4
+>
+> -   Apparatus
+> -   Specific amount of substance
+> -   Specific concentration of acid/alkali
+> -   Specific temperature
 
 ### How can reliability of experiment be confirmed
 
@@ -172,9 +217,15 @@ Remove water
 -   Make sure level of _solution_ is on scale
 -   Fill the tip of burette
 
+### Why remove delivery tube from water
+
+-   Water gets sucked back into tube
+-   Boiling tube cracks
+
 ### Why measure more frequently
 
-Smoother graph
+-   More data points
+-   Smoother graph
 
 ### How to not remove bung when mixing
 
@@ -185,14 +236,22 @@ Smoother graph
 
 Insoluble
 
+### When to remove chromatography paper
+
+When solvent is almost at the top
+
+### How to separate sugars from carbohydrates \*
+
+Chromatography
+
 ### How to increase accuracy (25cm<sup>3</sup>)
 
 <u>Volumetric</u> pipette
 
 ### How to know water is fully given off
 
--   Heat, weight, repeat
--   Until mass constant
+-   Heat and reweigh
+-   Until constant mass
 
 ### How to do flame test
 

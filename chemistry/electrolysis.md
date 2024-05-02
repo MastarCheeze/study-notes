@@ -60,3 +60,10 @@ $$
 | Anode   | Cathode                | Electrolyte              |
 | ------- | ---------------------- | ------------------------ |
 | Metal X | Object to electroplate | Salt solution of metal X |
+
+<br>
+
+![Electroplating with copper](./images/electroplating.png)
+
+**At anode** - Copper atoms lose electrons and become ions \
+**At cathode** - Copper ions gain electrons and become atoms

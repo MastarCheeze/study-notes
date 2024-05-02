@@ -19,7 +19,8 @@
 
 # Exothermic
 
-> Heat energy is released
+> Heat energy is released \
+> More energy is released than absorbed
 >
 > -   Combustion
 > -   Neutralisation
@@ -29,11 +30,12 @@
 
 ![Exothermic reaction](images/reaction-exothermic.png)
 
-$\mathrm{\Delta H} < 0$
+$\mathrm{\Delta H} < 0 \enspace\scriptsize\mathrm{(-ve)}$
 
 # Endothermic
 
-> Heat energy is absorbed
+> Heat energy is absorbed \
+> More energy is absorbed than released
 >
 > -   Thermal decomposition
 
@@ -41,4 +43,4 @@ $\mathrm{\Delta H} < 0$
 
 ![Endothermic reaction](images/reaction-endothermic.png)
 
-$\mathrm{\Delta H} > 0$
+$\mathrm{\Delta H} > 0 \enspace\scriptsize\mathrm{(+ve)}$

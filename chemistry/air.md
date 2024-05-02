@@ -8,6 +8,12 @@
 
 no ic 去吧二姨就起身
 
+## Seperation
+
+1. Air is liquified
+2. Fractional distillation
+3. Vapours are condensed in order of evaporation
+
 ## Pollutants
 
 |                                                 | Sources                                                          | Effects                                                           |
@@ -19,9 +25,10 @@ no ic 去吧二姨就起身
 
 ### Catalytic converters
 
-Transition metal catalyst
+Platinum catalyst \
+Palladium, rhodium catalyst \*
 
-$$\ce{2CO + 2NO ->[transition metal] 2CO2 + N2}$$
+$$\ce{2CO + 2NO ->[][platinum] 2CO2 + N2}$$
 
 ### Flue gas desulfurisation
 

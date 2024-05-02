@@ -2,10 +2,10 @@
 
 Rate of reaction increase when:
 
-|                            |                                                                     |
-| -------------------------- | ------------------------------------------------------------------- |
-| ⬆ Surface area             | ⬆ Frequency of collision                                            |
-| ⬆ Concentration            | ⬆ Frequency of collision                                            |
-| ⬆ Pressure <br> (gas only) | ⬆ Frequency of collision                                            |
-| ⬆ Temperature              | ⬆ Frequency of collision (⬆KE) <br> ⬆ Particles with energy > $E_a$ |
-| Catalyst used              | ⬇ $E_a$                                                             |
+| Factor                     |                             | Result                                                             |
+| -------------------------- | --------------------------- | ------------------------------------------------------------------ |
+| ⬆ Surface area             |                             | ⬆ Frequency of collision                                           |
+| ⬆ Concentration            | ⬆ Particles per unit volume | ⬆ Frequency of collision                                           |
+| ⬆ Pressure <br> (gas only) | ⬆ Particles per unit volume | ⬆ Frequency of collision                                           |
+| ⬆ Temperature              | ⬆ KE (move faster)          | ⬆ Frequency of collision <br> ⬆ % of particles with energy > $E_a$ |
+| Catalyst used              |                             | ⬇ $E_a$                                                            |

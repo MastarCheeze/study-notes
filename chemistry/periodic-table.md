@@ -1,3 +1,10 @@
+-   [Alkali metals (Group I)](#alkali-metals-group-i)
+-   [Halogens (Group VII)](#halogens-group-vii)
+-   [Transition elements](#transition-elements)
+-   [Noble gases](#noble-gases)
+
+<br>
+
 # Periodic Table
 
 ![The periodic table](images/periodic-table.png)
@@ -25,14 +32,14 @@ Top to bottom
 Top to bottom
 
 -   reactivity ⬆
--   melting point ⬇
+-   melting/boiling point ⬇
 
 <br>
 
 > ![Reactivity of alkali metals](images/reactivity-of-alkali-metals.png)
 >
 > **Reactivity & melting point** \
-> ⬇ attractive force on valence electron, ⬆ reactive, ⬇ melting point
+> ⬇ attractive force on valence electron, ⬆ reactive, ⬇ melting/boiling point
 
 ## Halogens (Group VII)
 
@@ -42,7 +49,7 @@ Top to bottom
 Top to bottom
 
 -   reactivity ⬇
--   boiling point ⬆
+-   melting/boiling point ⬆
 
 <br>
 
@@ -51,8 +58,8 @@ Top to bottom
 > **Reactivity** \
 > ⬇ attractive force on other electrons, ⬇ reactive
 >
-> **Boiling point** \
-> ⬆ molecule size, ⬆ boiling point
+> **Melting/Boiling point** \
+> ⬆ molecule size, ⬆ melting/boiling point
 
 ## Transition elements
 

@@ -2,21 +2,26 @@
 
 ## Ionic bond
 
+Donating/receiving electrons
+
 ![Ionic bond](images/bond-ionic.png)
 
 > Electrostatic force between +ve and -ve ion
 
 -   Electrons lost/gained
--   Lattice
-    ![Latice in ionic compound](images/bond-ionic-lattice.png)
+-   Giant ionic lattice
+    ![Giant ionic lattice of an ionic compound](images/bond-ionic-lattice.png)
 
 #### Properties
 
 -   High melting & boiling point
 -   Good electrical conductor (molten/aqueous) \
     Poor electrical conductor (solid)
+-   Most can dissolve in water
 
 ## Covalent bond
+
+Sharing a **pair** of electrons
 
 ![Covalent bond](images/bond-covalent.png)
 
@@ -41,7 +46,8 @@
 ![Metallic bonding](images/bond-metallic.png)
 
 > Positive ions in lattice \
-> Sea of delocalised electrons
+> Sea of delocalised electrons \
+> Electrostatic attraction force between positive ion and electron
 
 #### Properties
 
@@ -49,3 +55,11 @@
 -   Good electrical conductor
 -   Malleable
 -   Ductile (drawn into wires)
+
+### Alloys <small><sup><sub>(not a bond)</sub></sup></small>
+
+![Pure metals vs alloys](./images/metal-vs-alloy.png)
+
+-   Harder & stronger
+    -   Atoms of different sizes
+    -   Layers cannot slide past each other

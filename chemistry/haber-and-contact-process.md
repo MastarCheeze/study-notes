@@ -1,3 +1,5 @@
+see [Reversible reactions](./reversible-reactions.md)
+
 # Haber Process
 
 > Ammonia
@@ -12,7 +14,9 @@
 $\ce{N2 + 3H2 <=> 2NH3}$ \
 forward reaction: **exothermic**
 
-Hydrogen - obtained from reacting methane with steam / cracking hydrocarbons
+**Nitrogen** - obtained from fractional distillation of liquid air \
+**Hydrogen** - obtained from reacting methane with steam \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cracking hydrocarbons
 
 # Contact Process
 
@@ -34,9 +38,13 @@ Hydrogen - obtained from reacting methane with steam / cracking hydrocarbons
 4. oleum + water → sulfuric acid \
    $\ce{H2S2O7 + H2O -> 2H2SO4}$
 
-Sulfur dioxide - obtained from burning sulfur / roasting metal sulfite
-Oleum - react sulfur trioxide with water safely
+**Sulfur dioxide** - obtained from burning sulfur or \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+roasting metal sulfite \
+**Oleum** - react sulfur trioxide with water safely
 
 ### Notes
 
 1 atm = 100 000 Pa = 100 kPa
+
+$$\ce{CH4 + \frac{3}{2}O2 -> 2H2O + CO}$$

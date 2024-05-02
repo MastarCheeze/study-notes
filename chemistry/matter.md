@@ -12,20 +12,20 @@
 
 ## Isotopes
 
-> Atoms of the same element (same proton number) \
+> Atoms of the same element (same number of protons) \
 > Different number of neutrons
 
 ## Elements
 
-> Only one kind of atom
+> Atoms with the same atomic number
 
 ## Compounds
 
-> Different elements chemically bonded
+> Two or more elements chemically bonded
 
 ## Mixtures
 
-> Different elements not chemically bonded
+> Two or more substances not chemically bonded
 
 <br>
 
