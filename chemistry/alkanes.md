@@ -1,6 +1,7 @@
 # Alkanes
 
-> Saturated (single bonds)
+> Saturated \
+> (all bonds are single bonds)
 
 |                  |                    |
 | ---------------- | ------------------ |

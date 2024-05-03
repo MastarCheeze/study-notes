@@ -9,3 +9,10 @@ Rate of reaction increase when:
 | ⬆ Pressure <br> (gas only) | ⬆ Particles per unit volume | ⬆ Frequency of collision                                           |
 | ⬆ Temperature              | ⬆ KE (move faster)          | ⬆ Frequency of collision <br> ⬆ % of particles with energy > $E_a$ |
 | Catalyst used              |                             | ⬇ $E_a$                                                            |
+
+<br>
+
+#### Catalyst
+
+-   Increase rate of reaction
+-   Remains unchanged at the end

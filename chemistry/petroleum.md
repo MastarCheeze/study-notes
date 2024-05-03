@@ -4,8 +4,11 @@
     -   Melting/boiling point ⬆
     -   Viscosity ⬆
     -   Volatility ⬇
-    -   Color darker
--   Fractional distillation
+    -   Darker colour
+
+<br>
+
+Fractional distillation
 
 ![Petroleum fractionating tower](images/fractionating-tower.png)
 

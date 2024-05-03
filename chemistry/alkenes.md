@@ -1,6 +1,7 @@
 # Alkenes
 
-> Unsaturated (not all single bonds)
+> Unsaturated \
+> (not all bonds are single bonds)
 
 ![Functional group of alkenes](images/functional-group-alkene.png)
 

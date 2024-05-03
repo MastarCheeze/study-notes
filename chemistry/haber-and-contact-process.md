@@ -15,8 +15,9 @@ $\ce{N2 + 3H2 <=> 2NH3}$ \
 forward reaction: **exothermic**
 
 **Nitrogen** - obtained from fractional distillation of liquid air \
-**Hydrogen** - obtained from reacting methane with steam \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cracking hydrocarbons
+**Hydrogen** - obtained from methane (react with steam)
+
+<br>
 
 # Contact Process
 
@@ -38,9 +39,7 @@ forward reaction: **exothermic**
 4. oleum + water → sulfuric acid \
    $\ce{H2S2O7 + H2O -> 2H2SO4}$
 
-**Sulfur dioxide** - obtained from burning sulfur or \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-roasting metal sulfite \
+**Sulfur dioxide** - obtained from burning sulfur or roasting sulfide ores \
 **Oleum** - react sulfur trioxide with water safely
 
 ### Notes

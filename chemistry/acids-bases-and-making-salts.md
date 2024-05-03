@@ -3,16 +3,18 @@
 ## Acid
 
 -   pH < 7
--   proton donor
+-   Proton donor
+-   Hydrogen ions - proton ($\ce{H+}$)
 -   Examples:
-    -   hydrogen ions - proton ($\ce{H+}$)
+    -   chlorine
+    -   carbon dioxide
 
 ## Base
 
 -   pH > 7
--   proton acceptor
+-   Proton acceptor
+-   Hydroxide ions ($\ce{OH-}$)
 -   Examples:
-    -   hydroxide ions ($\ce{OH-}$)
     -   metal oxide
     -   ammonia
 
@@ -40,7 +42,7 @@ $$\ce{CH3COOH <=>[\text{<100\% disassociated}] H+ + CH3COO-}$$
 | Indicator           | Acidic       | Neutral    | Alkaline      |
 | ------------------- | ------------ | ---------- | ------------- |
 | Litmus              | red          | purple     | blue          |
-| Universal indicator | red - orange | green      | blue - purple |
+| Universal indicator | red - yellow | green      | blue - purple |
 | Methyl orange       | red          | orange     | yellow        |
 | Thymolphthalein     | colourless   | colourless | blue          |
 | Phenolphthalein \*  | colourless   | colourless | pink          |
@@ -51,12 +53,18 @@ $$\ce{CH3COOH <=>[\text{<100\% disassociated}] H+ + CH3COO-}$$
 
 $$
 \begin{align*}
-  \tag*{\scriptsize (not neutralisation)}\ce{acid + metal &-> salt + hydrogen} \\
-  \tag*{\scriptsize ~~~~~~~(neutralisation)} \ce{acid + alkali &-> salt + water} \\
-  \tag*{\scriptsize ~~~~~~~(neutralisation)} \ce{acid + metal oxide &-> salt + water} \\
+  \ce{metal + acid &-> salt + hydrogen}
+\end{align*}
+$$
+
+Neutralisation:
+
+$$
+\begin{align*}
+  \ce{acid + alkali &-> salt + water} \\
+  \ce{acid + metal oxide &-> salt + water} \\
   \ce{acid + carbonate &-> salt + water + carbon dioxide} \\
-  \\
-  \ce{base + ammonium salt &-> salt + water + ammonia}
+  \ce{ammonium salt + base &-> salt + water + ammonia}
 \end{align*}
 $$
 
@@ -88,8 +96,9 @@ $$
     -   Nitrate $(\ce{NO3-})$
     -   All Group I ions\*
 
--   **Hydroxides $(\ce{OH-})$** that are _soluble_ $(\ce{CaNaK})$:
+-   **Hydroxides $(\ce{OH-})$** that are _soluble_ $(\ce{AmCaNaK})$:
 
+    -   Ammonium $(\ce{NH4+})$
     -   Calcium $(\ce{Ca^2+})$
     -   Sodium $(\ce{Na+})$
     -   Potassium $(\ce{K+})$
@@ -122,7 +131,7 @@ $$
 
 $$
 \begin{align*}
-  \tag*{\scriptsize (not neutralisation)}\ce{acid + metal &-> salt + hydrogen} \\
+  \ce{acid + metal &-> salt + hydrogen} \\
   \ce{acid + alkali &-> salt + water} \\
   \ce{acid + metal oxide &-> salt + water} \\
   \ce{acid + carbonate &-> salt + water + carbon dioxide}
@@ -131,16 +140,17 @@ $$
 
 1. Add excess insoluble base / carbonate to acid and heat
 2. Filtration - obtain filtrate
-3. Evaporation - heat to remove water
-4. Crystallisation - cool to form crystals
+3. Wash residue with distilled water (obtain all filtrate)
+4. Evaporation - heat to remove water
+5. Crystallisation - cool to form crystals
 
 ## Insoluble salt
 
 ### From two soluble salts
 
-> Precipitation reaction
+Precipitation reaction
 
 1. Mix togther both salt solutions
 2. Filtration - obtain residue
-3. Wash precipitate with distilled water
+3. Wash residue with distilled water (remove impurity)
 4. Evaporation - dry in oven

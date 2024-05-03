@@ -12,7 +12,7 @@
 ![Element in a periodic table](images/periodic-table-element.png)
 
 Period = row = number of shells \
-Group = column = number of valence electrons
+Group = column = number of outer shell electrons
 
 <p></p>
 Left to right
@@ -61,7 +61,7 @@ Top to bottom
 > **Melting/Boiling point** \
 > ⬆ molecule size, ⬆ melting/boiling point
 
-## Transition elements
+## Transition metals
 
 ![Transition elements on the periodic table](images/periodic-table-transition-elements.png)
 

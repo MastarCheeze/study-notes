@@ -8,7 +8,7 @@
 
 no ic 去吧二姨就起身
 
-## Seperation
+## Separation
 
 1. Air is liquified
 2. Fractional distillation
@@ -47,4 +47,4 @@ $$\ce{2CO + 2NO ->[][platinum] 2CO2 + N2}$$
 1. Radiation from Sun
 2. Earth surface reflect radiation
 3. Greenhouse gases absorb radiation and emit in all directions
-4. Thermal energy loss is reduced
+4. Thermal energy lost to space is reduced

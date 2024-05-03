@@ -22,9 +22,7 @@
 
 ## Aqueous electrolytes
 
-$$
-\ce{\underset{water}{H2O} -> H+ + OH-}
-$$
+$\ce{\underset{water}{H2O} -> H+ + OH-}$
 
 #### Half ionic equations
 

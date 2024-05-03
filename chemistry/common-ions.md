@@ -3,8 +3,6 @@
 **Cation** → (+) positively charged ion (attracted to cathode) \
 **Anion** → (-) negatively charged ion (attracted to anode)
 
-## Polyatomic ions
-
 |           |               |
 | --------- | ------------- |
 | Oxide     | $\ce{O^2-}$   |

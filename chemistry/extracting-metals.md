@@ -13,10 +13,10 @@
 1. Coke burns \
    carbon + oxygen → carbon dioxide \
    $\ce{C + O2 -> CO2}$
-2. **Carbon dioxide reduces to carbon monoxide** \
+2. Carbon dioxide reduces to carbon monoxide \
    carbon + carbon dioxide → carbon monoxide \
    $\ce{C + CO2 -> 2CO}$
-3. Carbon monoxide reduces iron ore to iron \
+3. **Carbon monoxide reduces iron ore to iron** \
    iron (III) oxide + carbon monoxide → iron + carbon dioxide \
    $\ce{Fe2O3 + 3CO -> 2Fe + 3CO2}$
 4. Impurities removed as slag
@@ -27,7 +27,7 @@
        Acid-base reaction \
        calcium oxide + silicon dioxide → calcium silicate \
        $\ce{CaO + SiO2 -> CaSiO3}$
-5. Oxygen blown into molten iron to reduce carbon content\*
+5. Oxygen blown into molten iron to reduce carbon content \*
 
 Slag - building roads \
 Waste gases - carbon dioxide, nitrogen
@@ -36,10 +36,10 @@ Waste gases - carbon dioxide, nitrogen
 
 ### Electrolyte contains
 
-|                         |                           |                |
-| ----------------------- | ------------------------- | -------------- |
-| Aluminium ore (bauxite) | Aluminium oxide           | $\ce{Al2O3}$   |
-| Cryolite                | Sodium aluminium fluoride | $\ce{Na3AlF6}$ |
+|                         |                              |                                |
+| ----------------------- | ---------------------------- | ------------------------------ |
+| Aluminium ore (bauxite) | Aluminium oxide              | $\ce{Al2O3}$                   |
+| Cryolite                | Sodium aluminium fluoride \* | <nobr>$\ce{Na3AlF6}$ \*</nobr> |
 
 ### Uses of cryolite
 
@@ -50,10 +50,10 @@ Waste gases - carbon dioxide, nitrogen
 ## Process
 
 **Cathode (reduction)** \
-$\ce{4Al^3+ + 12e -> 4Al}$
+$\ce{Al^3+ + 3e -> Al}$
 
 **Anode (oxidation)** \
-$\ce{6O^2- -> 3O2 + 12e}$
+$\ce{2O^2- -> O2 + 2e}$
 
 **Overall reaction** \
 $\ce{2Al2O3 -> 4Al + 3O2}$

@@ -4,7 +4,7 @@
 
 ### Hydrogen
 
-Lighted wooden splint → pop sound
+Lighted wooden splint → squeaky pop sound
 
 ### Oxygen
 
@@ -64,12 +64,12 @@ $\ce{\underset{blue}{CoCl2} + 6H2O <=> \underset{pink}{CoCl2.6H2O}}$
 | ------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ |
 | $\ce{NH4+}$  | **ammonia gas** on warming $\ce{NH3}$                                                |                                                                                      |
 | $\ce{Cu^2+}$ | **light blue** precipitate <br> insoluble in excess                                  | **light blue** precipitate <br> soluble in excess, turns dark blue                   |
-| $\ce{Fe^2+}$ | **green** precipitate <br> insoluble in excess, turns brown near surface on standing | **green** precipitate <br> insoluble in excess, turns brown near surface on standing |
 | $\ce{Fe^3+}$ | **red-brown** precipitate <br> insoluble in excess                                   | **red-brown** precipitate <br> insoluble in excess                                   |
-| $\ce{Al^3+}$ | **white** precipitate <br> soluble in excess, turns colourless                       | **white** precipitate <br> insoluble in excess                                       |
-| $\ce{Ca^2+}$ | **white** precipitate <br> insoluble in excess                                       | **no** precipitate / very **slight white** precipitate                               |
-| $\ce{Zn^2+}$ | **white** precipitate <br> soluble in excess, turns colourless                       | **white** precipitate <br> soluble in excess, turns colourless                       |
+| $\ce{Fe^2+}$ | **green** precipitate <br> insoluble in excess, turns brown near surface on standing | **green** precipitate <br> insoluble in excess, turns brown near surface on standing |
 | $\ce{Cr^3+}$ | **green** precipitate <br> soluble in excess                                         | **green** precipitate <br> insoluble in excess                                       |
+| $\ce{Al^3+}$ | **white** precipitate <br> soluble in excess, turns colourless                       | **white** precipitate <br> insoluble in excess                                       |
+| $\ce{Zn^2+}$ | **white** precipitate <br> soluble in excess, turns colourless                       | **white** precipitate <br> soluble in excess, turns colourless                       |
+| $\ce{Ca^2+}$ | **white** precipitate <br> insoluble in excess                                       | **no** precipitate / very **slight white** precipitate                               |
 
 ## Negative ion tests
 

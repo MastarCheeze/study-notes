@@ -18,6 +18,8 @@ $$
 
 ### Fermentation from glucose
 
+No oxygen (anaerobic)
+
 $$
 \ce{\underset{glucose}{C6H12O6} ->[30\degree C][enzymes in yeast] 2C2H5OH + 2CO2}
 $$

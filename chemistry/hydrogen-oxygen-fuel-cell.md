@@ -1,4 +1,4 @@
-## Hydrogen-Oxygen Fuel Cell
+# Hydrogen-Oxygen Fuel Cell
 
 Use hydrogen and oxygen to produce energy \
 Waste product = water
@@ -9,6 +9,6 @@ $$
 
 <br>
 
-| Advantages | Disadvantages                                   |
-| ---------- | ----------------------------------------------- |
-|            | Hydrogen stored under high pressure as a liquid |
+| Advantages    | Disadvantages                                   |
+| ------------- | ----------------------------------------------- |
+| No pollutants | Hydrogen stored under high pressure as a liquid |

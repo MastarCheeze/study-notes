@@ -92,7 +92,7 @@ $$\ce{alcohol ->[heat][alumina] alkene + water}$$
 
 ## Fermentation <sup><sub><small>glucose</small></sub></sup>
 
-**Conditions:** 30˚C + anaerobic (no oxygen) + aqueous glucose\
+**Conditions:** 30˚C + no oxygen (anaerobic) + aqueous glucose \
 **Catalyst:** yeast enzymes
 
 $$\ce{\underset{glucose}{C6H12O6} ->[\text{30\degree C}][yeast enzymes] \underset{ethanol}{2C2H5OH} + 2CO2}$$
@@ -109,7 +109,7 @@ $$\ce{alcohol + [O] -> carboxylic acid + water}$$
 
 Bacteria
 
-$$\ce{alcohol + oxygen ->[][bacteria] carboxylic acid + water}$$
+$$\ce{ethanol + oxygen ->[][bacteria] \underset{vinegar}{ethanoic acid} + water}$$
 
 ## Esterification
 

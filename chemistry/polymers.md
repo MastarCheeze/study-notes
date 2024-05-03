@@ -65,3 +65,7 @@ Monomers: Dicarboxylic acid, diamine \
 **Protein** (natural) \
 Monomers: Amino acid \
 ![Condensation polymerisation - protein](images/protein.png)
+
+> ### Hydrolysis
+>
+> **PET** - hydrolyse back into monomers by acids/alkalis

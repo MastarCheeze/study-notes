@@ -1,6 +1,6 @@
 ## Activation energy $(E_{\mathrm{a}})$
 
-> Minimum energy colliding particles must have to react
+> **Minimum** energy colliding particles must have to react
 
 ## Enthalpy change $(\mathrm{\Delta H})$
 
@@ -24,7 +24,7 @@
 >
 > -   Combustion
 > -   Neutralisation
-> -   Oxidisation
+> -   Oxidation
 
 <br>
 

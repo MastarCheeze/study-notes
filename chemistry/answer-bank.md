@@ -66,29 +66,29 @@ No substance can enter or leave during a reaction
 
 ### What is activation energy
 
--   Minimum energy colliding particles must have
+-   **Minimum** energy colliding particles must have
 -   to react
 
 ### Why increasing temperature increases rate of reaction
 
 -   More kinetic energy
--   Collide more
--   More particles have energy higher than activation energy
+-   Frequency of collision ⬆
+-   Higher percentage particles have energy higher than activation energy
 
 ### Why increase surface area increases rate of reaction
 
 -   Larger surface area
--   Collide more
+-   Frequency of collision ⬆
 
 ### Why increase concentration increases rate of reaction
 
--   More particles in smaller volume
--   Collide more
+-   More particles per unit volume
+-   Frequency of collision ⬆
 
 ### Why rate of reaction decrease over time
 
 -   Concentration decrease
--   Lower rate of collision of particles
+-   Frequency of collision ⬇
 
 ### What is saturated solution
 
@@ -126,7 +126,7 @@ Hydrogen stored under high pressure as a liquid
 ### Why [ionic compound] has higher melting point than [covalent compound]
 
 -   Ionic compound - ionic bond \
-    stronger electrostatic forces of attraction (between +ve and -ve ion)
+    stronger electrostatic forces of attraction between ions
 -   Covalent compound - covalent bond \
     weaker intermolecular forces of attraction
 -   More energy needed to break bond
@@ -163,18 +163,15 @@ Mobile ions
 -   Higher density
 -   Harder
 
-### What is catalyst
-
--   Increase rate of reaction
--   Remains unchanged
-
 ### Why aluminium does not react immediately with acid
 
-Oxidation layer on surface
+Aluminium oxide layer on surface
 
 ### Why copper used for wires
 
-Unreactive
+-   Good electrical conductor
+-   Ductile
+-   Unreactive
 
 ### Why aluminium used for overhead cables
 
@@ -184,10 +181,6 @@ Unreactive
 ### Uses of ammonium nitrate / ammonium phosphate
 
 Synthetic fertiliser
-
-### Uses of sulfur dioxide
-
-Bleach wood pulp
 
 <br><br>
 
