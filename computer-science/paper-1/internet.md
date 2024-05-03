@@ -39,7 +39,8 @@
 
 ## Router
 
-> Forwards packets to a specific destination on a network
+> Forward packets \
+> Control route of packet to destination on a network
 
 -   Connects local network to the internet
 -   Assigns dynamic IP address
@@ -92,7 +93,7 @@
 
 -   48-bit
 -   Hexadecimal
--   Manufacturer code + serial code
+-   Manufacturer id + serial number
 
 ## IP address[^IP]
 
@@ -232,9 +233,10 @@ Using HTTP/HTTPS:
 1. Browser requests certificate from web server
 2. Receives copy of certificate
 3. Checks if authentic
-4. Sends signal to web server \
-   that certificate is authentic
-5. Establishes communication
+    - Sends signal to establish communication
+    - Session key generated
+4. Agree on encryption method
+    - Server's public key
 
 <br>
 

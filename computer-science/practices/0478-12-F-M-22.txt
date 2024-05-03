@@ -1,0 +1,54 @@
+0478/12/F/M/22
+https://bestexamhelp.com/exam/cambridge-igcse/computer-science-0478/2022/0478_m22_qp_12.pdf
+
+1)(a) 85 ✓
+  (b) C0 ✓
+  (c) 26 ✓
+  (d) 16 ✓
+
+2)(a) png jpeg ✓ jpg gif webp svg
+  (b) Each image is made up of a matrix of coloured pixels ✓ +that stores one colour+. The resolution is the number of pixels wide and high ✓ the image is. The colour depth is the number of bits used to represent the colour of each pixel.
+      (ans) each pixel stores one colour
+            each colour has unique binary value
+            colour values stored in sequence
+            has metadata about colour depth and resolution
+  (c)(i) Using an algorithm to reduce the size of a file ✓
+     (ii) Reduce size of file, takes up less storage space ✓, faster transmission speed ✓ and less bandwidth is used ✓.
+     (iii) There is odd or even parity ✓. If odd parity, the number of bits must be odd, if even parity the number of bits must be even. Parity bit is an extra bit added to data to satisfy the odd or even parity ✓. Before sending data, the type of parity is agreed upon ✓. When the data is sent, the receiver -checks- +counts+ if there is the correct number of bits ✓. If not, error has occured ✓.
+           (ans) data split into blocks of 7 bytes
+                 sender count number of bits
+     (iv) Checksum ✓ - A value is calculated ✓ using a -equation- algorithm ✓ and appended to the data to be sent ✓. The receiver agrees on which calculation to use. When the receiver receives data, it performs the same calculation ✓ and checks if it matches the checksum stored in the data. If it doesn’t an error has occured ✓.
+          Echo sum - When the data is received by the sender, it resends the data back to the sender. The sender then checks if it matches the original data. If it does, it sends a signal to the sender to signify that there is no error.
+          ARQ ✓ - When data is sent, the receiver checks for errors. If error is detected negative acknowledgement is sent, if not, positive acknowledgement is sent. If the receiver receives negative acknowledgement, it resends the packet until it times out or the resend limit is reached.
+
+3)(a) AND OR ✓✓
+      NAND NOR ✓✓
+      OR NAND XOR ✓✓✓
+
+4)(a)(i) LED ✓ reflects ✓ speed ✓ direction ✓ switch ✓ circuit ✓
+     (ii) microphone ✓ digital camera touchpad ✓ touchscreen ✓
+  (b) Brighter light ✓, higher saturation, quiet ✓, cheap ✓, no rainbow effect ✓, less power ✓, no need to move so big is not a problem ✓
+  (c) USB flash drive ✓ - Small and portable ✓, universal standard, fast read/write speed ✓, more durable ✓, less power used ✓
+      Hard disk drive ✓ - Cheaper per unit storage ✓, long use life ✓, no need to be portable so large size not a problem ✓
+
+5)(a) S1 - Layout of website
+      S2 - Position of image and text ✓
+           (ans) head, body, paragraph, heading, subheading
+      P1 - Colours ✓
+      P2 - Font styles ✓
+  (b) URL - unique identifier of a web page on a web server. Made of protocol ✓, domain name ✓ and file path ✓.
+      IP - unique address to identify devices on a network. Assigned by ISP or router. Can be hex or denary ✓. 32 bit or 128 bit ✓
+      MAC - unique address to identify devices on a network. Assigned to NIC by manufacturer. Is hex ✓. 48 bit ✓. Front is manufacturer code ✓, back is serial number ✓.
+  (c) DDoS attack ✓ - Users unable to access website ✓, web server crash - proxy server ✓, firewall ✓
+      Malware ✓ - Data gets corrupted ✓, takes up space and memory ✓, web server slows down - antivirus ✓, firewall
+      Hacking ✓ - Sensitive data gets stolen ✓, company loses reputation - Firewall ✓
+
+6) Motion sensor detects motion and sends a signal to the microprocessor ✓. ADC converts analogue signal to digital ✓. Microprocessor compares the signal with the stored value ✓. If the signal is within range, the microprocessor sends a signal to the camera to start recording ✓ and resets the timer to 2 minutes. If the value is out of range, the timer is decreased ✓. When the timer reaches zero, a signal is sent to the camera to stop recording ✓. The whole process is continuous until stopped ✓.
+
+7)(a)(i) During development ✓. Code does not have to be complete to be run ✓. Errors are reported one by one ✓. Does not need to compile before running.
+         (ans) Easier to debug
+               Stops at error
+               Can correct errors during runtime
+     (ii) During distribution ✓. Code does not need to be retranslated to run. Executable file is produced ✓. User does not need to have interpreter to run program ✓. Program runs faster than using interpreter.
+          (ans) No need source code
+                Code cannot be viewed/edited

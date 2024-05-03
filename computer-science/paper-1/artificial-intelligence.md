@@ -5,8 +5,7 @@
 <p></p>
 Features
 
--   Collects **data**
--   Stores **rules**
+-   Collection of data and rules
 -   Ability to **reason** (logic)
 -   Ability to **learn**[^1]
 
@@ -20,12 +19,15 @@ Can
 -   Adapt its own processes
 -   Learn from its mistakes
 -   Change its own data and rules
+-   Analyse patterns
 
 <p></p>
 Types
 
 -   [Supervised](../misc/machine-learning/types.md#supervised-learning)
+    -   Training data is labelled
 -   [Unsupervised](../misc/machine-learning/types.md#unsupervised-learning)
+    -   Training data is not labelled
 
 ## Expert system
 
@@ -35,11 +37,13 @@ Types
     -   Stores facts (for inference engine)
 -   Rule base
     -   Stores rules (for inference engine)
-    -   Link facts in knowledge base
+    -   Used to link facts in knowledge base
 -   Inference engine
-    -   Makes decisions
-    -   Apply **logic** to **facts** \
+    -   Apply **rule base** to **knowledge base** \
         to provide results/diagnosis
+    -   Decides what to ask next
 -   Interface
+    -   Input data
+    -   View output
 
 [^1]: Only for machine learning

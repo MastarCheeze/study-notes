@@ -2,14 +2,14 @@
 
 #### Data types
 
-|           |
-| --------- |
-| Text      |
-| Character |
-| Boolean   |
-| Integer   |
-| Real      |
-| Date/time |
+|           |                |
+| --------- | -------------- |
+| Text      | "Bob"          |
+| Character | "B"            |
+| Boolean   | `TRUE` `FALSE` |
+| Integer   | 42             |
+| Real      | 3.142          |
+| Date/time |                |
 
 #### Comparison
 

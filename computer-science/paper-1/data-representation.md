@@ -35,6 +35,10 @@
 
 ## Images
 
+-   Pixels
+    -   Represent **one** colour
+    -   Each colour has unique binary value
+    -   Colour values stored in sequence
 -   Resolution
     -   Dimensions of image
 -   Colour depth
@@ -50,8 +54,10 @@
 
 -   Sample rate
     -   Number of samples taken per second
+    -   Pitch
 -   Sample resolution
     -   Number of bits used to represent each sample
+    -   Amplitude
 
 ### MIDI[^MIDI]
 
@@ -91,7 +97,7 @@
 
 > Algorithm
 
--   Less storage needed
+-   Less storage space
 -   Faster transmission
 -   Faster upload/download time
 -   Less bandwith required
@@ -99,11 +105,13 @@
 
 ### Lossy
 
-> Reduce file size by permanently removing data
+> **Compression algorithm** \
+> Reduce file size by **permanently** removing data
 
 ### Lossless
 
-> Reduce file size without permanent loss of data \
+> **Compression algorithm** \
+> Reduce file size without **permanently** removing data \
 > Original file can be restored
 
 1. Finds **repeating** patterns
@@ -118,10 +126,11 @@ Example
 
 <br>
 
-| Lossy               | Lossless             |
-| ------------------- | -------------------- |
-| ✅ More compression | ❌ Less compression  |
-| ❌ Quality lost     | ✅ Quality preserved |
+| Lossy                                                                                          | Lossless                                                                                       |
+| ---------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ✅ More compression <br> - Less storage space <br> - Faster transmission <br> - Less bandwidth | ❌ Less compression <br> - More storage space <br> - Slower transmission <br> - More bandwidth |
+| ❌ Quality lost                                                                                | ✅ Quality preserved                                                                           |
+|                                                                                                | ✅ Can edit original file                                                                      |
 
 <br>
 

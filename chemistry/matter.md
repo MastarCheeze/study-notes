@@ -2,6 +2,9 @@
 
 ## Atoms
 
+Smallest particles of matter \
+Cannot break down further by chemical reaction
+
 |          | Mass[^1] | Charge[^2] |
 | -------- | -------- | ---------- |
 | Proton   | 1        | +1         |

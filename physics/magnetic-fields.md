@@ -96,8 +96,7 @@ To reverse induced current:
 ## Generators
 
 -   Slip ring
--   Brushes
-    -   Carbon
+-   Carbon brushes
 
 ## Transformers
 

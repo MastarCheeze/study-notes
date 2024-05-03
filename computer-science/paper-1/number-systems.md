@@ -61,9 +61,9 @@ Converting (both ways):
 -   Easier to read, write and understand
 -   Easier to debug
 
-## Uses
+## Uses <small><sup><sub>(10)</sub></sup></small>
 
--   Colour codes
+-   HTML Colour codes
 -   ASCII / Unicode
 -   Error codes
 -   Memory dumps (debugging)

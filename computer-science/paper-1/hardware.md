@@ -1,5 +1,24 @@
 # Hardware
 
+-   [Von Neumann Architecture](#von-neumann-architecture)
+    -   [Stored program concept](#stored-program-concept)
+    -   [Components](#components)
+-   [CPU](#cpu)
+    -   [FDE cycle](#fde-cycle)
+        -   [Fetch](#fetch)
+        -   [Decode](#decode)
+        -   [Execute](#execute)
+    -   [Performance](#performance)
+    -   [Virtual memory](#virtual-memory)
+-   [Microprocessor](#microprocessor)
+    -   [Embedded systems](#embedded-systems)
+-   [Storage](#storage)
+    -   [Primary](#primary)
+    -   [Secondary](#secondary)
+    -   [Cloud](#cloud)
+
+<br>
+
 # Von Neumann Architecture
 
 ## Stored program concept
@@ -36,9 +55,11 @@
 
 #### CU
 
--   Coordinates transfer of data & instructions in CPU
-    -   Transmits control signals to all components
-        -   Using [control bus](#control-bus)
+-   Control signals
+    -   Via [control bus](#control-bus)
+    -   Controls transfer of data & instructions \
+        between CPU and components
+    -   Synchronises FDE cycle
 -   Decodes instruction into machine code
     -   Using **instruction set** \
         (set of commands that are understood by CPU)
@@ -53,7 +74,15 @@
 
 #### MAR
 
+-   Stores addresses of data/instructions
+-   to be fetched from memory \
+    to be written to memory
+
 #### MDR
+
+-   Stores data/instructions
+-   has been fetched from memory \
+    to be written to memory
 
 #### CIR
 
@@ -73,11 +102,19 @@
 
 -   Bi-directional
 
-#### Core
+#### _Core_
 
-#### Cache
+#### _Cache_
 
-#### Clock
+-   Volatile storage
+-   Store frequently accessed data/instructions
+-   Speed up access
+    -   Faster than RAM
+-   Has levels L1, L2, L3
+
+#### _Clock_
+
+-   **Regulates** number of FDE cycles CPU can perform in a second
 
 <br>
 
@@ -151,7 +188,15 @@ When page is needed
 >
 > -   Limited instructions
 > -   Used in **embedded systems**
->     -   Performs a dedicated function only
+
+### Embedded systems
+
+-   Performs a dedicated function only
+-   Cannot be reprogrammed
+-   Has
+    -   Microprocessor
+    -   Dedicated hardware
+    -   Firmware
 
 <br>
 
@@ -163,7 +208,7 @@ When page is needed
 
 | RAM                                                                                                                                            | ROM                                                                                                          |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| Stores current running...<ul><li>Instructions</li><li>Data</li><li>Application software</li><li>Utility software</li><li>Parts of OS</li></ul> | Stores startup instructions<ul><li>Bootstrap</li><li>BIOS</li><li>Firmware</li></ul>                         |
+| Stores current running...<ul><li>Instructions</li><li>Data</li><li>Application software</li><li>Utility software</li><li>Parts of OS</li></ul> | Stores... <ul><li>Startup instructions</li><li>Firmware</li><ul><li>BIOS</li><li>Bootstrap</li></ul></ul>    |
 | Volatile<ul><li>Temporary storage</li><li>Contents are lost when power is turned off</li></ul>                                                 | Non-volatile<ul><li>Permanent storage</li><li>Contents are preserved even when power is turned off</li></ul> |
 | Can be written to<br>Contents constantly changing                                                                                              | Cannot be written to<br>Contents fixed                                                                       |
 | Can increase amount of RAM                                                                                                                     | Cannot increase amount of ROM                                                                                |
@@ -183,19 +228,19 @@ When page is needed
 >
 > -   Has to be sent to primary storage first
 
-|                                            | Description                                                                                                                                                                                                               | Examples                                                                                            |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Magnetic                                   | <ul><li>Read/write arm with<br>**electromagnets**</li><li>Spinning platters (separated into tracks/sectors)</li><li>Data stored as dots</li><ul><li>Magnetised = 1</li><li><nobr>Demagnetised = 0</nobr></li></ul></ul>   | <ul><li>Hard disk drive (HDD)</li><li>Magnetic tape</li></ul>                                       |
-| Optical                                    | <ul><li>Read/write arm with<br>**lasers** + **sensors**</li><ul><li>Burn pits</li><li>Read pits/lands<br>using reflections</li></ul></ul>                                                                                 | <ul><li>CD[^CD]</li><li>DVD[^DVD]</li><li>Blu-ray</li></ul>                                         |
-| <nobr>Solid-state</nobr><br>(flash memory) | <ul><li>Data flashed onto silicon chips</li><li>Uses **transistors**<ul><li>NAND/NOR<br>(flip-flop)</li><li>Control gates <br> floating gates</li><li>Control electron flow</li></ul></li><li>EEPROM technology</li></ul> | <ul><li><nobr>Solid-state</nobr> drive (SSD)</li><li>USB flash drive</li><li>SD card[^SD]</li></ul> |
+|                                            | Description                                                                                                                                                                                                                                                          | Examples                                                                                            |
+| ------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Magnetic                                   | <ul><li>Data stored on platters</li><li>Platters divided into tracks/sectors</li><li>Platters can spin</li><li>Read/write arm with<br>**electromagnets**</li><li>Data stored as dots</li><ul><li>Magnetised = 1</li><li><nobr>Demagnetised = 0</nobr></li></ul></ul> | <ul><li>Hard disk drive (HDD)</li><li>Magnetic tape</li></ul>                                       |
+| Optical                                    | <ul><li>Read/write arm with<br>**lasers** + **sensors**</li><ul><li>Burn pits</li><li>Read pits/lands<br>using reflections</li></ul></ul>                                                                                                                            | <ul><li>CD[^CD]</li><li>DVD[^DVD]</li><li>Blu-ray</li></ul>                                         |
+| <nobr>Solid-state</nobr><br>(flash memory) | <ul><li>Uses flash memory</li><li>Data flashed onto chips</li><li>Uses **transistors**<ul><li>NAND/NOR<br>(flip-flop)</li><li>Control gates</li><li>Floating gates</li><li>Control electron flow</li></ul></li><li>Type of EEPROM</li></ul>                          | <ul><li><nobr>Solid-state</nobr> drive (SSD)</li><li>USB flash drive</li><li>SD card[^SD]</li></ul> |
 
 | Magnetic           | Solid-state                   |
 | ------------------ | ----------------------------- |
+| ✅ Large capacity  | ✅ Large capacity             |
 | ✅ Cheap           | ❌ Expensive                  |
 | ✅ Long life       | ❌ Short life                 |
 | ❌ Slow read/write | ✅ Fast read/write            |
 | ❌ High power      | ✅ Low power                  |
-| ❌ Runs hot        | ✅ Runs cool                  |
 | ❌ Moving parts    | ✅ No moving parts (portable) |
 | ❌ Larger size     | ✅ Smaller size               |
 
@@ -207,7 +252,7 @@ When page is needed
 ## Cloud
 
 > Data stored in servers \
-> Data can be accessed remotely
+> Data can be accessed remotely through network
 
 <br>
 

@@ -4,17 +4,17 @@
 >
 > ### Application of sensors
 >
-> 1. [_Sensor_] measures [_quantity_] continuously
+> 1. [_Sensor_] measures [_quantity_] **continuously**
 > 2. Data sent to microprocessor
 > 3. Convert from analogue to digital \
 >    using **ADC**
-> 4. Value **compared** with **stored value** of [_concrete value_]
+> 4. Value **compared** with **stored value** (of [_concrete value_])
 > 5. If value **_matches / within range / outside range_**
 > 6. [_Scenario 1_], **signal** sent to cause [_action_] \
 >    [_Scenario 2_], **signal** sent to cause [_action_] \
 >    [_Scenario 3_], no action
 > 7. **Actuator** operates [_device_]
-> 8. **Whole** process is **continuous until stopped** (depends)
+> 8. **Whole** process is **continuous** (until stopped / [_condition_])
 >
 > ### Advantages/Disadvantages
 >
@@ -28,6 +28,10 @@
 
 -   Transistors
 -   Can only store 0 and 1
+
+### What is clock speed
+
+Maximum number of FDE cycles a CPU can perform in a second
 
 ### What are registers
 
@@ -89,11 +93,36 @@
 -   Formatting can be reused
 -   Standardise formatting across web pages
 
+### Advantages of cloud storage
+
+-   Can be accessed anywhere with internet
+-   Automatically backs up data
+-   Can increase storage easily without buying hardware
+-   Save space on hardware
+
+### Disadvantages of cloud storage
+
+-   Internet connection required
+-   Employees pressured to work outside of hours
+
 <br><br>
 
 # Paper 2
 
-> ALWAYS WRITE OUTPUT
+> ### Test data
+>
+> -   Normal data - should be accepted
+> -   Abmornal data - should be rejected
+>
+> ### Purpose of algorithm
+>
+> -   Input [*stuff*]
+> -   _Do some stuff_
+> -   Output [*stuff*]
+>
+> ### Describe how code/algorithm should be changed
+>
+> Always include line number / where to insert
 
 ### What happens when a function is called
 
@@ -107,6 +136,20 @@
 -   Permanent storage
 -   Can be transferred between computers
 -   Can create copy of data
+
+### How to write a maintainable program
+
+-   Comments
+    -   Explain purpose of code
+    -   Explain Logic
+-   Meaningful identifiers
+    -   Identify purpose of...
+    -   variable, constant, array, procedure
+-   Indentation & white space
+    -   Readable
+-   Procedures & functions
+    -   Avoid repeated code
+    -   Simplify logic
 
 <br><br>
 

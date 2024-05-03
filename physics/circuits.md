@@ -50,6 +50,6 @@ Delivers only a proportion of voltage from a battery
 > \end{align*}
 > $$
 
-## Rectifier
+## Rectifier \*
 
 ![Rectifier](images/rectifier.png)

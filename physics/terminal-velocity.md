@@ -2,7 +2,12 @@
 
 1. In a free fall, the forces are:
     - Weight - downwards force
-    - Air resistance (friction) - upwards force
-2. When velocity increases, air resistance also increases
-3. When air resistance is equal to the weight, the resultant force is zero
-4. Acceleration is zero (Follows [Newton's Laws of Motion](./newtons-laws-of-motion.md#first-law))
+    - Air resistance - upwards force
+2. When velocity ⬆, air resistance ⬆
+    - resultant force ⬇
+    - acceleration ⬇
+3. When weight = air resistance
+    - resultant force = 0
+    - acceleration = 0 \
+      (Follows [Newton's Laws of Motion](./newtons-laws-of-motion.md#first-law))
+    - **Terminal velocity** reached

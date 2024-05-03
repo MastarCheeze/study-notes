@@ -27,7 +27,7 @@
 
 | Serial                                          | Parallel                                |
 | ----------------------------------------------- | --------------------------------------- |
-| ✅ Longer wire                                  | ❌ Shorter wire                         |
+| ✅ Reliable over long distances                 | ❌ Unreliable over long distances       |
 | ✅ Cheap                                        | ❌ Expensive                            |
 | ✅ Less error                                   | ❌ More error                           |
 | ✅ Less skew <br> (arrive in order)             | ❌ More skew <br> (arrive in order)     |
@@ -63,14 +63,15 @@
     -   Single wire
     -   One bit at a time
 
-|                                           |
-| ----------------------------------------- |
-| ✅ Universal standard                     |
-| ✅ Fast                                   |
-| ✅ Supports different transmission speeds |
-| ✅ Can only fit one way                   |
-| ✅ Backwards compatible                   |
-| ✅ Automatically detect/download drivers  |
-| ✅ Can charge device                      |
-| ❌ Limited transmission rate (500Mb/s)    |
-| ❌ Limited length (5m)                    |
+|                                          |
+| ---------------------------------------- |
+| ✅ Universal standard                    |
+| ✅ Fast                                  |
+| ✅ Supports different speeds             |
+| ✅ Only fit one way                      |
+| ✅ Backwards compatible                  |
+| ✅ Automatically detect/download drivers |
+| ✅ Can charge device                     |
+| ✅ Less skew (bcs serial)                |
+| ❌ Limited transmission rate (500Mb/s)   |
+| ❌ Limited length (5m)                   |

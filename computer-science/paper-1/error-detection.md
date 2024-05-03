@@ -4,6 +4,7 @@
 
 ### Parity check
 
+-   Number of 1s are counted
 -   Extra parity bit added
 -   **Odd parity**
     -   Number of on bits = odd
@@ -27,9 +28,10 @@
 
 ### Echo sum
 
--   Transmit data to receiver
--   Receiver transmit back data
--   If same, no error
+-   Sender transmit data to receiver
+-   Receiver transmit data to sender
+-   Sender compares if both sets of data are the same
+-   Sender transmits success/error signal to receiver
 
 <br>
 

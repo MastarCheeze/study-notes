@@ -2,7 +2,9 @@
 
 ## Low-level
 
-> Closer to machine language
+> Close to machine language \
+> Machine dependent \
+> No need to be translated
 
 -   Machine code
 -   Assembly
@@ -11,7 +13,9 @@
 
 ## High-level
 
-> English-like statements
+> Close to human language \
+> Machine independent \
+> Needs to be translated
 
 -   Python
 -   Java
@@ -52,8 +56,9 @@
 | Writing program: Interpreter ✅          |
 | ---------------------------------------- |
 | Code does not have to be complete to run |
-| Easier to debug                          |
 | Reports error one at a time              |
+| Easier to debug                          |
+| Can fix errors during runtime            |
 
 <br>
 
@@ -63,6 +68,7 @@
 | Does not need translator to run                        |
 | Does not need source code to run                       |
 | Does not need to re-translate code each time it is run |
+| Code cannot be viewed/edited                           |
 
 <br>
 

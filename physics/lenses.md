@@ -28,6 +28,8 @@ Distance between centre of lens and principal focus
 
 ### Forming images
 
+![Images formed by convex lens](images/images-of-convex-lens.png)
+
 |                                                                                                     |                                        |
 | --------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | ![Convex lens forming real, diminished and inverted image](images/convex-real-diminished-image.png) | **Real** <br> Inverted <br> Diminished |

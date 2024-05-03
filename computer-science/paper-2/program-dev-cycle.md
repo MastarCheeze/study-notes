@@ -1,3 +1,15 @@
+-   [1. Analysis](#1-analysis)
+    -   [Decomposition](#decomposition)
+    -   [Abstraction](#abstraction)
+-   [2. Design](#2-design)
+    -   [Structure diagram](#structure-diagram)
+    -   [Flowchart](#flowchart)
+    -   [Pseudocode](#pseudocode)
+-   [3. Coding](#3-coding)
+-   [4. Testing](#4-testing)
+
+<br>
+
 # Program Development Cycle
 
 <p></p>
@@ -25,7 +37,7 @@ Removing unneccesary characteristics from elements
 
 ## 2. Design
 
-> Design algorithm
+> Plan the algorithm
 
 ### Structure diagram
 
@@ -47,9 +59,9 @@ See [Pseudocode](./pseudocode.md)
 
 > Detect/fix errors
 
-| Test data |                                                                             |
-| --------- | --------------------------------------------------------------------------- |
-| Normal    | **Accepted** by program                                                     |
-| Abnormal  | **Rejected** by program                                                     |
-| Extreme   | On the edge of what is allowed, **accepted** by program                     |
-| Boundary  | On the edge of what is allowed, both **accepted** & **rejected** by program |
+| Test data |                                                                                                |
+| --------- | ---------------------------------------------------------------------------------------------- |
+| Normal    | **Accepted** by program                                                                        |
+| Abnormal  | **Rejected** by program                                                                        |
+| Extreme   | On the edge of what is allowed, **accepted** by program                                        |
+| Boundary  | On the edge of what is allowed, both **accepted** & **rejected** by program <br> Need 2 values |

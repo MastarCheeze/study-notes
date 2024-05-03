@@ -35,7 +35,11 @@
 
 ## Data interception
 
-> Packets are intercepted and monitored using **packet sniffers**
+1. Packet sent from one device to another
+2. **Packet sniffer** intercepts and examines packets \
+   during transmission
+3. Packet reported to third party
+4. Third party analyses packet
 
 #### Prevention
 
@@ -211,12 +215,14 @@
 > -   Network (software)
 > -   Computer (hardware)
 
--   Set criteria (blacklist/whitelist)
-    -   Compare data with criteria
-    -   Reject data from passing through \
-        if criteria is met
--   Close unused ports
--   Logs all attempts to access blocked websites
+-   Criteria (blacklist/whitelist)
+    -   Set by user
+    -   Data compared with criteria
+    -   Block data if criteria is met
+-   Block ports
+-   Block apps
+-   Notify user of blocks
+-   Logs all blocks
 
 #### Used for
 

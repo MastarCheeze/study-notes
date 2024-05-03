@@ -6,17 +6,18 @@
 >
 > **Use formulae!**
 >
-> |     |                           |
-> | --- | ------------------------- |
-> | +   | sum                       |
-> | -   | changes                   |
-> | x   | product                   |
-> | ÷   | per unit <br> rate (time) |
+> |     |                                         |
+> | --- | --------------------------------------- |
+> | +   | sum                                     |
+> | -   | changes                                 |
+> | x   | product                                 |
+> | ÷   | per unit <br> ratio of <br> rate (time) |
 >
-> | Example              |                                                  |
-> | -------------------- | ------------------------------------------------ |
-> | $\rho = \frac{m}{V}$ | Density is the mass of an object per unit volume |
-> | $I = \frac{Q}{t}$    | Current is the rate of flow of electric charge   |
+> | Example              |                                                                                                |
+> | -------------------- | ---------------------------------------------------------------------------------------------- |
+> | $\rho = \frac{m}{V}$ | Density is the mass of an object per unit volume                                               |
+> | $I = \frac{Q}{t}$    | Current is the rate of flow of electric charge                                                 |
+> | $H_0 = \frac{v}{d}$  | Hubble constant is the ratio of recession speed of star to distance of star away from observer |
 >
 > ### Drawing
 >
@@ -30,6 +31,8 @@
 >
 > Always be specific \
 > Refer back to values in the question
+>
+> **Why is there acceleration?** - There is resultant force
 
 ### What is acceleration
 
@@ -78,29 +81,26 @@ Force of gravity acting on an object
 -   Molecules close together
 -   Large repulsive forces
 
-### Why liquids expand/contract more than solid / gas expand/contract more than liquid
+### Why liquids expand/contract more than solid, gas expand/contract more than liquid
 
 -   Attraction forces between molecules weaker/stronger
 -   Greater/less distance between molecules
 
+### Factors of evaporation
+
+-   Surface area of liquid
+-   Temperature of liquid / surroundings
+-   Humidity of surroundings
+-   Draughts
+
 ### How does evaporation cool
 
+-   Heat transfer to liquid molecules
 -   Molecules with high KE escape at surface of liquid
 -   Remaining molecules have
     -   lower **average** KE
     -   lower speed
     -   lower temperature
-
-### What is boiling/melting/condensation/freezing point
-
--   Constant temperature
--   _state change_ <small>(liquid → gas)</small>
--   heat absorbed/released
-
-### Evaporation vs boiling
-
--   Boiling occurs throughout liquid, evaporation only occurs on surface of liquid
--   Boiling occurs at specific temperature (boiling point), evaporation occurs at range of temperatures
 
 ### How is energy lost (friction)
 
@@ -114,7 +114,7 @@ Force of gravity acting on an object
 -   _Molecules_ move fast
 -   _Molecules_ are small / light
 -   Bombard / collide with smoke/dust _particles_
--   Change in momentum, exert force in random directions
+-   Change in momentum over time, exert force in random directions
 
 ### Why forward force changes when maintaining uniform acceleration
 
@@ -128,7 +128,7 @@ Extension proportional to load (obey Hooke's Law) up to this limit
 
 -   Molecules move randomly
 -   Collide with walls
--   **Change in momentum** that exerts force
+-   **Change in momentum over time** that exerts force
 
 ### How does momentum change force
 
@@ -167,11 +167,13 @@ Oscillations parallel to direction of travel
 
 ### What is rarefaction
 
-Part of wave where **pressure** is low
+Part of wave where **pressure** is low \
+and molecules are closer together
 
 ### What is compression
 
-Part of wave where **pressure** is high
+Part of wave where **pressure** is high \
+and molecules are further apart
 
 ### What is critical angle
 
@@ -284,7 +286,9 @@ Fewer excess neutrons in nucleus
 >
 > -   Accurate to accuracy of measuring instrument - e.g. $0.50\text{A}$
 >
-> #### Matching results
+> #### Justification
+>
+> Always quote specific values from the question!!!
 >
 > -   Values within 10% of each other
 > -   $\displaystyle\mathrm{\frac{smaller~number}{larger~number}} \geq 0.9$
@@ -308,6 +312,27 @@ Fewer excess neutrons in nucleus
 >
 > -   Straight line
 > -   Passes through origin
+>
+> ### Sources of inaccuracy
+>
+> -   Apparatus not accurate enough
+>
+> ## Question 4
+>
+> > Independent variable - 操作性变数 \
+> > Dependent variable - 反应性变数 \
+> > Control variable - 固定性变数
+>
+> **Always include:**
+>
+> -   2+ control variables
+> -   5+ sets of data taken
+> -   Repeat with different [*Independent*]
+>
+> **Analysis at the end of the answer:**
+>
+> -   Compare results to see how change of [*Independent*] affects [*Dependent*]
+> -   Plot a graph of [*Dependent*] against [*Independent*]
 
 <br>
 

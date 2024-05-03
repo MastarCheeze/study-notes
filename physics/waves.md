@@ -4,7 +4,7 @@
 
 ![Transverse wave](images/transverse-wave.jpg)
 
-**Oscillations <u>perpendicular</u> to direction of travel**
+> **Oscillations <u>perpendicular</u> to direction of travel**
 
 <p></p>
 Examples
@@ -17,10 +17,9 @@ Examples
 
 ![Longitudinal wave](images/longitudinal-wave.jpg)
 
-**Oscillations <u>parallel</u> to direction of travel**
-
-Compressions - part of wave with high **pressure** \
-Rarefactions - part of wave with low **pressure**
+> **Oscillations <u>parallel</u> to direction of travel** \
+> **Compressions** - part of wave with high **pressure** and molecules are closer together \
+> **Rarefactions** - part of wave with low **pressure** and molecules are further apart
 
 <p></p>
 Examples
@@ -96,7 +95,7 @@ Examples
     -   Wavelength longer
     -   Gap equal to wavelength
 
-## Electromagnetic waves
+## Electromagnetic spectrum
 
 | **High frequency** |
 | ------------------ |

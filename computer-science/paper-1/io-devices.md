@@ -97,7 +97,7 @@
 2. Light reflected
     - Dark - reflect less
     - Light - reflect more
-3. Sensors read reflected light
+3. Photoelectric cells read reflected light
 4. Reflections converted to binary
 
 ### QR code scanner[^QR]
@@ -114,7 +114,7 @@
 3. Light reflected
     - Dark - reflect less
     - Light - reflect more
-4. Sensors read reflected light
+4. Photoelectric cells read reflected light
 5. Reflections converted to binary
 
 ### Resistive touch screen
@@ -192,7 +192,7 @@
 
 > -   ADC (analogue-to-digital converter)
 
-| Sensor         | Measures                                 |
+| Sensor (14)    | Measures                                 |
 | -------------- | ---------------------------------------- |
 | Acoustic       | Sound                                    |
 | Accelerometer  | Acceleration forces (gravity/vibrations) |
@@ -339,8 +339,8 @@
 
 ### Actuator
 
--   Used control applications \
-    involving sensors and devices (ADC and DAC)
+-   Cause physical movement
+-   Operated by signals
 
 <br>
 

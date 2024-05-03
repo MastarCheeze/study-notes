@@ -1,13 +1,10 @@
 # Digital Currency
 
-> Only exists electronically
+-   Only exists electronically
+-   Encrypted
+-   Decentralised system (cryptocurrency)
 
-## Cryptocurrency
-
-> Decentralised system \
-> No central authority managing payments
-
-### Blockchain
+## Blockchain <small><sup><sub>(cryptocurrency)</sub></sup></small>
 
 > Digital ledger \
 > Tracks all transactions made
