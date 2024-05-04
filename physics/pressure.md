@@ -2,7 +2,7 @@
 
 > $$
 > \begin{align*}
->   p &= \frac{F}{A} \\
+>   P &= \frac{F}{A} \\
 >   \mathrm{pressure} &= \mathrm{\frac{force}{area}}
 > \end{align*}
 > $$
@@ -14,7 +14,7 @@
 
 > $$
 > \begin{align*}
->   p &= \rho gh \\
+>   P &= \rho gh \\
 >   \mathrm{presure} &= \mathrm{density \cdot gravitational~field~strength \cdot depth}
 > \end{align*}
 > $$
@@ -23,7 +23,7 @@
 
 > $$
 > \begin{align*}
->   p_1V_1 &= p_2V_2 \\
+>   P_1V_1 &= P_2V_2 \\
 >   \mathrm{pressure_1 \cdot volume_1} &=\mathrm{pressure_2 \cdot volume_2}
 > \end{align*}
 > $$
@@ -34,7 +34,7 @@
 
 > $$
 > \begin{align*}
->   p_g &= \rho gh + p_a \\
+>   P_g &= \rho gh + P_a \\
 >   \mathrm{pressure~of~gas} &= \mathrm{pressure~in~liquid + atmospheric~pressure}
 > \end{align*}
 > $$
@@ -42,7 +42,7 @@
 > Unit: Pa or atm or mmHg \
 > 1 atm = 100 000 Pa = 100 kPa
 
-For barometers, $p_a=0$ since vacuum \
+For barometers, $P_a=0$ since vacuum \
 For manometers, if gas pressure < atmospheric pressure, height change is negative
 
 Calculating pressure with barometers and manometers \

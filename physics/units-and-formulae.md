@@ -25,7 +25,7 @@
 | [Momentum](./momentum.md)                                          | $p$       |                        | $\mathrm{kg~m/s}$           | $\mathrm{N~s}$   |
 | [Moment of force (torque)](./moment-of-force.md)                   | $M$       |                        | $\mathrm{N~m}$              |                  |
 | [Spring constant](./hookes-law.md)                                 | $k$       |                        | $\mathrm{N/m}$              |                  |
-| [Pressure](./pressure.md)                                          | $p$       | pascal $(\mathrm{Pa})$ | $\mathrm{N/m^2}$            |                  |
+| [Pressure](./pressure.md)                                          | $P$       | pascal $(\mathrm{Pa})$ | $\mathrm{N/m^2}$            |                  |
 | [Energy](./energy.md)                                              | $E$       | joule $(\mathrm{J})$   | $\mathrm{N~m}$              |                  |
 | [Power](./power.md)                                                | $P$       | watt $(\mathrm{W})$    | $\mathrm{J/s}$              | $\mathrm{N~m/s}$ |
 | [Specific heat capacity](./specific-heat-capacity.md)              | $c$       |                        | $\mathrm{J/(kg~\degree C)}$ |                  |
@@ -39,8 +39,6 @@
 <br>
 
 # Formulae
-
-## Idk where to put these
 
 $$
 \begin{align*}
@@ -95,9 +93,9 @@ $$
 
 $$
 \begin{align*}
-  p &= \frac{F}{A} \\
-  p &= \rho gh \\
-  \tag*{\scriptsize (Boyle's law)} p_1V_1 &= p_2V_2 \\
+  P &= \frac{F}{A} \\
+  P &= \rho gh \\
+  \tag*{\scriptsize (Boyle's law)} P_1V_1 &= P_2V_2 \\
   E &= mc\Delta\theta \\
   E &= C\Delta\theta \text{ *} \\
   E &= mL \text{ *} \\
