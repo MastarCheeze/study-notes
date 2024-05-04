@@ -9,7 +9,8 @@ The closer the poles, the greater the force between them
 | Nickel             |
 | Cobalt             |
 
-|                        | Property                      | Examples |
-| ---------------------- | ----------------------------- | -------- |
-| Soft magnetic material | Easy to magnetise/demagnetise | Iron     |
-| Hard magnetic material | Hard to magnetise/demagnetise | Steel    |
+|              | Soft magnetic material        | Hard magnetic material                                                |
+| ------------ | ----------------------------- | --------------------------------------------------------------------- |
+| **Property** | Easy to magnetise/demagnetise | Hard to magnetise/demagnetise <br> (Retain magnetism once magnetised) |
+| **Examples** | Iron                          | Steel                                                                 |
+| **Used in**  | Electromagnet                 | Permanent magnet                                                      |

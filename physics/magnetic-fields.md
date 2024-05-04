@@ -66,6 +66,7 @@ To reverse induced current:
 ### Solenoid
 
 > Poles oppose change \
+> Coil produce repulsion force \
 > (see [Lenz's law](#lenzs-law))
 
 ![Lenz's law on induced poles of solenoid](images/lenzs-law.png)
