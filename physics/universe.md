@@ -26,7 +26,7 @@ Used to measure distance to celestial object
 $$
 \begin{align*}
   H_0 &= \frac{v}{d} \\
-  &= 2.2 \cdot 10^{-18} \\
+  &= 2.2 \cdot 10^{-18} \mathrm{~s^{-1}} \\
   \mathrm{Hubble~constant} &= \mathrm{\frac{speed~of~galaxy~moving~away~from~Earth}{distance~of~galaxy~from~Earth}}
 \end{align*}
 $$

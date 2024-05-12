@@ -264,16 +264,22 @@ Place magnet in coil with AC, slowly reduce current to 0
 
 Fewer excess neutrons in nucleus
 
+### Why countries away from equator has more temperature variation
+
+-   Angles of exposure to sun rays vary
+-   Duration of day/night vary
+
 ### How to determine distance of celestial object from Earth
 
+-   Change in wavelength
 -   Redshift
 -   Brightness
 
 ### What can be deduced from CMBR
 
 -   CMBR is microwave radiation at all points in space
--   Produced when universe is formed
--   Radiation expanded and red-shifted into microwave
+-   Produced shortly after universe is formed (Big Bang)
+-   Radiation expanded into microwave region
 -   Evidence that universe expanded
 
 <br><br>

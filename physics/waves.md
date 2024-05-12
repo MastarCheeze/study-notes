@@ -1,5 +1,7 @@
 # Waves
 
+> Transmission of energy
+
 ### Transverse waves
 
 ![Transverse wave](images/transverse-wave.jpg)

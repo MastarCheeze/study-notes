@@ -28,3 +28,7 @@ Definition: **Force of gravity acting on object**
 > $$
 >
 > Unit of g: N/kg or m/s<sup>2</sup>
+
+## Centre of gravity
+
+> Point where all weight seems to acts on

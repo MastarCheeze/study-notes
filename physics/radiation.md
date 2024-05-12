@@ -11,6 +11,10 @@
 | Stopped by          | Paper                                                                                              | Aluminium <nobr>(1 cm)</nobr>                                                         | Lead <nobr>(10 cm)</nobr>                                                           |
 | Range in air        | Several cm                                                                                         | Several m                                                                             | Several km                                                                          |
 
+> **Ionising power** of $\alpha$ is highest because\
+> \- More KE \
+> \- More charge
+
 ## Radioactive Decay
 
 > **Half-life** \

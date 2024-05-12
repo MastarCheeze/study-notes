@@ -195,6 +195,7 @@ $$
 
 $$
 \begin{align*}
+  \text{absolute zero} &= -273\degree \mathrm{C} \\
   c &= 3\cdot10^8 \text{ m/s} \\
   \text{sound \scriptsize(air)} &= 340 \text{ m/s} \\
   \text{sound \scriptsize(water)} &= 1500 \text{ m/s} \\

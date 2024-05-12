@@ -1,7 +1,7 @@
 # Magnetic Fields
 
 -   **Region where magnetic pole experiences force**
--   N → S
+-   N → S (direction of force on N pole)
 -   Closer field lines = stronger field
 
 ## Magnetic fields of wires

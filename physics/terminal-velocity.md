@@ -1,8 +1,11 @@
 # Terminal Velocity
 
-1. In a free fall, the forces are:
-    - Weight - downwards force
-    - Air resistance - upwards force
+In a free fall, the forces are: \
+\- Weight - downwards force \
+\- Air resistance - upwards force
+
+1. Initially, acceleration is 9.8 m/s²
+    - resultant (downwards) force
 2. When velocity ⬆, air resistance ⬆
     - resultant force ⬇
     - acceleration ⬇
