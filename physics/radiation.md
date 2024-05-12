@@ -17,6 +17,9 @@
 
 ## Radioactive Decay
 
+> Unstable nuclei \
+> Too many neutron
+
 > **Half-life** \
 > Time taken for half the nuclei to decay
 >
