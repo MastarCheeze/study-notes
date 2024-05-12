@@ -1,5 +1,7 @@
 # Magnetic Fields
 
+![Magnetic field around a bar magnet](images/magnetic-field-bar-magnet.png)
+
 -   **Region where magnetic pole experiences force**
 -   N → S (direction of force on N pole)
 -   Closer field lines = stronger field
@@ -25,7 +27,7 @@ To increase strength of electromagnet:
 ## <u>Exerted</u> force on wire
 
 > When electrons are in magnetic field, force is exerted \
-> Induced magnetic field of wire interacts with permanent magnetic field of magnet \
+> Induced magnetic field of wire **interacts** with permanent magnetic field of magnet \
 > (see [Fleming's left hand rule](#flemings-left-hand-rule))
 
 <p></p>
@@ -35,6 +37,12 @@ To increase force on wire:
 -   Increase number of turns (coil)
 -   Stronger magnet
 -   Increase length of wire within magnetic field
+
+<p></p>
+To reverse force on wire:
+
+-   Reverse current
+-   Reverse poles of magnet
 
 ## <u>Induced</u> current in wire
 
@@ -80,12 +88,12 @@ To reverse induced current:
 
 # Applications
 
-## Electromagnets
+## Electromagnet
 
 -   Laminated soft iron core
     -   **Soft** magnetic material (easily magnetised/demagnetised)
 
-## Electric motors
+## D.C. motor
 
 -   Split ring commutator
     -   **Reverses direction of current in coil** every half turn \
@@ -94,12 +102,15 @@ To reverse induced current:
     -   Increase contact between split ring commutator and external circuit
     -   Ensure current is maintained
 
-## Generators
+## A.C. generator
 
 -   Slip ring
 -   Carbon brushes
 
-## Transformers
+## Transformer
+
+> Step up: voltage ⬆ \
+> Step down: voltage ⬇
 
 -   Laminated soft iron core
 
@@ -112,6 +123,12 @@ $$
   \mathrm{input~voltage \cdot input~current} &= \mathrm{output~voltage \cdot output~current}
 \end{align*}
 $$
+
+## Relay
+
+## Loudspeaker
+
+## Alarm bell
 
 <br>
 

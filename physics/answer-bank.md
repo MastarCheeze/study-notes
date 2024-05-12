@@ -223,7 +223,7 @@ Work done (J) to push 1C of electric charge through the <u>complete circuit</u>
 
 ### Why high voltage is used for electricity transmission
 
-1.  Current low
+1.  Current low $\mathrm{(V=IR)}$
 2.  Power loss low $\mathrm{(P=I^2R)}$ \
     Less heat energy lost
 3.  Diameter of wire can be reduced \
@@ -280,7 +280,7 @@ Fewer excess neutrons in nucleus
 -   CMBR is microwave radiation at all points in space
 -   Produced shortly after universe is formed (Big Bang)
 -   Radiation expanded into microwave region
--   Evidence that universe expanded
+-   Evidence that universe is expanding
 
 <br><br>
 

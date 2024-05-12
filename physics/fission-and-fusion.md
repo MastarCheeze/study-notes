@@ -16,11 +16,13 @@ Uranium-235
 4. More fission, more neutrons emitted
 5. Kaboom
 
+<br>
+
 # Fusion
 
 > **Combining** two small <u>nuclei</u> into one large <u>nucleus</u> \
 > Emits neutrons & energy
 
--   Requires high temperature
+-   Requires very high temperature
 
 $$\ce{^2_1H + ^3_1H -> ^4_2He + ^1_0n}$$

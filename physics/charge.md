@@ -17,7 +17,7 @@
 
 ## Electric field
 
--   **Region where charges experience force**
+-   **Region where electric charge experience force**
 -   +ve → -ve
 
 ## Electrostatic charges

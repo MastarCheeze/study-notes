@@ -31,3 +31,19 @@ Derived from $P=VI$ and $P=\frac{E}{t}$:
 >   \mathrm{energy} &= \mathrm{voltage \cdot current \cdot time}
 > \end{align*}
 > $$
+
+Derived from $P=VI$ and $V=IR$:
+
+> $$
+> \begin{align*}
+>   P &= I^2R \\
+>   \mathrm{power} &= \mathrm{current^2 \cdot resistance}
+> \end{align*}
+> $$
+
+> $$
+> \begin{align*}
+>   P &= \frac{V^2}{R} \\
+>   \mathrm{power} &= \mathrm{\frac{voltage^2}{resistance}}
+> \end{align*}
+> $$

@@ -1,12 +1,13 @@
 # Waves
 
-> Transmission of energy
+> Transmission of energy \
+> without transferring matter
 
 ### Transverse waves
 
 ![Transverse wave](images/transverse-wave.jpg)
 
-> **Oscillations <u>perpendicular</u> to direction of travel**
+> **Vibrations <u>perpendicular</u> to direction of travel**
 
 <p></p>
 Examples
@@ -19,7 +20,7 @@ Examples
 
 ![Longitudinal wave](images/longitudinal-wave.jpg)
 
-> **Oscillations <u>parallel</u> to direction of travel** \
+> **Vibrations <u>parallel</u> to direction of travel** \
 > **Compressions** - part of wave with high **pressure** and molecules are closer together \
 > **Rarefactions** - part of wave with low **pressure** and molecules are further apart
 
@@ -64,11 +65,11 @@ Examples
 
 ## Speed of waves
 
-| Wave                         | Medium | Speed                   |
-| ---------------------------- | ------ | ----------------------- |
-| Light (Electromagnetic wave) | Vacuum | $3\cdot10^8~\text{m/s}$ |
-| Sound                        | Air    | $340~\text{m/s}$        |
-| Sound                        | Water  | $1500~\text{m/s}$       |
+| Wave                         | Medium | Speed                     |
+| ---------------------------- | ------ | ------------------------- |
+| Light (Electromagnetic wave) | Vacuum | $3.0\cdot10^8~\text{m/s}$ |
+| Sound                        | Air    | $340~\text{m/s}$          |
+| Sound                        | Water  | $1500~\text{m/s}$         |
 
 ## Water waves (effects)
 

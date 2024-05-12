@@ -24,7 +24,7 @@
 > $$
 >
 > Unit: Volt (V) \
-> Energy per charge
+> Work done per charge
 
 ### p.d.
 

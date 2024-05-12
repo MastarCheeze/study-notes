@@ -2,7 +2,7 @@
 
 $$
 \begin{align*}
-  \text{light speed} &= 3 \cdot 10^8 \text{~m/s} \\
+  \text{light speed} &= 3.0 \cdot 10^8 \text{~m/s} \\
   \text{light year} &= 9.5 \cdot 10^{15} \text{~m}
 \end{align*}
 $$
@@ -14,7 +14,10 @@ $$
     -   Creation of matter
 -   Galaxies moving apart
 -   Cosmic microwave background radiation (CMBR)
-    -   Remnants of radiation from Big Bang
+    -   Microwave radiation at all points in space
+    -   Produced shortly after Big Bang
+    -   Radiation expanded into microwave region
+    -   Evidence that universe is expanding
 
 ## Redshift
 
@@ -30,6 +33,11 @@ $$
   \mathrm{Hubble~constant} &= \mathrm{\frac{speed~of~galaxy~moving~away~from~Earth}{distance~of~galaxy~from~Earth}}
 \end{align*}
 $$
+
+> -   $v$ can be found from change of wavelength (caused by redshift)
+> -   $d$ can be found from brightness of supernova
+
+<br>
 
 derived from above and $v=\frac{d}{t}$
 

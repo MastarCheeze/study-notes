@@ -6,7 +6,7 @@
 
 #### Current same
 
-$A=A_1=A_2=\dots=A_n$
+$I=I_1=I_2=\dots=I_n$
 
 #### Voltage added
 
@@ -20,7 +20,7 @@ $R=R_1+R_2+\dots+R_n$
 
 #### Current added
 
-$A=A_1+A_2+\dots+A_n$
+$I=I_1+I_2+\dots+I_n$
 
 #### Voltage same
 

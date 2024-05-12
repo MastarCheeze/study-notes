@@ -1,24 +1,25 @@
 # Radiation
 
-|                     | Alpha                                                                                              | Beta                                                                                  | Gamma                                                                               |
-| ------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| Particle            | ![Alpha particle](images/radiation-alpha-particle.png) <br> 2 protons, 2 neutrons (helium nucleus) | ![Beta particle](images/radiation-beta-particle.png) <br> 1 electron <br><br><br><br> | ![Gamma ray](images/radiation-gamma-ray.png) <br> electromagnetic wave <br><br><br> |
-| Symbol              | $\mathrm{^{4}_{2}\alpha}$                                                                          | $\mathrm{^{~~~0}_{-1}\beta}$                                                          | $\gamma$                                                                            |
-| Relative charge[^1] | +2                                                                                                 | -1                                                                                    | 0                                                                                   |
-| Mass[^2]            | 4                                                                                                  | 1/1840                                                                                | 0                                                                                   |
-| Ionising power      | High                                                                                               | Medium                                                                                | Low                                                                                 |
-| Penetrating power   | Low                                                                                                | Medium                                                                                | High                                                                                |
-| Stopped by          | Paper                                                                                              | Aluminium <nobr>(1 cm)</nobr>                                                         | Lead <nobr>(10 cm)</nobr>                                                           |
-| Range in air        | Several cm                                                                                         | Several m                                                                             | Several km                                                                          |
+|                         | Alpha                                                                                              | Beta                                                                                  | Gamma                                                                               |
+| ----------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Particle**            | ![Alpha particle](images/radiation-alpha-particle.png) <br> 2 protons, 2 neutrons (helium nucleus) | ![Beta particle](images/radiation-beta-particle.png) <br> 1 electron <br><br><br><br> | ![Gamma ray](images/radiation-gamma-ray.png) <br> electromagnetic wave <br><br><br> |
+| **Symbol**              | $\mathrm{^{4}_{2}\alpha}$                                                                          | $\mathrm{^{~~~0}_{-1}\beta}$                                                          | $\gamma$                                                                            |
+| **Relative charge[^1]** | +2                                                                                                 | -1                                                                                    | 0                                                                                   |
+| **Mass[^2]**            | 4                                                                                                  | 1/1840                                                                                | 0                                                                                   |
+| **Ionising power**      | High                                                                                               | Medium                                                                                | Low                                                                                 |
+| **Penetrating power**   | Low                                                                                                | Medium                                                                                | High                                                                                |
+| **Stopped by**          | Paper                                                                                              | Aluminium <nobr>(1 cm)</nobr>                                                         | Lead <nobr>(10 cm)</nobr>                                                           |
+| **Range in air**        | Several cm                                                                                         | Several m                                                                             | Several km                                                                          |
+| **Uses**                | - Smoke detector                                                                                   | - Thickness control (aluminium, paper)                                                | - Sterilising medical equipment <br> - Killing bacteria in food <br> - Treat cancer |
 
 > **Ionising power** of $\alpha$ is highest because\
-> \- More KE \
-> \- More charge
+> \- Highest KE \
+> \- Highest charge
 
 ## Radioactive Decay
 
-> Unstable nuclei \
-> Too many neutron
+> Random/spontaneous process \
+> Unstable nuclei (too many neutrons)
 
 > **Half-life** \
 > Time taken for half the nuclei to decay
@@ -62,6 +63,18 @@ Direction of conventional current is opposite to electron flow (beta)
 ---
 
 <br>
+
+## Background Radiation
+
+> Radiation from the environment that is always present
+
+<p></p>
+Sources:
+
+-   Radon gas in the air
+-   Cosmic rays
+-   Rocks and buildings
+-   Food and drink
 
 ## Irradiation vs Contamination \*
 
