@@ -36,7 +36,7 @@
 
 ### What is acceleration
 
--   Rate of change of **increase** of **velocity**
+-   Positive rate of change of of **velocity**
 
 ### What is deceleration
 
@@ -159,21 +159,22 @@ Total kinetic and potential energy of all molecules
 
 ### What is transverse wave
 
-Oscillations perpendicular to direction of travel
+Vibrations perpendicular to direction of travel
 
 ### What is longitudinal wave
 
-Oscillations parallel to direction of travel
-
-### What is rarefaction
-
-Part of wave where **pressure** is low \
-and molecules are closer together
+Vibrations parallel to direction of travel \
+and have compressions and rarefactions
 
 ### What is compression
 
 Part of wave where **pressure** is high \
 and molecules are further apart
+
+### What is rarefaction
+
+Part of wave where **pressure** is low \
+and molecules are closer together
 
 ### What is critical angle
 
@@ -250,6 +251,7 @@ Place magnet in coil with AC, slowly reduce current to 0
 -   Less noise
 -   Faster transmission
 -   Longer distance of transmission
+    -   Signals can be regenerated accurately
 
 ### What is renewable
 
@@ -268,12 +270,6 @@ Fewer excess neutrons in nucleus
 
 -   Angles of exposure to sun rays vary
 -   Duration of day/night vary
-
-### How to determine distance of celestial object from Earth
-
--   Change in wavelength
--   Redshift
--   Brightness
 
 ### What can be deduced from CMBR
 
