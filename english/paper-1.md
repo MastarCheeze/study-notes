@@ -42,8 +42,8 @@ Explain the **implicit** meaning of the words. This is not just writing a synony
 
 -   Always use examples of **imagery**.
 -   **Imagination** is key. Write as much as you can imagine.
--   Focus on **connotations**. Link the phrases used things/actions.
--   Phrases are recommended to be within 1-3 words
+-   Focus on **connotations**. Link the phrases used to things/actions.
+-   Phrases are recommended to be within 1-5 words
 
 ### (c) 3 marker writers effect
 

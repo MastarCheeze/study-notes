@@ -2,7 +2,7 @@
 
 Find main points from the text and write it in 1 paragraph only. Must not exceed 130 words.
 
-Usually 10-12 points. If there are 2 focuses, 5-6 points for each focus.
+Usually 10-12 points. If there are 2 focuses, split the points according to their importance/frequency in the text.
 
 Must use your own words, but do not change the meaning of the point too much. A negative point can be flipped positive and vice versa to be used in the summary.
 
