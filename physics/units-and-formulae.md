@@ -64,6 +64,7 @@ $$
 \begin{align*}
   \tag*{\scriptsize (Newton's 2nd law)} F &= ma \\
   p &= mv \\
+  \Delta p &= m(v-u) \\
   \Delta p &= Ft \\
   F &= \frac{\Delta p}{t} = \frac{m(v-u)}{t} \\
   \tag*{\scriptsize ~~~~~~~~~~~~~~~~~~~(weight)} F &= mg \\

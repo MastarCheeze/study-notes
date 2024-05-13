@@ -7,10 +7,20 @@
 > \end{align*}
 > $$
 >
-> Unit: kg m/s (N s) \
+> Unit: kg m/s \
 > 1N of force applied for 1s
 
 ## Impulse
+
+> $$
+> \begin{align*}
+>   \Delta p &= m(v-u) \\
+>   \mathrm{impulse} &= \mathrm{mass \cdot (final~velocity - initial~velocity)}
+> \end{align*}
+> $$
+>
+> Unit: kg m/s \
+> Change in momentum
 
 > $$
 > \begin{align*}
@@ -19,10 +29,9 @@
 > \end{align*}
 > $$
 >
-> Unit: N s (kg m/s) \
-> Change in momentum
+> Unit: N s
 
-## Resultant force
+Derived from both equations above:
 
 > $$
 > \begin{align*}
