@@ -41,7 +41,7 @@ $$\ce{^{226}_{88}Ra -> ^{222}_{86}Rn + ^{4}_{2}\alpha}$$
 
 1 neutron turns into 1 proton and 1 electron, loses electron
 
-$$\ce{^{131}_{53}I -> ^{131}_{54}Xe + ^{~0}_{-1}\beta}$$
+$$\ce{^{131}_{53}I -> ^{131}_{54}Xe + ^{0}_{-1}\beta}$$
 
 ## Deflection
 

@@ -67,7 +67,7 @@ $$
   \Delta p &= m(v-u) \\
   \Delta p &= Ft \\
   F &= \frac{\Delta p}{t} = \frac{m(v-u)}{t} \\
-  \tag*{\scriptsize ~~~~~~~~~~~~~~~~~~~(weight)} F &= mg \\
+  \tag*{\scriptsize ~~~~~~~~~~~~~~~~~~~(weight)} W &= mg \\
   \tag*{\scriptsize ~~~(moment of force)} M &= Fd \\
 \end{align*}
 $$
@@ -162,7 +162,7 @@ $$
 $$
 \begin{align*}
   \tag*{\scriptsize (Snell's law)} n &= \frac{c}{v} = \frac{\sin i}{\sin r} \\
-  n &= \frac{\sin 90\degree}{\sin c} = \frac{1}{\sin c} \\
+  n &= \frac{1}{\sin c} \\
 \end{align*}
 $$
 

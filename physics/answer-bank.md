@@ -118,7 +118,7 @@ Force of gravity acting on an object
 
 ### Why forward force changes when maintaining uniform acceleration
 
-Friction increases as speed increases
+Friction increases as velocity increases
 
 ### What is limit of proportionality
 
@@ -169,12 +169,12 @@ and have compressions and rarefactions
 ### What is compression
 
 Part of wave where **pressure** is high \
-and molecules are further apart
+and molecules are closer together
 
 ### What is rarefaction
 
 Part of wave where **pressure** is low \
-and molecules are closer together
+and molecules are further apart
 
 ### What is critical angle
 
@@ -248,10 +248,10 @@ Place magnet in coil with AC, slowly reduce current to 0
 
 ### Advantages of using digital signals instead of analogue
 
--   Less noise
--   Faster transmission
--   Longer distance of transmission
+-   Higher transmission rate
+-   Longer transmission distance
     -   Signals can be regenerated accurately
+    -   Less noise
 
 ### What is renewable
 

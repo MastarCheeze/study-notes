@@ -21,8 +21,8 @@ Examples
 ![Longitudinal wave](images/longitudinal-wave.jpg)
 
 > **Vibrations <u>parallel</u> to direction of travel** \
-> **Compressions** - part of wave with high **pressure** and molecules are closer together \
-> **Rarefactions** - part of wave with low **pressure** and molecules are further apart
+> **Compressions** - part of wave with **high pressure** and molecules are **closer together** \
+> **Rarefactions** - part of wave with **low pressure** and molecules are **further apart**
 
 <p></p>
 Examples
@@ -94,9 +94,7 @@ Examples
 
 ![Wave diffraction](images/wave-diffraction.png)
 
--   More diffraction if
-    -   Wavelength longer
-    -   Gap equal to wavelength
+-   Most diffraction when gap width =' wavelength
 
 ## Electromagnetic spectrum
 
@@ -115,7 +113,7 @@ Examples
 
 | Wave          | Uses                                                                                                                                                                                                                 |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Gamma rays    | <ul><li>Detection/treatment of cancer</li><li>Sterilising food</li><li>Sterilising medical equipment</li></ul>                                                                                                       |
+| Gamma rays    | <ul><li>Detection/treatment of cancer</li><li>Killing bacteria in food</li><li>Sterilising medical equipment</li></ul>                                                                                               |
 | X-rays        | <ul><li>Medical scanner (bones)</li><li>Security scanner (luggage)</li><li>Metal scanner (reveal flaws in metal)</li></ul>                                                                                           |
 | Ultraviolet   | <ul><li>Fluorescent materials<ul><li>Bank note markings</li><li>Security marker pens</li></ul></li><li>Sterilising water</li></ul>                                                                                   |
 | Visible light | <ul><li>Photography</li><li>Optical fibres<ul><li>Telecommunications</li><li>Medical imaging (endoscope)</li></ul></li></ul>                                                                                         |
