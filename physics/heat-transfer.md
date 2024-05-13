@@ -52,8 +52,8 @@ Land breeze
 
 $$
 \begin{align*}
-  \mathrm{surface~area} &\propto \mathrm{energy~radiated} \\
-  \mathrm{temperature} &\propto \mathrm{energy~radiated}
+  \mathrm{energy~radiated} &\propto \mathrm{surface~area} \\
+  \mathrm{energy~radiated} &\propto \mathrm{temperature}
 \end{align*}
 $$
 

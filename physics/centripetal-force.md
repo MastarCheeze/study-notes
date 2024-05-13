@@ -5,9 +5,9 @@ Makes object move in circle
 
 $$
 \begin{align*}
-  \mathrm{mass} &\propto \mathrm{centripetal~force} \\
-  \mathrm{speed} &\propto \mathrm{centripetal~force} \\
-  \mathrm{radius} &\propto \frac{1}{\mathrm{centripetal~force}}
+  \mathrm{centripetal~force} &\propto \mathrm{mass} \\
+  \mathrm{centripetal~force} &\propto \mathrm{speed} \\
+  \mathrm{centripetal~force} &\propto \frac{1}{\mathrm{radius}}
 \end{align*}
 $$
 

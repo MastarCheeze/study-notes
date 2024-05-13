@@ -33,11 +33,11 @@
 
 ### Thermistor
 
-$\displaystyle \mathrm{temperature} \propto \mathrm{\frac{1}{resistance}} \text{ \scriptsize(semiconductors)}$
+$\displaystyle \mathrm{resistance} \propto \mathrm{\frac{1}{temperature}} \text{ \scriptsize(semiconductors)}$
 
 ### LDR
 
-$\displaystyle \mathrm{luminous~intensity} \propto \mathrm{\frac{1}{resistance}}$
+$\displaystyle \mathrm{resistance} \propto \mathrm{\frac{1}{luminous~intensity}}$
 
 ## Current-voltage graphs
 

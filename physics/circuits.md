@@ -45,8 +45,8 @@ Delivers only a proportion of voltage from a battery
 >   \frac{V_{\text{in}}}{R_\text{total}} &= \frac{V_{\text{out}}}{R_\text{out}} \\
 >   \frac{V_{\text{in}}}{R_1+R_2} &= \frac{V_{\text{out}}}{R_1} \\
 >   \\
->   R_1 &\propto V_{\text{out}} \\
->   R_2 &\propto \frac{1}{V_{\text{out}}}
+>   V_{\text{out}} &\propto R_1 \\
+>   V_{\text{out}} &\propto \frac{1}{R_2}
 > \end{align*}
 > $$
 

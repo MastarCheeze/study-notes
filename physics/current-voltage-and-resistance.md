@@ -45,12 +45,12 @@ through the <u>whole circuit</u>
 
 $$
 \begin{align*}
-  \mathrm{length} &\propto \mathrm{resistance} \\
-  \mathrm{cross~sectional~area} &\propto \mathrm{\frac{1}{resistance}} \\
-  \mathrm{diameter} &\propto \mathrm{\frac{1}{resistance^2}} \\
-  \mathrm{radius} &\propto \mathrm{\frac{1}{resistance^2}} \\
-  \mathrm{temperature} &\propto \mathrm{resistance} \text{ \scriptsize(conductors)} \\
-  \mathrm{temperature} &\propto \mathrm{\frac{1}{resistance}} \text{ \scriptsize(semiconductors)} \\
+  \mathrm{resistance} &\propto \mathrm{length} \\
+  \mathrm{resistance} &\propto \mathrm{\frac{1}{cross~sectional~area}} \\
+  \mathrm{resistance} &\propto \mathrm{\frac{1}{diameter^2}} \\
+  \mathrm{resistance} &\propto \mathrm{\frac{1}{radius^2}} \\
+  \mathrm{resistance} &\propto \mathrm{temperature} \text{ \scriptsize(conductors)} \\
+  \mathrm{resistance} &\propto \mathrm{\frac{1}{temperature}} \text{ \scriptsize(semiconductors)} \\
   \mathrm{material}
 \end{align*}
 $$
