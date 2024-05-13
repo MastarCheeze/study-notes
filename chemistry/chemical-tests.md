@@ -31,14 +31,14 @@ Turns **acidified aqueous potassium manganate (VII)** from purple to colourless
 
 ## Water tests
 
-#### Copper (II) Sulfate
+#### Anhydrous copper (II) sulfate
 
 Anhydrous copper (II) sulfate turns from white to blue \
 $\ce{\underset{white}{CuSO4} + 5H2O <=> \underset{blue}{CuSO4.5H2O}}$
 
 ![Anhydrous and hydrated copper (II) sulfate](images/copper-ii-sulfate.png)
 
-#### Cobalt (II) chloride
+#### Anhydrous cobalt (II) chloride
 
 Anhydrous cobalt (II) chloride paper turns from blue to pink \
 $\ce{\underset{blue}{CoCl2} + 6H2O <=> \underset{pink}{CoCl2.6H2O}}$

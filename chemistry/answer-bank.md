@@ -229,6 +229,10 @@ Remove water
 
 Insoluble
 
+### What to use to drop dye
+
+Dropping pipette
+
 ### When to remove chromatography paper
 
 When solvent is almost at the top
@@ -243,7 +247,7 @@ Chromatography
 
 ### How to know water is fully given off
 
--   Heat and reweigh
+-   Heat and weight repeatedly
 -   Until constant mass
 
 ### How to do flame test
@@ -252,3 +256,7 @@ Chromatography
 -   Blue flame
 -   Put splint into flame
 -   Observe colour of flame
+
+### How to make hottest flame
+
+Open air hole completely
