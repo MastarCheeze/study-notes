@@ -201,7 +201,7 @@ $$
   c &= 3.0\cdot10^8 \text{ m/s} \\
   \text{sound \scriptsize(air)} &= 340 \text{ m/s} \\
   \text{sound \scriptsize(water)} &= 1500 \text{ m/s} \\
-  \tag*{\scriptsize (Hubble constant)} H_0 &= 2.3 \cdot 10^{-18} \text{ s}^{-1} \\
+  \tag*{\scriptsize (Hubble constant)} H_0 &= 2.2 \cdot 10^{-18} \text{ s}^{-1} \\
   \text{light year} &= 9.5 \cdot 10^{15} \text{ m}
 \end{align*}
 $$
