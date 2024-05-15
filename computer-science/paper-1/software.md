@@ -56,11 +56,13 @@
 
 #### Process
 
-1. After each FDE cycle, [IH](#ih) (processor) checks interrupt queue for higher priority interrupt
-2. Stores current process
-3. Calls [ISR](#isr)
-4. When finished, stored process returned to memory
-5. Repeat
+1. Hardware generates interrupt
+2. Interrupt given priority stored in interrupt queue
+3. After each FDE cycle, [IH](#ih) (processor) checks interrupt queue for higher priority interrupt
+4. Stores current process
+5. Calls [ISR](#isr)
+6. When finished, stored process returned to memory
+7. Repeat
 
 ### IH[^IH]
 

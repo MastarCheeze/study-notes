@@ -41,7 +41,7 @@ Types
 -   Inference engine
     -   Apply **rule base** to **knowledge base** \
         to provide results/diagnosis
-    -   Decides what to ask next
+    -   Makes dicisions / decides what to ask next
 -   Interface
     -   Input data
     -   View output

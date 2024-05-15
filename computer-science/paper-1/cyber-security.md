@@ -24,7 +24,8 @@
 
 ## Brute-force attack
 
-> **Repeatedly** guessing combinations of passwords until correct one is found \
+> Trial and error \
+> **Repeatedly** guessing **combinations** of passwords until correct one is found \
 > Can be manual/automated
 
 #### Prevention
