@@ -151,7 +151,7 @@
 -   Changing regularly
 -   Limiting number of tries
 
-#### Used for
+#### Used to prevent
 
 -   [Brute-force attack](#brute-force-attack)
 -   [Hacking](#hacking)
@@ -171,7 +171,7 @@
     -   Retina recognition
     -   Voice recognition
 
-#### Used for
+#### Used to prevent
 
 -   [Brute-force attack](#brute-force-attack)
 -   [Hacking](#hacking)
@@ -183,7 +183,7 @@
 -   Verification code sent to email/phone
     -   Difficult for perpetrator to obtain
 
-#### Used for
+#### Used to prevent
 
 -   [Brute-force attack](#brute-force-attack)
 -   [Hacking](#hacking)
@@ -201,7 +201,7 @@
     -   Anti-virus
     -   Anti-spyware
 
-#### Used for
+#### Used to prevent
 
 -   [Malware](#malware)
 -   [DDoS attack](#ddos-attack)
@@ -224,7 +224,7 @@
 -   Notify user of blocks
 -   Logs all blocks
 
-#### Used for
+#### Used to prevent
 
 -   [Malware](#malware)
 -   [Hacking](#hacking)
@@ -244,7 +244,7 @@ Results:
 -   Reduce number of requests to web server
 -   Prevent web server from overloading
 
-#### Used for
+#### Used to prevent
 
 -   [DDoS attack](#ddos-attack)
 
@@ -257,7 +257,7 @@ Results:
 > -   Limit data that can be edited
 > -   Linked to a account / username
 
-#### Used for
+#### Used to prevent
 
 -   [Social engineering](#social-engineering)
 

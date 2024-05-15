@@ -32,6 +32,8 @@
 
 -   16-bit binary
 -   65536 characters
+-   Many languages
+-   Emojis
 
 ## Images
 
@@ -81,17 +83,17 @@
 
 ## Units
 
-|                 |            |                      |
-| --------------- | ---------- | -------------------- |
-| Bit             |            |                      |
-| Nibble          | 4 bits     |                      |
-| Byte            | 8 bits     |                      |
-| Kibibtye (KiB)  | 1024 bytes | 2<sup>10</sup> bytes |
-| Mebibtye (MiB)  | 1024 KiB   | 2<sup>20</sup> bytes |
-| Gibibtye (GiB)  | 1024 MiB   | 2<sup>30</sup> bytes |
-| Tebibtye (TiB)  | 1024 GiB   | 2<sup>40</sup> bytes |
-| Pebibtye (PiB)  | 1024 TiB   | 2<sup>50</sup> bytes |
-| Exibibtye (EiB) | 1024 EiB   | 2<sup>60</sup> bytes |
+|                |            |                      |
+| -------------- | ---------- | -------------------- |
+| Bit            |            |                      |
+| Nibble         | 4 bits     |                      |
+| Byte           | 8 bits     |                      |
+| Kibibtye (KiB) | 1024 bytes | 2<sup>10</sup> bytes |
+| Mebibtye (MiB) | 1024 KiB   | 2<sup>20</sup> bytes |
+| Gibibtye (GiB) | 1024 MiB   | 2<sup>30</sup> bytes |
+| Tebibtye (TiB) | 1024 GiB   | 2<sup>40</sup> bytes |
+| Pebibtye (PiB) | 1024 TiB   | 2<sup>50</sup> bytes |
+| Exbibtye (EiB) | 1024 EiB   | 2<sup>60</sup> bytes |
 
 ## Compression
 

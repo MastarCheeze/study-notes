@@ -6,6 +6,7 @@
 ## Advantages
 
 -   Can be processed by computers
+    -   Transistors can only store 0 and 1
 
 ## Operations
 

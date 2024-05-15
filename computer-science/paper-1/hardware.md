@@ -136,7 +136,7 @@
     - send to [RAM](#primary) via [Address bus](#address-bus)
 3. [RAM](#primary) retrieves data/instruction
     - copied to [MDR](#mdr) via [Data bus](#data-bus)
-4. **[MDR](#mdr)** temporarily holds address of data/instruction (fetched from [RAM](#primary))
+4. **[MDR](#mdr)** temporarily holds data/instruction (fetched from [RAM](#primary))
     - send to [CIR](#cir) via [Data bus](#data-bus)
 5. **[CIR](#cir)** stores current instruction (being processed)
     - send to [CU](#cu) via [Data bus](#data-bus)

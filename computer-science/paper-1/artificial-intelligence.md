@@ -27,7 +27,7 @@ Types
 -   [Supervised](../misc/machine-learning/types.md#supervised-learning)
     -   Training data is labelled
 -   [Unsupervised](../misc/machine-learning/types.md#unsupervised-learning)
-    -   Training data is not labelled
+    -   Training data is unlabelled
 
 ## Expert system
 

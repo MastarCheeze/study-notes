@@ -3,7 +3,7 @@
 -   [Internet](#internet)
     -   [Internet](#internet-1)
     -   [World wide web](#world-wide-web)
-    -   [NIC](#nicnic)
+    -   [NIC](#nic)
     -   [Router](#router)
         -   [Packets](#packets)
         -   [Packet switching](#packet-switching)
@@ -84,7 +84,7 @@
 
 ## MAC address[^MAC]
 
-> Unique address
+> Unique address \
 > Identify device on network \
 > Assigned to NIC by manufacturer \
 > Static
@@ -93,7 +93,7 @@
 
 -   48-bit
 -   Hexadecimal
--   Manufacturer id + serial number
+-   Manufacturer code + serial code
 
 ## IP address[^IP]
 

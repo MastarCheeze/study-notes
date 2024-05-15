@@ -2,18 +2,11 @@
 
 > Performs actions without human interaction
 
-## Sensor
-
-> Measure environment
-
-## Microprocessor
-
-> Process data \
-> Determine action to take
-
-## Actuator
-
-> Create actions
+|                    |                                            |
+| ------------------ | ------------------------------------------ |
+| **Sensor**         | Measure environment                        |
+| **Microprocessor** | Process data <br> Determine action to take |
+| **Actuator**       | Create actions                             |
 
 <br>
 
