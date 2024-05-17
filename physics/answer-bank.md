@@ -330,6 +330,7 @@ Fewer excess neutrons in nucleus
 > -   2+ control variables
 > -   5+ sets of data taken
 > -   Repeat with different [*Independent*]
+> -   Take average (if can)
 >
 > **Analysis at the end of the answer:**
 >
