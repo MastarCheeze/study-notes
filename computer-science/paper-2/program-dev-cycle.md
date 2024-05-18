@@ -27,13 +27,22 @@ Types:
 ### Decomposition
 
 Split a system into sub-systems, \
-split sub-systems into smaller sub-systems
+split sub-systems into smaller sub-systems \
+
+-   Input
+-   Output
+-   Process
+-   Storage
+
+(see [Structure diagram](#structure-diagram))
 
 ### Abstraction
 
 Simplifying \
 Select important elements \
 Removing unneccesary characteristics from elements
+
+### Identifying requirements
 
 ## 2. Design
 
@@ -55,13 +64,10 @@ See [Pseudocode](./pseudocode.md)
 
 > Writing program
 
+Iterative testing is carried out also
+
 ## 4. Testing
 
-> Detect/fix errors
+> Detect/fix **runtime** errors
 
-| Test data |                                                                                                |
-| --------- | ---------------------------------------------------------------------------------------------- |
-| Normal    | **Accepted** by program                                                                        |
-| Abnormal  | **Rejected** by program                                                                        |
-| Extreme   | On the edge of what is allowed, **accepted** by program                                        |
-| Boundary  | On the edge of what is allowed, both **accepted** & **rejected** by program <br> Need 2 values |
+see [Validation, verification and test data](./validation-verification-and-test-data.md)

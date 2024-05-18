@@ -2,16 +2,18 @@
 
 #### Data types
 
-|           |                |
-| --------- | -------------- |
-| Text      | "Bob"          |
-| Character | "B"            |
-| Boolean   | `TRUE` `FALSE` |
-| Integer   | 42             |
-| Real      | 3.142          |
-| Date/time |                |
+|                     |                                   |
+| ------------------- | --------------------------------- |
+| Text / Alphanumeric | "Bob"                             |
+| Character           | "B"                               |
+| Boolean             | `TRUE` `FALSE` <br> or `Yes` `No` |
+| Integer             | 42                                |
+| Real                | 3.142                             |
+| Date/time[^1]       |                                   |
 
-#### Comparison
+[^1]: 'Date/time' is one word
+
+#### Comparison operators
 
 |      |                          |
 | ---- | ------------------------ |
@@ -22,7 +24,7 @@
 | `>=` | greater than or equal to |
 | `<>` | not equal to             |
 
-#### Boolean
+#### Boolean operators
 
 `AND` &emsp; `OR`
 

@@ -109,10 +109,14 @@ Maximum number of FDE cycles a CPU can perform in a second
 
 # Paper 2
 
+> ### Explain purpose of function
+>
+> Can give examples: `7 MOD 2 = 1`
+>
 > ### Test data
 >
-> -   Normal data - should be accepted
-> -   Abmornal data - should be rejected
+> -   Normal data - within range **and** should be accepted
+> -   Abmornal data - out of range **and** should be rejected
 >
 > ### Purpose of algorithm
 >
@@ -120,9 +124,19 @@ Maximum number of FDE cycles a CPU can perform in a second
 > -   _Do some stuff_
 > -   Output [*stuff*]
 >
-> ### Describe how code/algorithm should be changed
+> ### Describe how code/algorithm should be changed/corrected
 >
-> Always include line number / where to insert
+> <p></p>
+> Always include:
+>
+> -   Line number / where to insert
+> -   Pseudocode
+>
+> ### 15 Marker
+>
+> -   Syntax doesn't have to be perfect
+> -   Add comments as much as possible
+> -   Leave space at the start for declarations
 
 ### What happens when a function is called
 
@@ -145,11 +159,15 @@ Maximum number of FDE cycles a CPU can perform in a second
 -   Meaningful identifiers
     -   Identify purpose of...
     -   variable, constant, array, procedure
--   Indentation & white space
-    -   Readable
 -   Procedures & functions
     -   Avoid repeated code
     -   Simplify logic
+-   Indentation & white space
+    -   Readable
+
+### Why is field suitable for primary key
+
+Unique identifier
 
 <br><br>
 

@@ -2,14 +2,14 @@
 
 ## Data types
 
-|                        |                      |
-| ---------------------- | -------------------- |
-| `INTEGER`              | `5`, `-3`            |
-| `REAL`                 | `4.7`, `-8.0`, `0.0` |
-| `CHAR`                 | `'x'`, `'@'`         |
-| `STRING`               | `"foo"`, `"bar"`     |
-| `BOOLEAN`              | `TRUE`, `FALSE`      |
-| `ARRAY OF <data type>` |                      |
+|                    |                      |
+| ------------------ | -------------------- |
+| `INTEGER`          | `5`, `-3`            |
+| `REAL`             | `4.7`, `-8.0`, `0.0` |
+| `CHAR`             | `'x'`, `'@'`         |
+| `STRING`           | `"foo"`, `"bar"`     |
+| `BOOLEAN`          | `TRUE`, `FALSE`      |
+| `ARRAY OF <dtype>` |                      |
 
 ## Arithmetic
 
