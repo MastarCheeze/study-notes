@@ -13,6 +13,6 @@ Easy to understand purpose/logic of code
 Modularisation, code can be reused \
 Simplify logic
 
-# Indentation & white space
+## Indentation & white space
 
 More readable

@@ -21,7 +21,7 @@
 | `/`           | division                    |
 | `^`           | power                       |
 | `DIV(a, b)`   | floor division              |
-| `MOD(a, b)`   | modulus                     |
+| `MOD(a, b)`   | modulo                      |
 | `ROUND(a, b)` | round to `b` decimal places |
 
 ## Comparison
@@ -53,6 +53,8 @@
 // Variables
 DECLARE Variable : INTEGER
 Variable <- 42
+
+DECLARE Num1, Num2, Num3 : INTEGER
 
 // Constants
 CONSTANT Pi <- 3.142
@@ -91,7 +93,7 @@ LCASE("Spam Ham and Eggs")  // "spam ham and eggs"
 UCASE("Spam Ham and Eggs")  // "SPAM HAM AND EGGS"
 
 // (1-indexed)
-SUBSTRING("Spam Ham and Eggs", 1, 4)  // "Spam"
+SUBSTRING("Spam Ham and Eggs", 6, 3)  // "Ham"
 ```
 
 ## Random

@@ -5,7 +5,7 @@
 |                     |                                   |
 | ------------------- | --------------------------------- |
 | Text / Alphanumeric | "Bob"                             |
-| Character           | "B"                               |
+| Character           | 'B'                               |
 | Boolean             | `TRUE` `FALSE` <br> or `Yes` `No` |
 | Integer             | 42                                |
 | Real                | 3.142                             |

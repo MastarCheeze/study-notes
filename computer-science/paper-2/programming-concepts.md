@@ -62,7 +62,7 @@
 | Declared outside of any functions | Declared inside a function                          |
 | Accessed anywhere                 | Accessed only within the function it is declared in |
 
-# Library routines (built-in functions)
+# Library routines <small><sup><sub>(built-in functions)</sub></sup></small>
 
 |            |                                                                |
 | ---------- | -------------------------------------------------------------- |

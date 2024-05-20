@@ -24,9 +24,11 @@ ENDWHILE
 
 ## Bubble sort
 
+Loop through whole array
+
 ```
-FOR I <- 1 TO N
-    FOR J <- 0 TO N-1
+FOR I <- 1 TO N-1
+    FOR J <- 1 TO N-I
         IF Array[J] > Array[J+1] THEN
             Temp <- Array[J]
             Array[J] <- Array[J+1]
@@ -34,6 +36,24 @@ FOR I <- 1 TO N
         ENDIF
     NEXT J
 NEXT I
+```
+
+Stop when array is sorted
+
+```
+I <- 1
+REPEAT
+    Changed <- FALSE
+    FOR J <- 1 TO N-I
+        IF Array[J] > Array[J+1] THEN
+            Temp <- Array[J]
+            Array[J] <- Array[J+1]
+            Array[J+1] <- Temp
+            Changed <- TRUE
+        ENDIF
+    NEXT J
+    I <- I + 1
+UNTIL Changed = FALSE OR I > N-1
 ```
 
 Video: [Michael Sambol](https://youtu.be/xli_FI7CuzA?si=Z0B6BmNTOU4hIpx9)

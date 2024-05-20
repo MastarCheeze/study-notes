@@ -1,6 +1,7 @@
 -   [1. Analysis](#1-analysis)
     -   [Decomposition](#decomposition)
     -   [Abstraction](#abstraction)
+    -   [Identifying requirements](#identifying-requirements)
 -   [2. Design](#2-design)
     -   [Structure diagram](#structure-diagram)
     -   [Flowchart](#flowchart)
@@ -27,7 +28,7 @@ Types:
 ### Decomposition
 
 Split a system into sub-systems, \
-split sub-systems into smaller sub-systems \
+split sub-systems into smaller sub-systems
 
 -   Input
 -   Output
