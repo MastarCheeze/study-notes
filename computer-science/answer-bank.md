@@ -151,20 +151,6 @@ Maximum number of FDE cycles a CPU can perform in a second
 -   Can be transferred between computers
 -   Can create copy of data
 
-### How to write a maintainable program
-
--   Comments
-    -   Explain purpose of code
-    -   Explain Logic
--   Meaningful identifiers
-    -   Identify purpose of...
-    -   variable, constant, array, procedure
--   Procedures & functions
-    -   Avoid repeated code
-    -   Simplify logic
--   Indentation & white space
-    -   Readable
-
 ### Why is field suitable for primary key
 
 Unique identifier

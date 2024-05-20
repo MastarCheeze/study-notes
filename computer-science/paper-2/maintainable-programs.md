@@ -2,14 +2,17 @@
 
 ## Meaningful identifiers
 
-Easily recognise purpose of variable/function
+Easy to understand purpose of variable/constant/array/procedure
 
 ## Comments
 
-Annotation \
-Easily understand purpose of code
+Easy to understand purpose/logic of code
 
 ## Functions & procedures
 
-Modularisation \
-Reuse code, easier to update code
+Modularisation, code can be reused \
+Simplify logic
+
+# Indentation & white space
+
+More readable
