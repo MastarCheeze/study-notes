@@ -40,7 +40,7 @@
 
 # Procedures & Functions
 
-> **Parameter** - value sent into a procedure/function
+> **Parameter** - value passed into a procedure/function
 
 | Procedure                        | Function                         |
 | -------------------------------- | -------------------------------- |
@@ -48,6 +48,12 @@
 | Called using identifier          | Called using identifier          |
 | Can be passed parameters         | Can be passed parameters         |
 | Does not return a value          | Returns a value                  |
+
+## Benefits
+
+-   Modularisation, code can be reused
+-   Faster development
+-   Shorter code, more maintainable
 
 ## Scope
 
